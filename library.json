@@ -219,6 +219,15 @@
       "description": "A casino in Monte Carlo is twisting luck in its favor, gaining massive wealth while endangering its patrons in the process... Care to try your luck?"
     },
     {
+      "name": "The Midwinter Gala",
+      "url": "scenarios/midwinter_gala.json",
+      "replace": "074d4a",
+      "boxsize": "small",
+      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/2496763658556906770/B48C389EEDAA3A8FB77D380AD9A6CC8E72AD83A9/",
+      "author": "Fantasy Flight Games",
+      "description": "It’s the dead of winter, and Arkham’s social elite have arrived in mist-shrouded Kingsport for an exquisite gala hosted by the enigmatic Lantern Club. Unfortunately, it doesn’t take long before nightmarish creatures crash the festivities, and it falls to you to uncover the Club’s dark schemes!"
+    },
+    {
       "name": "Challenge Scenario: All or Nothing",
       "url": "scenarios/challenge_all_or_nothing.json",
       "replace": "72ab92",
