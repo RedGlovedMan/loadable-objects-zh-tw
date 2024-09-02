@@ -1,8 +1,8 @@
 {
-  "latestVersion": "3.9.0",
+  "latestVersion": "3.9.2",
   "releaseHighlights": [
-    "Added class-specific playermat textures",
-    "Added customizable action tokens",
-    "Added helpers for chaos token redrawing"
+    "Added personal option panel to playermats",
+    "Added buttons to ready cards in Play Area",
+    "Improved Player Card Panel to handle custom cards"
   ]
 }
