@@ -91,6 +91,15 @@
       "description": "When renowned botanist Dr. Rosa Marquez receives a strange sample from the secluded and mysterious Hemlock Isle, her instincts tell her that something is amiss. The investigators only have three days to find out what lurks beneath Hemlock Vale before its people meet a terrible fate."
     },
     {
+      "name": "The Drowned City - Player Card Preview",
+      "url": "campaigns/the_drowned_city_preview.json",
+      "replace": "197580",
+      "boxsize": "",
+      "boxart": "",
+      "author": "Fantasy Flight Games",
+      "description": "Contains the previewed / spoiled player cards for the upcoming cycle."
+    },
+    {
       "name": "Return to The Night of the Zealot",
       "url": "campaigns/return_to_notz.json",
       "replace": "56270d",
