@@ -1002,15 +1002,6 @@
       "description": "An 8 part campaign for Arkham Horror LCG based on the legend of King Arthur."
     },
     {
-      "name": "Fan Campaign: North Country Cycle",
-      "url": "fancreations/campaign_north_country_cycle.json",
-      "replace": "aaceca",
-      "boxsize": "small",
-      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/798737729142942211/3504BAF688D57DC30E7E1E2009A0FD4951D3BA58/",
-      "author": "Tim Cox (rushl)",
-      "description": "Primarily focused on lumber, the citizens of Wrotham have lived a peaceful existence. But now, they face a horror beyond their abilities. Can you help?"
-    },
-    {
       "name": "Fan Campaign: Of Sphinx and Sands",
       "url": "fancreations/campaign_of_sphinx_and_sands.json",
       "replace": "edb650",
@@ -1027,15 +1018,6 @@
       "boxart": "https://steamusercontent-a.akamaihd.net/ugc/1017195498765395843/F0F85DBE17C72D5D09BD012DEDBB9E154EB07E7B/",
       "author": "Mathieu Martin",
       "description": "The Ordo Templi Orientis is a 4-part campaign."
-    },
-    {
-      "name": "Fan Campaign: The Outsider",
-      "url": "fancreations/campaign_outsider.json",
-      "replace": "3c175c",
-      "boxsize": "small",
-      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/798737729142944372/7F67F8FDAD99C9C2A6A6A5E98C548681117D092C/",
-      "author": "Carl Stephens (CapitalBathory)",
-      "description": "A 3-part fan-made campaign"
     },
     {
       "name": "Fan Campaign: Parallel Universe",
@@ -1110,15 +1092,6 @@
       "description": "A set of five standalone scenarios intended to be used as side-stories in campaigns. Each scenario focuses on an existing player ally and gives reward cards that synergize with that ally."
     },
     {
-      "name": "Fan Scenario: Blood Spilled in Salem",
-      "url": "fancreations/scenario_salem.json",
-      "replace": "4237da",
-      "boxsize": "small",
-      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/798737729142918658/204E105211839B1E202E834F4A5C69E8E6A50A28/",
-      "author": "Colin Towle (Shiver02)",
-      "description": "Prepare to investigate the United States' most iconic occult city."
-    },
-    {
       "name": "Fan Scenario: Carnevale of Spiders",
       "url": "fancreations/scenario_carnevale_of_spiders.json",
       "replace": "e57017",
@@ -1135,15 +1108,6 @@
       "boxart": "https://github.com/ArkhamDotCards/coderedatbleedingheart/blob/main/product/enUS/coderedatbleedingheart-boxart-diffuse.png?raw=true",
       "author": "Myriad (http://arkham.cards)",
       "description": "After receiving some mysterious communications from the decrepit ruins of Bleeding Heart on the outskirts of Arkham, the investigators attempt to investigate the abandoned hospital campus."
-    },
-    {
-      "name": "Fan Scenario: The Colour out of Space",
-      "url": "fancreations/scenario_color_out_of_space.json",
-      "replace": "5b81ff",
-      "boxsize": "small",
-      "boxart": "https://steamusercontent-a.akamaihd.net/ugc/798737729142919895/4026718A421BE11AC64320BE9BC2515B364D066E/",
-      "author": "Joe Ehret",
-      "description": ""
     },
     {
       "name": "Fan Scenario: Consternation on the Constellation",
