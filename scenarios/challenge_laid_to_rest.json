@@ -7,7 +7,7 @@
     "posZ": 0,
     "rotX": 0,
     "rotY": 270,
-    "rotZ": -0,
+    "rotZ": 0,
     "scaleX": 2.21,
     "scaleY": 0.46,
     "scaleZ": 2.42
@@ -189,8 +189,8 @@
       ],
       "CustomDeck": {
         "2755": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -198,8 +198,8 @@
           "Type": 0
         },
         "2318": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -225,8 +225,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Bane of the Living",
-          "Description": "Curse. Spectral.",
+          "Nickname": "禍害生者",
+          "Description": "詛咒. 幽靈.",
           "GMNotes": "{\n  \"id\": \"05185\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse. Spectral.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -259,8 +259,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2755": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -286,8 +286,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Malevolent Spirit",
-          "Description": "Monster. Geist. Spectral.",
+          "Nickname": "惡毒邪靈",
+          "Description": "怪物. 靈怪. 幽靈.",
           "GMNotes": "{\n  \"id\": \"05180\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Geist. Spectral.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -320,8 +320,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2755": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -347,8 +347,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Burdens of the Past",
-          "Description": "Curse. Spectral.",
+          "Nickname": "往昔重擔",
+          "Description": "詛咒. 幽靈.",
           "GMNotes": "{\n  \"id\": \"05182\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse. Spectral.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -381,8 +381,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2755": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -408,8 +408,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Malevolent Spirit",
-          "Description": "Monster. Geist. Spectral.",
+          "Nickname": "惡毒邪靈",
+          "Description": "怪物. 靈怪. 幽靈.",
           "GMNotes": "{\n  \"id\": \"05180\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Geist. Spectral.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -442,8 +442,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2755": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -469,8 +469,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Bane of the Living",
-          "Description": "Curse. Spectral.",
+          "Nickname": "禍害生者",
+          "Description": "詛咒. 幽靈.",
           "GMNotes": "{\n  \"id\": \"05185\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse. Spectral.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -503,8 +503,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2755": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -530,8 +530,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Burdens of the Past",
-          "Description": "Curse. Spectral.",
+          "Nickname": "往昔重擔",
+          "Description": "詛咒. 幽靈.",
           "GMNotes": "{\n  \"id\": \"05182\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse. Spectral.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -564,8 +564,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2755": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -591,8 +591,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Fate of All Fools",
-          "Description": "Omen. Spectral.",
+          "Nickname": "愚人的命運",
+          "Description": "徵兆. 幽靈.",
           "GMNotes": "{\n  \"id\": \"05108\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Omen. Spectral.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -625,8 +625,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -652,8 +652,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Terror in the Night",
-          "Description": "Terror. Spectral.",
+          "Nickname": "恐怖夜色",
+          "Description": "恐怖. 幽靈.",
           "GMNotes": "{\n  \"id\": \"05107\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Terror. Spectral.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -686,8 +686,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -713,8 +713,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Fate of All Fools",
-          "Description": "Omen. Spectral.",
+          "Nickname": "愚人的命運",
+          "Description": "徵兆. 幽靈.",
           "GMNotes": "{\n  \"id\": \"05108\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Omen. Spectral.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -747,8 +747,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -774,8 +774,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Fate of All Fools",
-          "Description": "Omen. Spectral.",
+          "Nickname": "愚人的命運",
+          "Description": "徵兆. 幽靈.",
           "GMNotes": "{\n  \"id\": \"05108\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Omen. Spectral.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -808,8 +808,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -835,8 +835,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Terror in the Night",
-          "Description": "Terror. Spectral.",
+          "Nickname": "恐怖夜色",
+          "Description": "恐怖. 幽靈.",
           "GMNotes": "{\n  \"id\": \"05107\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Terror. Spectral.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -869,8 +869,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -896,8 +896,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Terror in the Night",
-          "Description": "Terror. Spectral.",
+          "Nickname": "恐怖夜色",
+          "Description": "恐怖. 幽靈.",
           "GMNotes": "{\n  \"id\": \"05107\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Terror. Spectral.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -930,8 +930,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -957,8 +957,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Wraith",
-          "Description": "Monster. Geist. Spectral.",
+          "Nickname": "怨靈",
+          "Description": "怪物. 靈怪. 幽靈.",
           "GMNotes": "{\n  \"id\": \"05103\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Geist. Spectral.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -991,8 +991,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1018,8 +1018,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Trapped Spirits",
-          "Description": "Terror. Spectral.",
+          "Nickname": "被困的靈魂",
+          "Description": "恐怖. 幽靈.",
           "GMNotes": "{\n  \"id\": \"05104\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Terror. Spectral.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1052,8 +1052,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1079,8 +1079,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Wraith",
-          "Description": "Monster. Geist. Spectral.",
+          "Nickname": "怨靈",
+          "Description": "怪物. 靈怪. 幽靈.",
           "GMNotes": "{\n  \"id\": \"05103\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Geist. Spectral.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1113,8 +1113,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1140,8 +1140,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Trapped Spirits",
-          "Description": "Terror. Spectral.",
+          "Nickname": "被困的靈魂",
+          "Description": "恐怖. 幽靈.",
           "GMNotes": "{\n  \"id\": \"05104\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Terror. Spectral.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1174,8 +1174,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1201,8 +1201,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Shapes in the Mist",
-          "Description": "Terror. Spectral.",
+          "Nickname": "霧中身形",
+          "Description": "恐怖. 幽靈.",
           "GMNotes": "{\n  \"id\": \"05106\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Terror. Spectral.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1235,8 +1235,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1262,8 +1262,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Realm of Torment",
-          "Description": "Terror. Spectral.",
+          "Nickname": "苦痛之地",
+          "Description": "恐怖. 幽靈.",
           "GMNotes": "{\n  \"id\": \"05105\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Terror. Spectral.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1296,8 +1296,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1323,8 +1323,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Realm of Torment",
-          "Description": "Terror. Spectral.",
+          "Nickname": "苦痛之地",
+          "Description": "恐怖. 幽靈.",
           "GMNotes": "{\n  \"id\": \"05105\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Terror. Spectral.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1357,8 +1357,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1384,8 +1384,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Shapes in the Mist",
-          "Description": "Terror. Spectral.",
+          "Nickname": "霧中身形",
+          "Description": "恐怖. 幽靈.",
           "GMNotes": "{\n  \"id\": \"05106\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Terror. Spectral.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1418,8 +1418,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1577,8 +1577,8 @@
       ],
       "CustomDeck": {
         "2318": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -1586,8 +1586,8 @@
           "Type": 0
         },
         "2755": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -1613,8 +1613,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Wracked",
-          "Description": "Hex.",
+          "Nickname": "崩毀離析",
+          "Description": "巫術.",
           "GMNotes": "{\n  \"id\": \"05093\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hex.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1647,8 +1647,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1674,8 +1674,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Bedeviled",
-          "Description": "Hex.",
+          "Nickname": "苦痛折磨",
+          "Description": "巫術.",
           "GMNotes": "{\n  \"id\": \"05094\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hex.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1708,8 +1708,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1735,8 +1735,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Bedeviled",
-          "Description": "Hex.",
+          "Nickname": "苦痛折磨",
+          "Description": "巫術.",
           "GMNotes": "{\n  \"id\": \"05094\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hex.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1769,8 +1769,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1796,8 +1796,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Diabolic Voices",
-          "Description": "Curse.",
+          "Nickname": "惡魔之音",
+          "Description": "詛咒.",
           "GMNotes": "{\n  \"id\": \"05092\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1830,8 +1830,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1857,8 +1857,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Diabolic Voices",
-          "Description": "Curse.",
+          "Nickname": "惡魔之音",
+          "Description": "詛咒.",
           "GMNotes": "{\n  \"id\": \"05092\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1891,8 +1891,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1918,8 +1918,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Wracked",
-          "Description": "Hex.",
+          "Nickname": "崩毀離析",
+          "Description": "巫術.",
           "GMNotes": "{\n  \"id\": \"05093\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hex.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1952,8 +1952,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1979,8 +1979,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Diabolic Voices",
-          "Description": "Curse.",
+          "Nickname": "惡魔之音",
+          "Description": "詛咒.",
           "GMNotes": "{\n  \"id\": \"05092\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2013,8 +2013,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2040,8 +2040,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Centuries of Secrets",
-          "Description": "Curse.",
+          "Nickname": "百年秘事",
+          "Description": "詛咒.",
           "GMNotes": "{\n  \"id\": \"05099\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2074,8 +2074,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2101,8 +2101,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Evil Past",
-          "Description": "Curse.",
+          "Nickname": "邪惡往昔",
+          "Description": "詛咒.",
           "GMNotes": "{\n  \"id\": \"05098\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2135,8 +2135,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2162,8 +2162,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Evil Past",
-          "Description": "Curse.",
+          "Nickname": "邪惡往昔",
+          "Description": "詛咒.",
           "GMNotes": "{\n  \"id\": \"05098\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2196,8 +2196,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2223,8 +2223,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Centuries of Secrets",
-          "Description": "Curse.",
+          "Nickname": "百年秘事",
+          "Description": "詛咒.",
           "GMNotes": "{\n  \"id\": \"05099\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2257,8 +2257,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2284,8 +2284,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Centuries of Secrets",
-          "Description": "Curse.",
+          "Nickname": "百年秘事",
+          "Description": "詛咒.",
           "GMNotes": "{\n  \"id\": \"05099\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2318,8 +2318,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2345,8 +2345,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Coven Initiate",
-          "Description": "Humanoid. Witch.",
+          "Nickname": "女巫集會學徒",
+          "Description": "類人. 女巫.",
           "GMNotes": "{\n  \"id\": \"05090\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Witch.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2379,8 +2379,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2406,8 +2406,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Coven Initiate",
-          "Description": "Humanoid. Witch.",
+          "Nickname": "女巫集會學徒",
+          "Description": "類人. 女巫.",
           "GMNotes": "{\n  \"id\": \"05090\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Witch.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2440,8 +2440,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2467,8 +2467,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Coven Initiate",
-          "Description": "Humanoid. Witch.",
+          "Nickname": "女巫集會學徒",
+          "Description": "類人. 女巫.",
           "GMNotes": "{\n  \"id\": \"05090\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Witch.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2501,8 +2501,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2528,8 +2528,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Priestess of the Coven",
-          "Description": "Humanoid. Witch.",
+          "Nickname": "女巫集會的女祭司",
+          "Description": "類人. 女巫.",
           "GMNotes": "{\n  \"id\": \"05091\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Witch.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2562,8 +2562,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2318": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2589,8 +2589,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Punishment",
-          "Description": "Hex.",
+          "Nickname": "懲罰",
+          "Description": "巫術.",
           "GMNotes": "{\n  \"id\": \"05181\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hex.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2623,8 +2623,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2755": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2650,8 +2650,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Grave-Light",
-          "Description": "Curse.",
+          "Nickname": "長明燈",
+          "Description": "詛咒.",
           "GMNotes": "{\n  \"id\": \"05184\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2684,8 +2684,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2755": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2711,8 +2711,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Vengeful Witch",
-          "Description": "Humanoid. Witch.",
+          "Nickname": "復仇女巫",
+          "Description": "類人. 女巫.",
           "GMNotes": "{\n  \"id\": \"05179\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Witch.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2745,8 +2745,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2755": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2772,8 +2772,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Vengeful Witch",
-          "Description": "Humanoid. Witch.",
+          "Nickname": "復仇女巫",
+          "Description": "類人. 女巫.",
           "GMNotes": "{\n  \"id\": \"05179\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Witch.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2806,8 +2806,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2755": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2833,8 +2833,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Ominous Portents",
-          "Description": "Omen.",
+          "Nickname": "凶兆",
+          "Description": "徵兆.",
           "GMNotes": "{\n  \"id\": \"05183\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Omen.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2867,8 +2867,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2755": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2894,8 +2894,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Punishment",
-          "Description": "Hex.",
+          "Nickname": "懲罰",
+          "Description": "巫術.",
           "GMNotes": "{\n  \"id\": \"05181\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hex.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2928,8 +2928,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2755": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2955,8 +2955,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Ominous Portents",
-          "Description": "Omen.",
+          "Nickname": "凶兆",
+          "Description": "徵兆.",
           "GMNotes": "{\n  \"id\": \"05183\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Omen.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2989,8 +2989,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2755": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3016,8 +3016,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Grave-Light",
-          "Description": "Curse.",
+          "Nickname": "長明燈",
+          "Description": "詛咒.",
           "GMNotes": "{\n  \"id\": \"05184\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3050,8 +3050,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2755": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/l8f3q8ctsckvw5l87z3go/532467fa9175433d8384cae78aa1299f.jpg?rlkey=okrauehfbvmva9dl3gr8gvmey&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3079,8 +3079,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Gathering Mists",
-      "Description": "Agenda 1",
+      "Nickname": "迷霧聚集",
+      "Description": "",
       "GMNotes": "{\n  \"id\": \"90055\",\n  \"type\": \"Agenda\",\n  \"class\": \"Mythos\",\n  \"doomThreshold\": 4,\n  \"cycle\": \"Standalone\"\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -3114,8 +3114,8 @@
       "SidewaysCard": true,
       "CustomDeck": {
         "5541": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2136453395990880269/D3D586EFA5E78D8A3A7A7652198D3CD72C8E04A0/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2136453395990880575/B458EC6EF8A9D071B6CD7D06C9357C2010338746/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/h21t0igtgyie5spemjvuy/e5d9a581c3614af8866dce336ed0aa16.jpg?rlkey=mptnbrfzu2gwrkhoo3hr0i87s&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/h7iinav5e56fw22fw8u69/2a6edf55657246b987a3301d08fb67a7.jpg?rlkey=p5kc2k0ztexyoxmck536m054s&dl=0",
           "NumWidth": 3,
           "NumHeight": 2,
           "BackIsHidden": true,
@@ -3141,8 +3141,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Laid to Rest",
-      "Description": "Act 1",
+      "Nickname": "安魂鎮息",
+      "Description": "",
       "GMNotes": "{\n  \"id\": \"90056\",\n  \"type\": \"Act\",\n  \"class\": \"Mythos\",\n  \"cycle\": \"Standalone\"\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -3176,8 +3176,8 @@
       "SidewaysCard": true,
       "CustomDeck": {
         "5541": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2136453395990880269/D3D586EFA5E78D8A3A7A7652198D3CD72C8E04A0/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2136453395990880575/B458EC6EF8A9D071B6CD7D06C9357C2010338746/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/h21t0igtgyie5spemjvuy/e5d9a581c3614af8866dce336ed0aa16.jpg?rlkey=mptnbrfzu2gwrkhoo3hr0i87s&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/h7iinav5e56fw22fw8u69/2a6edf55657246b987a3301d08fb67a7.jpg?rlkey=p5kc2k0ztexyoxmck536m054s&dl=0",
           "NumWidth": 3,
           "NumHeight": 2,
           "BackIsHidden": true,
@@ -3204,7 +3204,7 @@
         "scaleZ": 1.0
       },
       "Nickname": "Scenario",
-      "Description": "Laid to Rest",
+      "Description": "安魂鎮息",
       "GMNotes": "{\n  \"id\": \"90054\",\n  \"type\": \"ScenarioReference\"\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -3238,8 +3238,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "5540": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2136453395990880269/D3D586EFA5E78D8A3A7A7652198D3CD72C8E04A0/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2136453395990880575/B458EC6EF8A9D071B6CD7D06C9357C2010338746/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/h21t0igtgyie5spemjvuy/e5d9a581c3614af8866dce336ed0aa16.jpg?rlkey=mptnbrfzu2gwrkhoo3hr0i87s&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/h7iinav5e56fw22fw8u69/2a6edf55657246b987a3301d08fb67a7.jpg?rlkey=p5kc2k0ztexyoxmck536m054s&dl=0",
           "NumWidth": 3,
           "NumHeight": 2,
           "BackIsHidden": true,
@@ -3462,8 +3462,8 @@
       ],
       "CustomDeck": {
         "5538": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981627845587/E5054E5FF9B27625A7543FC6CF8B79FD611A34AD/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981627845865/01EC4762E4CE0FC7C164320F37DBCB2B3207BF55/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/6qn7wc4t2cjppnhkhgsou/3fa58eb563134d88816fb371d933c5da.jpg?rlkey=g91hh4zrwjvcwh9f1yhv7pyhq&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/8g560yvyeen96e1h8lm7e/ae5158a476c140c9b3714c15f189e2a7.jpg?rlkey=qsl3fkhxfv3lr265p7fq3xch0&dl=0",
           "NumWidth": 4,
           "NumHeight": 2,
           "BackIsHidden": true,
@@ -3471,8 +3471,8 @@
           "Type": 0
         },
         "2754": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526785922/F34A644AC467C751B6D7B8AF398B8FDB07CCF6A0/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526797029/1F8A6C29028AED32DB44E4CF22E3120C417F413D/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8ts6jnlz65qnu480z5gpu/6fa7c348841747e0b3b16427c343356f.jpg?rlkey=i8cirwjal4rz47m9zhbzqsbgn&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/ipj8gkr6vzn4tb66ewz6e/d1f872f3b06044038fba0ac1d94bfd2a.jpg?rlkey=5ecmx4vv4au87jdhu2v1zb23b&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -3498,8 +3498,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Heretic",
-          "Description": "Monster. Geist. Witch. Spectral. Elite.",
+          "Nickname": "異端者",
+          "Description": "怪物. 靈怪. 女巫. 幽靈. 精英.",
           "GMNotes": "{\n  \"id\": \"05178g\",\n  \"type\": \"Treachery\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3532,8 +3532,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "5538": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981627845587/E5054E5FF9B27625A7543FC6CF8B79FD611A34AD/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981627845865/01EC4762E4CE0FC7C164320F37DBCB2B3207BF55/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/6qn7wc4t2cjppnhkhgsou/3fa58eb563134d88816fb371d933c5da.jpg?rlkey=g91hh4zrwjvcwh9f1yhv7pyhq&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/8g560yvyeen96e1h8lm7e/ae5158a476c140c9b3714c15f189e2a7.jpg?rlkey=qsl3fkhxfv3lr265p7fq3xch0&dl=0",
               "NumWidth": 4,
               "NumHeight": 2,
               "BackIsHidden": true,
@@ -3559,8 +3559,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Heretic",
-          "Description": "Monster. Geist. Witch. Spectral. Elite.",
+          "Nickname": "異端者",
+          "Description": "怪物. 靈怪. 女巫. 幽靈. 精英.",
           "GMNotes": "{\n  \"id\": \"05178i\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Monster. Geist. Witch. Spectral. Elite.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3593,8 +3593,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2754": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526785922/F34A644AC467C751B6D7B8AF398B8FDB07CCF6A0/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526797029/1F8A6C29028AED32DB44E4CF22E3120C417F413D/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8ts6jnlz65qnu480z5gpu/6fa7c348841747e0b3b16427c343356f.jpg?rlkey=i8cirwjal4rz47m9zhbzqsbgn&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/ipj8gkr6vzn4tb66ewz6e/d1f872f3b06044038fba0ac1d94bfd2a.jpg?rlkey=5ecmx4vv4au87jdhu2v1zb23b&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3620,8 +3620,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Heretic",
-          "Description": "Monster. Geist. Witch. Spectral. Elite.",
+          "Nickname": "異端者",
+          "Description": "怪物. 靈怪. 女巫. 幽靈. 精英.",
           "GMNotes": "{\n  \"id\": \"05178a\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Monster. Geist. Witch. Spectral. Elite.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3654,8 +3654,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "5538": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981627845587/E5054E5FF9B27625A7543FC6CF8B79FD611A34AD/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981627845865/01EC4762E4CE0FC7C164320F37DBCB2B3207BF55/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/6qn7wc4t2cjppnhkhgsou/3fa58eb563134d88816fb371d933c5da.jpg?rlkey=g91hh4zrwjvcwh9f1yhv7pyhq&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/8g560yvyeen96e1h8lm7e/ae5158a476c140c9b3714c15f189e2a7.jpg?rlkey=qsl3fkhxfv3lr265p7fq3xch0&dl=0",
               "NumWidth": 4,
               "NumHeight": 2,
               "BackIsHidden": true,
@@ -3681,8 +3681,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Heretic",
-          "Description": "Monster. Geist. Witch. Spectral. Elite.",
+          "Nickname": "異端者",
+          "Description": "怪物. 靈怪. 女巫. 幽靈. 精英.",
           "GMNotes": "{\n  \"id\": \"05178k\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Monster. Geist. Witch. Spectral. Elite.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3715,8 +3715,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2754": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526785922/F34A644AC467C751B6D7B8AF398B8FDB07CCF6A0/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526797029/1F8A6C29028AED32DB44E4CF22E3120C417F413D/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8ts6jnlz65qnu480z5gpu/6fa7c348841747e0b3b16427c343356f.jpg?rlkey=i8cirwjal4rz47m9zhbzqsbgn&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/ipj8gkr6vzn4tb66ewz6e/d1f872f3b06044038fba0ac1d94bfd2a.jpg?rlkey=5ecmx4vv4au87jdhu2v1zb23b&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3742,8 +3742,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Heretic",
-          "Description": "Monster. Geist. Witch. Spectral. Elite.",
+          "Nickname": "異端者",
+          "Description": "怪物. 靈怪. 女巫. 幽靈. 精英.",
           "GMNotes": "{\n  \"id\": \"05178c\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Monster. Geist. Witch. Spectral. Elite.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3776,8 +3776,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "5538": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981627845587/E5054E5FF9B27625A7543FC6CF8B79FD611A34AD/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981627845865/01EC4762E4CE0FC7C164320F37DBCB2B3207BF55/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/6qn7wc4t2cjppnhkhgsou/3fa58eb563134d88816fb371d933c5da.jpg?rlkey=g91hh4zrwjvcwh9f1yhv7pyhq&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/8g560yvyeen96e1h8lm7e/ae5158a476c140c9b3714c15f189e2a7.jpg?rlkey=qsl3fkhxfv3lr265p7fq3xch0&dl=0",
               "NumWidth": 4,
               "NumHeight": 2,
               "BackIsHidden": true,
@@ -3803,8 +3803,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Heretic",
-          "Description": "Monster. Geist. Witch. Spectral. Elite.",
+          "Nickname": "異端者",
+          "Description": "怪物. 靈怪. 女巫. 幽靈. 精英.",
           "GMNotes": "{\n  \"id\": \"05178e\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Monster. Geist. Witch. Spectral. Elite.\",\n  \"cycle\": \"The Circle Undone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3837,8 +3837,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "5538": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981627845587/E5054E5FF9B27625A7543FC6CF8B79FD611A34AD/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981627845865/01EC4762E4CE0FC7C164320F37DBCB2B3207BF55/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/6qn7wc4t2cjppnhkhgsou/3fa58eb563134d88816fb371d933c5da.jpg?rlkey=g91hh4zrwjvcwh9f1yhv7pyhq&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/8g560yvyeen96e1h8lm7e/ae5158a476c140c9b3714c15f189e2a7.jpg?rlkey=qsl3fkhxfv3lr265p7fq3xch0&dl=0",
               "NumWidth": 4,
               "NumHeight": 2,
               "BackIsHidden": true,
@@ -3866,8 +3866,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Vengeful Shade",
-      "Description": "",
+      "Nickname": "復仇形影",
+      "Description": "怪物. 靈怪.",
       "GMNotes": "{\n  \"id\": \"90053\",\n  \"type\": \"Enemy\",\n  \"class\": \"Neutral\",\n  \"traits\": \"Monster. Geist\",\n  \"weakness\": true,\n  \"cycle\": \"Laid to Rest\"\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -3900,8 +3900,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "8470": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2149964195986880793/517FBB4FF8F72900B9E123DB865BCAD625F6506C/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/b1sifdwyatlmws7rawchs/440a604bb6d3422080024720f574ff77.jpg?rlkey=zofd8huct7p0fvl9it0zntbmc&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
           "NumWidth": 2,
           "NumHeight": 2,
           "BackIsHidden": false,
@@ -3927,8 +3927,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "The Beyond",
-      "Description": "Bleak Netherworld",
+      "Nickname": "彼端",
+      "Description": "聖堂. 幽靈.",
       "GMNotes": "{\n  \"id\": \"90052\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"permanent\": true,\n  \"startsInPlay\": true,\n  \"cycle\": \"Laid to Rest\"\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -3962,8 +3962,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "8471": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2149964195986880989/13172BC914A0D729B4EFD9845FA9FDFCAB6F77F7/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2149964195986881059/864F6EBBD2900ED6D145B8AF12F2F8C180375C83/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/zre6uluufdnzfyon1cyw6/2f0de35ae63741ba8cbbbb9b3744e03c.jpg?rlkey=zv6bootkrqba4u55inyrriqxo&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/4nr7ec6afvf6cwtklakwz/6e01909827264c09aba26444e8f4571f.jpg?rlkey=gxuo8abuukh64pcwm8sqv9ik2&dl=0",
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
@@ -3989,8 +3989,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Ravenous Spirit",
-      "Description": "Monster. Geist. Spectral. Elite.",
+      "Nickname": "飢餓的靈魂",
+      "Description": "怪物. 靈怪. 幽靈. 精英.",
       "GMNotes": "{\n  \"type\": \"Enemy\",\n  \"id\": \"90058\",\n  \"traits\": \"Monster. Geist. Spectral. Elite.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -4020,8 +4020,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "5539": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2136453395990858892/12A43980BE1908B5D9695EFA1B5834E202318461/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d79ij5r3s9axgmuacz6ei/ec17ae6c90414a098545d589746236a1.jpg?rlkey=7nsodmvszg5wm0sbi13k95a11&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 2,
           "NumHeight": 2,
           "BackIsHidden": true,
@@ -4047,7 +4047,7 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "The Gallows",
+      "Nickname": "絞刑架",
       "Description": "",
       "GMNotes": "{\n  \"id\": \"05169\",\n  \"type\": \"Location\",\n  \"cycle\": \"The Circle Undone\",\n  \"locationFront\": {\n    \"icons\": \"Triangle\",\n    \"connections\": \"Circle|Square\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Triangle\",\n    \"connections\": \"Circle|Square\"\n  }\n}",
       "AltLookAngle": {
@@ -4082,8 +4082,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2760": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527103742/0C4DB40889420CFE47BE897944621ABF2ECA52F9/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527100186/0D63305581E65C95F286CCA4902B7DE796D815BD/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/a4lwxwnfqvc647oz1tlpc/f05009f613b942d59f812ce808f8be76.jpg?rlkey=0y8yy4zdj84r2valvl3l3pauy&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/zh8uqyzvla8qfggcfptp8/38069825bcd247cab409254229e39e10.jpg?rlkey=uvxvfz8jdfewhbp0s29oz9vha&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -4109,7 +4109,7 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "The Gallows",
+      "Nickname": "絞刑架",
       "Description": "",
       "GMNotes": "{\n  \"id\": \"05170\",\n  \"type\": \"Location\",\n  \"cycle\": \"The Circle Undone\",\n  \"locationFront\": {\n    \"icons\": \"Triangle\",\n    \"connections\": \"Circle|Square\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Triangle\",\n    \"connections\": \"Circle|Square\"\n  }\n}",
       "AltLookAngle": {
@@ -4144,8 +4144,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2760": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527103742/0C4DB40889420CFE47BE897944621ABF2ECA52F9/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527100186/0D63305581E65C95F286CCA4902B7DE796D815BD/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/a4lwxwnfqvc647oz1tlpc/f05009f613b942d59f812ce808f8be76.jpg?rlkey=0y8yy4zdj84r2valvl3l3pauy&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/zh8uqyzvla8qfggcfptp8/38069825bcd247cab409254229e39e10.jpg?rlkey=uvxvfz8jdfewhbp0s29oz9vha&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -4171,7 +4171,7 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Heretics' Graves",
+      "Nickname": "異端者的墓地",
       "Description": "",
       "GMNotes": "{\n  \"id\": \"05171\",\n  \"type\": \"Location\",\n  \"cycle\": \"The Circle Undone\",\n  \"locationFront\": {\n    \"icons\": \"Square\",\n    \"connections\": \"Triangle|Circle\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Square\",\n    \"connections\": \"Triangle|Circle\"\n  }\n}",
       "AltLookAngle": {
@@ -4206,8 +4206,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2760": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527103742/0C4DB40889420CFE47BE897944621ABF2ECA52F9/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527100186/0D63305581E65C95F286CCA4902B7DE796D815BD/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/a4lwxwnfqvc647oz1tlpc/f05009f613b942d59f812ce808f8be76.jpg?rlkey=0y8yy4zdj84r2valvl3l3pauy&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/zh8uqyzvla8qfggcfptp8/38069825bcd247cab409254229e39e10.jpg?rlkey=uvxvfz8jdfewhbp0s29oz9vha&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -4233,7 +4233,7 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Heretics' Graves",
+      "Nickname": "異端者的墓地",
       "Description": "",
       "GMNotes": "{\n  \"id\": \"05172\",\n  \"type\": \"Location\",\n  \"cycle\": \"The Circle Undone\",\n  \"locationFront\": {\n    \"icons\": \"Square\",\n    \"connections\": \"Triangle|Circle\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Square\",\n    \"connections\": \"Triangle|Circle\"\n  }\n}",
       "AltLookAngle": {
@@ -4268,8 +4268,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2760": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527103742/0C4DB40889420CFE47BE897944621ABF2ECA52F9/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527100186/0D63305581E65C95F286CCA4902B7DE796D815BD/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/a4lwxwnfqvc647oz1tlpc/f05009f613b942d59f812ce808f8be76.jpg?rlkey=0y8yy4zdj84r2valvl3l3pauy&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/zh8uqyzvla8qfggcfptp8/38069825bcd247cab409254229e39e10.jpg?rlkey=uvxvfz8jdfewhbp0s29oz9vha&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -4295,8 +4295,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Ravenous Spirit",
-      "Description": "Monster. Geist. Spectral. Elite.",
+      "Nickname": "飢餓的靈魂",
+      "Description": "怪物. 靈怪. 幽靈. 精英.",
       "GMNotes": "{\n  \"type\": \"Enemy\",\n  \"id\": \"90058\",\n  \"traits\": \"Monster. Geist. Spectral. Elite.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -4326,8 +4326,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "5539": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2136453395990858892/12A43980BE1908B5D9695EFA1B5834E202318461/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d79ij5r3s9axgmuacz6ei/ec17ae6c90414a098545d589746236a1.jpg?rlkey=7nsodmvszg5wm0sbi13k95a11&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 2,
           "NumHeight": 2,
           "BackIsHidden": true,
@@ -4353,7 +4353,7 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Haunted Fields",
+      "Nickname": "鬧鬼農田",
       "Description": "",
       "GMNotes": "{\n  \"id\": \"05167\",\n  \"type\": \"Location\",\n  \"cycle\": \"The Circle Undone\",\n  \"locationFront\": {\n    \"victory\": 1,\n    \"icons\": \"Circle\",\n    \"connections\": \"Tilde|Plus|Triangle|Square\"\n  },\n  \"locationBack\": {\n    \"victory\": 1,\n    \"icons\": \"Circle\",\n    \"connections\": \"Tilde|Plus|Triangle|Square\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
       "AltLookAngle": {
@@ -4388,8 +4388,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2760": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527103742/0C4DB40889420CFE47BE897944621ABF2ECA52F9/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527100186/0D63305581E65C95F286CCA4902B7DE796D815BD/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/a4lwxwnfqvc647oz1tlpc/f05009f613b942d59f812ce808f8be76.jpg?rlkey=0y8yy4zdj84r2valvl3l3pauy&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/zh8uqyzvla8qfggcfptp8/38069825bcd247cab409254229e39e10.jpg?rlkey=uvxvfz8jdfewhbp0s29oz9vha&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -4415,7 +4415,7 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Abandoned Chapel",
+      "Nickname": "廢棄教堂",
       "Description": "",
       "GMNotes": "{\n  \"id\": \"05168\",\n  \"type\": \"Location\",\n  \"cycle\": \"The Circle Undone\",\n  \"locationFront\": {\n    \"victory\": 1,\n    \"icons\": \"Plus\",\n    \"connections\": \"Tilde|Circle|Diamond|Crescent\"\n  },\n  \"locationBack\": {\n    \"victory\": 1,\n    \"icons\": \"Plus\",\n    \"connections\": \"Tilde|Circle|Diamond|Crescent\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
       "AltLookAngle": {
@@ -4450,8 +4450,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2760": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527103742/0C4DB40889420CFE47BE897944621ABF2ECA52F9/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527100186/0D63305581E65C95F286CCA4902B7DE796D815BD/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/a4lwxwnfqvc647oz1tlpc/f05009f613b942d59f812ce808f8be76.jpg?rlkey=0y8yy4zdj84r2valvl3l3pauy&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/zh8uqyzvla8qfggcfptp8/38069825bcd247cab409254229e39e10.jpg?rlkey=uvxvfz8jdfewhbp0s29oz9vha&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -4477,7 +4477,7 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Chapel Attic",
+      "Nickname": "教堂閣樓",
       "Description": "",
       "GMNotes": "{\n  \"id\": \"05176\",\n  \"type\": \"Location\",\n  \"cycle\": \"The Circle Undone\",\n  \"locationFront\": {\n    \"icons\": \"Crescent\",\n    \"connections\": \"Plus|Diamond\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Crescent\",\n    \"connections\": \"Plus|Diamond\"\n  }\n}",
       "AltLookAngle": {
@@ -4512,8 +4512,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2760": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527103742/0C4DB40889420CFE47BE897944621ABF2ECA52F9/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527100186/0D63305581E65C95F286CCA4902B7DE796D815BD/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/a4lwxwnfqvc647oz1tlpc/f05009f613b942d59f812ce808f8be76.jpg?rlkey=0y8yy4zdj84r2valvl3l3pauy&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/zh8uqyzvla8qfggcfptp8/38069825bcd247cab409254229e39e10.jpg?rlkey=uvxvfz8jdfewhbp0s29oz9vha&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -4539,8 +4539,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Ravenous Spirit",
-      "Description": "Monster. Geist. Spectral. Elite.",
+      "Nickname": "飢餓的靈魂",
+      "Description": "怪物. 靈怪. 幽靈. 精英.",
       "GMNotes": "{\n  \"type\": \"Enemy\",\n  \"id\": \"90058\",\n  \"traits\": \"Monster. Geist. Spectral. Elite.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -4570,8 +4570,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "5539": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2136453395990858892/12A43980BE1908B5D9695EFA1B5834E202318461/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d79ij5r3s9axgmuacz6ei/ec17ae6c90414a098545d589746236a1.jpg?rlkey=7nsodmvszg5wm0sbi13k95a11&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 2,
           "NumHeight": 2,
           "BackIsHidden": true,
@@ -4597,8 +4597,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Ravenous Spirit",
-      "Description": "Monster. Geist. Spectral. Elite.",
+      "Nickname": "飢餓的靈魂",
+      "Description": "怪物. 靈怪. 幽靈. 精英.",
       "GMNotes": "{\n  \"type\": \"Enemy\",\n  \"id\": \"90058\",\n  \"traits\": \"Monster. Geist. Spectral. Elite.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -4628,8 +4628,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "5539": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2136453395990858892/12A43980BE1908B5D9695EFA1B5834E202318461/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d79ij5r3s9axgmuacz6ei/ec17ae6c90414a098545d589746236a1.jpg?rlkey=7nsodmvszg5wm0sbi13k95a11&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 2,
           "NumHeight": 2,
           "BackIsHidden": true,
@@ -4655,7 +4655,7 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Chapel Crypt",
+      "Nickname": "教堂地下室",
       "Description": "",
       "GMNotes": "{\n  \"id\": \"05174\",\n  \"type\": \"Location\",\n  \"cycle\": \"The Circle Undone\",\n  \"locationFront\": {\n    \"icons\": \"Diamond\",\n    \"connections\": \"Plus|Crescent\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Diamond\",\n    \"connections\": \"Plus|Crescent\"\n  }\n}",
       "AltLookAngle": {
@@ -4690,8 +4690,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2760": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527103742/0C4DB40889420CFE47BE897944621ABF2ECA52F9/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527100186/0D63305581E65C95F286CCA4902B7DE796D815BD/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/a4lwxwnfqvc647oz1tlpc/f05009f613b942d59f812ce808f8be76.jpg?rlkey=0y8yy4zdj84r2valvl3l3pauy&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/zh8uqyzvla8qfggcfptp8/38069825bcd247cab409254229e39e10.jpg?rlkey=uvxvfz8jdfewhbp0s29oz9vha&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -4717,7 +4717,7 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Chapel Crypt",
+      "Nickname": "教堂地下室",
       "Description": "",
       "GMNotes": "{\n  \"id\": \"05173\",\n  \"type\": \"Location\",\n  \"cycle\": \"The Circle Undone\",\n  \"locationFront\": {\n    \"icons\": \"Diamond\",\n    \"connections\": \"Plus|Crescent\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Diamond\",\n    \"connections\": \"Plus|Crescent\"\n  }\n}",
       "AltLookAngle": {
@@ -4752,8 +4752,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2760": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527103742/0C4DB40889420CFE47BE897944621ABF2ECA52F9/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527100186/0D63305581E65C95F286CCA4902B7DE796D815BD/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/a4lwxwnfqvc647oz1tlpc/f05009f613b942d59f812ce808f8be76.jpg?rlkey=0y8yy4zdj84r2valvl3l3pauy&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/zh8uqyzvla8qfggcfptp8/38069825bcd247cab409254229e39e10.jpg?rlkey=uvxvfz8jdfewhbp0s29oz9vha&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -4779,7 +4779,7 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Hangman's Brook",
+      "Nickname": "絞刑者河",
       "Description": "",
       "GMNotes": "{\n  \"id\": \"05166\",\n  \"type\": \"Location\",\n  \"cycle\": \"The Circle Undone\",\n  \"locationFront\": {\n    \"icons\": \"Tilde\",\n    \"connections\": \"Circle|Plus\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Tilde\",\n    \"connections\": \"Circle|Plus\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
       "AltLookAngle": {
@@ -4814,8 +4814,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2760": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527103742/0C4DB40889420CFE47BE897944621ABF2ECA52F9/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527100186/0D63305581E65C95F286CCA4902B7DE796D815BD/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/a4lwxwnfqvc647oz1tlpc/f05009f613b942d59f812ce808f8be76.jpg?rlkey=0y8yy4zdj84r2valvl3l3pauy&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/zh8uqyzvla8qfggcfptp8/38069825bcd247cab409254229e39e10.jpg?rlkey=uvxvfz8jdfewhbp0s29oz9vha&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,

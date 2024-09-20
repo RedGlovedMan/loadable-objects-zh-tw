@@ -276,8 +276,8 @@
       ],
       "CustomDeck": {
         "2722": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2299716166487763739/DFD87DFB09BDA4799BFD2F95C5D1B98EE0C30050/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2299716166487764057/23C354D74E6A8C75A6A1F9CF9EEDF856CFFCDC97/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/e03vnp8lnvuuqvoh6y8m4/ded58760d503472e9150c0dabe76299b.jpg?rlkey=rjjstatstxsyhz0bvafxzccsu&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/r22xhyg904gdgxvcthsdg/58260fb6bc084810867ac99cd2594d65.jpg?rlkey=z57k0fjhu64quyjvry1cqv8jk&dl=0",
           "NumWidth": 4,
           "NumHeight": 2,
           "BackIsHidden": true,
@@ -597,8 +597,8 @@
           ],
           "CustomDeck": {
             "2356": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -624,8 +624,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Poisoned",
-              "Description": "",
+              "Nickname": "中毒",
+              "Description": "毒藥.",
               "GMNotes": "{\n  \"id\": \"04102\",\n  \"type\": \"Treachery\",\n  \"class\": \"Neutral\",\n  \"traits\": \"Poison.\",\n  \"permanent\": true,\n  \"weakness\": true,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -658,8 +658,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2356": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -685,8 +685,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Poisoned",
-              "Description": "",
+              "Nickname": "中毒",
+              "Description": "毒藥.",
               "GMNotes": "{\n  \"id\": \"04102\",\n  \"type\": \"Treachery\",\n  \"class\": \"Neutral\",\n  \"traits\": \"Poison.\",\n  \"permanent\": true,\n  \"weakness\": true,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -719,8 +719,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2356": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -746,8 +746,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Poisoned",
-              "Description": "",
+              "Nickname": "中毒",
+              "Description": "毒藥.",
               "GMNotes": "{\n  \"id\": \"04102\",\n  \"type\": \"Treachery\",\n  \"class\": \"Neutral\",\n  \"traits\": \"Poison.\",\n  \"permanent\": true,\n  \"weakness\": true,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -780,8 +780,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2356": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -807,8 +807,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Poisoned",
-              "Description": "",
+              "Nickname": "中毒",
+              "Description": "毒藥.",
               "GMNotes": "{\n  \"id\": \"04102\",\n  \"type\": \"Treachery\",\n  \"class\": \"Neutral\",\n  \"traits\": \"Poison.\",\n  \"permanent\": true,\n  \"weakness\": true,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -841,8 +841,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2356": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -907,7 +907,7 @@
           "CustomDeck": {
             "2720": {
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2299716166487761335/90B73D463877001F4BD502D01EDD8BE49A3E01FD/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 4,
               "NumHeight": 2,
               "BackIsHidden": true,
@@ -1218,8 +1218,8 @@
           ],
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1245,8 +1245,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Brood of Yig",
-              "Description": "",
+              "Nickname": "伊格之子",
+              "Description": "類人. 怪物. 蛇族.",
               "GMNotes": "{\n  \"id\": \"04083\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Humanoid. Monster. Serpent.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -1279,8 +1279,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2357": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -1306,8 +1306,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Brood of Yig",
-              "Description": "",
+              "Nickname": "伊格之子",
+              "Description": "類人. 怪物. 蛇族.",
               "GMNotes": "{\n  \"id\": \"04083\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Humanoid. Monster. Serpent.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -1340,8 +1340,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2357": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -1367,8 +1367,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Brood of Yig",
-              "Description": "",
+              "Nickname": "伊格之子",
+              "Description": "類人. 怪物. 蛇族.",
               "GMNotes": "{\n  \"id\": \"04083\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Humanoid. Monster. Serpent.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -1401,8 +1401,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2357": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -1634,8 +1634,8 @@
       ],
       "CustomDeck": {
         "2722": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2299716166487763739/DFD87DFB09BDA4799BFD2F95C5D1B98EE0C30050/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2299716166487764057/23C354D74E6A8C75A6A1F9CF9EEDF856CFFCDC97/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/e03vnp8lnvuuqvoh6y8m4/ded58760d503472e9150c0dabe76299b.jpg?rlkey=rjjstatstxsyhz0bvafxzccsu&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/r22xhyg904gdgxvcthsdg/58260fb6bc084810867ac99cd2594d65.jpg?rlkey=z57k0fjhu64quyjvry1cqv8jk&dl=0",
           "NumWidth": 4,
           "NumHeight": 2,
           "BackIsHidden": true,
@@ -1643,8 +1643,8 @@
           "Type": 0
         },
         "2721": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2299716166487763739/DFD87DFB09BDA4799BFD2F95C5D1B98EE0C30050/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2299716166487764057/23C354D74E6A8C75A6A1F9CF9EEDF856CFFCDC97/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/e03vnp8lnvuuqvoh6y8m4/ded58760d503472e9150c0dabe76299b.jpg?rlkey=rjjstatstxsyhz0bvafxzccsu&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/r22xhyg904gdgxvcthsdg/58260fb6bc084810867ac99cd2594d65.jpg?rlkey=z57k0fjhu64quyjvry1cqv8jk&dl=0",
           "NumWidth": 4,
           "NumHeight": 2,
           "BackIsHidden": true,
@@ -1851,8 +1851,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Entryway",
-      "Description": "",
+      "Nickname": "遺跡入口",
+      "Description": "古代. 遺跡.",
       "GMNotes": "{\n  \"id\": \"04060\",\n  \"type\": \"Location\",\n  \"traits\": \"Ancient. Ruins.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Circle\",\n    \"connections\": \"Square|Star\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Circle\",\n    \"connections\": \"Square|Star\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -1886,8 +1886,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2355": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777261131/3E6F9DF9591B05CCE2257F910B261776662220BF/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777261683/0D1AA3DD1777795A7A85C5891B15A2EC85BEDBD3/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/esizou3o93pp0vn579c3j/f208d3634b31478097c070f51b67e7f3.jpg?rlkey=4pz8utyozekx7u4v4xkr2l1lp&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/xa2op1wx510t7dva5i5eq/318095412f3d4ccda6da9bd7902f7e98.jpg?rlkey=6nz9mm1cd5hq94khla0xen45w&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -1978,8 +1978,8 @@
       ],
       "CustomDeck": {
         "2317": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -1987,8 +1987,8 @@
           "Type": 0
         },
         "2357": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -1996,8 +1996,8 @@
           "Type": 0
         },
         "2699": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1597043896927310894/224D88E486BCF3DCCA4F956CA928CC7FD510EECA/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/b811n5pp0ov5xmaajlvf2/3a3e2c95bcb84f9c8685b27139205399.jpg?rlkey=uh5c54csibc8n70qcl3hk67gs&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
@@ -2023,8 +2023,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Hunting Shadow",
-          "Description": "",
+          "Nickname": "追獵鬼影",
+          "Description": "詛咒.",
           "GMNotes": "{\n  \"id\": \"01135\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Curse.\",\n  \"cycle\": \"Core\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2057,8 +2057,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2084,8 +2084,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Snake Bite",
-          "Description": "",
+          "Nickname": "毒蛇噬咬",
+          "Description": "危險. 毒藥.",
           "GMNotes": "{\n  \"id\": \"04080\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Hazard. Poison.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2118,8 +2118,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2145,7 +2145,7 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "False Lead",
+          "Nickname": "錯誤指示",
           "Description": "",
           "GMNotes": "{\n  \"id\": \"01136\",\n  \"type\": \"Treachery\",\n  \"cycle\": \"Core\"\n}",
           "AltLookAngle": {
@@ -2179,8 +2179,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2206,8 +2206,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Entombed",
-          "Description": "",
+          "Nickname": "半身入土",
+          "Description": "陷阱.",
           "GMNotes": "{\n  \"id\": \"04089\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Trap.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2240,8 +2240,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2267,8 +2267,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Snakescourge",
-          "Description": "",
+          "Nickname": "毒蛇災厄",
+          "Description": "詛咒.",
           "GMNotes": "{\n  \"id\": \"04099\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Curse.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2301,8 +2301,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2328,8 +2328,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Creeping Poison",
-          "Description": "Poison.",
+          "Nickname": "毒性蔓延",
+          "Description": "毒藥.",
           "GMNotes": "{\n  \"id\": \"04101\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Poison.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2362,8 +2362,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2389,7 +2389,7 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "False Lead",
+          "Nickname": "錯誤指示",
           "Description": "",
           "GMNotes": "{\n  \"id\": \"01136\",\n  \"type\": \"Treachery\",\n  \"cycle\": \"Core\"\n}",
           "AltLookAngle": {
@@ -2423,8 +2423,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2450,8 +2450,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Serpent's Call",
-          "Description": "",
+          "Nickname": "毒蛇召來",
+          "Description": "力量.",
           "GMNotes": "{\n  \"id\": \"04100\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Power.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2484,8 +2484,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2699": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1597043896927310894/224D88E486BCF3DCCA4F956CA928CC7FD510EECA/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/b811n5pp0ov5xmaajlvf2/3a3e2c95bcb84f9c8685b27139205399.jpg?rlkey=uh5c54csibc8n70qcl3hk67gs&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 1,
               "NumHeight": 1,
               "BackIsHidden": true,
@@ -2511,8 +2511,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Deep Dark",
-          "Description": "",
+          "Nickname": "一片漆黑",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"04094\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2545,8 +2545,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2572,8 +2572,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Locked Door",
-          "Description": "",
+          "Nickname": "上鎖的門",
+          "Description": "障礙.",
           "GMNotes": "{\n  \"id\": \"01174\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Obstacle.\",\n  \"cycle\": \"Core\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2606,8 +2606,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2633,8 +2633,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Crypt Chill",
-          "Description": "",
+          "Nickname": "地窖寒風",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"01167\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Core\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2667,8 +2667,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2694,8 +2694,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Ancestral Fear",
-          "Description": "",
+          "Nickname": "先祖恐懼",
+          "Description": "恐怖.",
           "GMNotes": "{\n  \"id\": \"04093\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Terror.\",\n  \"vengeance\": 1,\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2728,8 +2728,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2755,8 +2755,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Obscuring Fog",
-          "Description": "",
+          "Nickname": "朦朧之霧",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"01168\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Core\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2789,8 +2789,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2816,8 +2816,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Hunting Shadow",
-          "Description": "",
+          "Nickname": "追獵鬼影",
+          "Description": "詛咒.",
           "GMNotes": "{\n  \"id\": \"01135\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Curse.\",\n  \"cycle\": \"Core\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2850,8 +2850,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2877,8 +2877,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Boa Constrictor",
-          "Description": "",
+          "Nickname": "蟒蛇",
+          "Description": "生物. 蛇族.",
           "GMNotes": "{\n  \"id\": \"04079\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Serpent.\",\n  \"vengeance\": 2,\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2911,8 +2911,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2938,8 +2938,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Crypt Chill",
-          "Description": "",
+          "Nickname": "地窖寒風",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"01167\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Core\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2972,8 +2972,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2999,8 +2999,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Fang of Yig",
-          "Description": "",
+          "Nickname": "伊格的獠牙",
+          "Description": "類人. 怪物. 蛇族.",
           "GMNotes": "{\n  \"id\": \"04098\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Humanoid. Monster. Serpent.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3033,8 +3033,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3060,8 +3060,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Fang of Yig",
-          "Description": "",
+          "Nickname": "伊格的獠牙",
+          "Description": "類人. 怪物. 蛇族.",
           "GMNotes": "{\n  \"id\": \"04098\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Humanoid. Monster. Serpent.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3094,8 +3094,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3121,8 +3121,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Snake Bite",
-          "Description": "",
+          "Nickname": "毒蛇噬咬",
+          "Description": "危險. 毒藥.",
           "GMNotes": "{\n  \"id\": \"04080\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Hazard. Poison.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3155,8 +3155,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3182,8 +3182,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Hunting Shadow",
-          "Description": "",
+          "Nickname": "追獵鬼影",
+          "Description": "詛咒.",
           "GMNotes": "{\n  \"id\": \"01135\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Curse.\",\n  \"cycle\": \"Core\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3216,8 +3216,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3243,8 +3243,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Deep Dark",
-          "Description": "",
+          "Nickname": "一片漆黑",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"04094\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3277,8 +3277,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3304,8 +3304,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Final Mistake",
-          "Description": "",
+          "Nickname": "致命錯誤",
+          "Description": "陷阱.",
           "GMNotes": "{\n  \"id\": \"04088\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Trap.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3338,8 +3338,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3365,8 +3365,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Obscuring Fog",
-          "Description": "",
+          "Nickname": "朦朧之霧",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"01168\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Core\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3399,8 +3399,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3426,8 +3426,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Ill Omen",
-          "Description": "",
+          "Nickname": "不祥之兆",
+          "Description": "徵兆. 恐怖.",
           "GMNotes": "{\n  \"id\": \"04092\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Omen. Terror.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3460,8 +3460,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3487,8 +3487,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Final Mistake",
-          "Description": "",
+          "Nickname": "致命錯誤",
+          "Description": "陷阱.",
           "GMNotes": "{\n  \"id\": \"04088\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Trap.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3521,8 +3521,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3548,8 +3548,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Creeping Poison",
-          "Description": "Poison.",
+          "Nickname": "毒性蔓延",
+          "Description": "毒藥.",
           "GMNotes": "{\n  \"id\": \"04101\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Poison.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3582,8 +3582,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3609,8 +3609,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Snake Bite",
-          "Description": "",
+          "Nickname": "毒蛇噬咬",
+          "Description": "危險. 毒藥.",
           "GMNotes": "{\n  \"id\": \"04080\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Hazard. Poison.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3643,8 +3643,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3670,8 +3670,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Ancestral Fear",
-          "Description": "",
+          "Nickname": "先祖恐懼",
+          "Description": "恐怖.",
           "GMNotes": "{\n  \"id\": \"04093\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Terror.\",\n  \"vengeance\": 1,\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3704,8 +3704,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3731,8 +3731,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Ill Omen",
-          "Description": "",
+          "Nickname": "不祥之兆",
+          "Description": "徵兆. 恐怖.",
           "GMNotes": "{\n  \"id\": \"04092\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Omen. Terror.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3765,8 +3765,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3792,8 +3792,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Curse of Yig",
-          "Description": "",
+          "Nickname": "伊格的詛咒",
+          "Description": "詛咒.",
           "GMNotes": "{\n  \"id\": \"04085\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Curse.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3826,8 +3826,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3853,8 +3853,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Snakescourge",
-          "Description": "",
+          "Nickname": "毒蛇災厄",
+          "Description": "詛咒.",
           "GMNotes": "{\n  \"id\": \"04099\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Curse.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3887,8 +3887,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3914,8 +3914,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Serpent from Yoth",
-          "Description": "",
+          "Nickname": "幽嘶蛇人",
+          "Description": "類人. 怪物. 蛇族.",
           "GMNotes": "{\n  \"id\": \"04084\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Humanoid. Monster. Serpent.\",\n  \"victory\": 1,\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3948,8 +3948,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3975,8 +3975,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Curse of Yig",
-          "Description": "",
+          "Nickname": "伊格的詛咒",
+          "Description": "詛咒.",
           "GMNotes": "{\n  \"id\": \"04085\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Curse.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -4009,8 +4009,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -4072,8 +4072,8 @@
       ],
       "CustomDeck": {
         "2357": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -4081,8 +4081,8 @@
           "Type": 0
         },
         "2317": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -4108,8 +4108,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Entombed",
-          "Description": "",
+          "Nickname": "半身入土",
+          "Description": "陷阱.",
           "GMNotes": "{\n  \"id\": \"04089\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Trap.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -4142,8 +4142,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -4169,8 +4169,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Locked Door",
-          "Description": "",
+          "Nickname": "上鎖的門",
+          "Description": "障礙.",
           "GMNotes": "{\n  \"id\": \"01174\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Obstacle.\",\n  \"cycle\": \"Core\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -4203,8 +4203,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -4266,8 +4266,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2721": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2299716166487763739/DFD87DFB09BDA4799BFD2F95C5D1B98EE0C30050/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2299716166487764057/23C354D74E6A8C75A6A1F9CF9EEDF856CFFCDC97/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/e03vnp8lnvuuqvoh6y8m4/ded58760d503472e9150c0dabe76299b.jpg?rlkey=rjjstatstxsyhz0bvafxzccsu&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/r22xhyg904gdgxvcthsdg/58260fb6bc084810867ac99cd2594d65.jpg?rlkey=z57k0fjhu64quyjvry1cqv8jk&dl=0",
           "NumWidth": 4,
           "NumHeight": 2,
           "BackIsHidden": true,
@@ -4336,7 +4336,7 @@
       "CustomDeck": {
         "2720": {
           "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2299716166487761335/90B73D463877001F4BD502D01EDD8BE49A3E01FD/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 4,
           "NumHeight": 2,
           "BackIsHidden": true,
@@ -4344,8 +4344,8 @@
           "Type": 0
         },
         "2357": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -4433,8 +4433,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Underground Ruins",
-          "Description": "",
+          "Nickname": "地下遺跡",
+          "Description": "古代. 遺跡.",
           "GMNotes": "{\n  \"id\": \"04066\",\n  \"type\": \"Location\",\n  \"traits\": \"Ancient. Ruins.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Diamond\",\n    \"connections\": \"Square|Triangle|Tilde\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -4468,8 +4468,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -4495,8 +4495,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Pit Viper",
-          "Description": "",
+          "Nickname": "蝮蛇",
+          "Description": "生物. 蛇族.",
           "GMNotes": "{\n  \"id\": \"04078\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Serpent.\",\n  \"vengeance\": 1,\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -4529,8 +4529,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -4556,8 +4556,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Pit Viper",
-          "Description": "",
+          "Nickname": "蝮蛇",
+          "Description": "生物. 蛇族.",
           "GMNotes": "{\n  \"id\": \"04078\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Serpent.\",\n  \"vengeance\": 1,\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -4590,8 +4590,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -4617,8 +4617,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Pit Viper",
-          "Description": "",
+          "Nickname": "蝮蛇",
+          "Description": "生物. 蛇族.",
           "GMNotes": "{\n  \"id\": \"04078\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Serpent.\",\n  \"vengeance\": 1,\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -4651,8 +4651,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -4678,8 +4678,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Final Mistake",
-          "Description": "",
+          "Nickname": "致命錯誤",
+          "Description": "陷阱.",
           "GMNotes": "{\n  \"id\": \"04088\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Trap.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -4712,8 +4712,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -4739,8 +4739,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Deep Dark",
-          "Description": "",
+          "Nickname": "一片漆黑",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"04094\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"The Forgotten Age\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -4773,8 +4773,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -4862,8 +4862,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Grand Chamber",
-          "Description": "",
+          "Nickname": "華美石室",
+          "Description": "古代. 遺跡.",
           "GMNotes": "{\n  \"id\": \"04064\",\n  \"type\": \"Location\",\n  \"traits\": \"Ancient. Ruins.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"victory\": 1,\n    \"icons\": \"Star\",\n    \"connections\": \"Circle|Square|Triangle\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -4897,8 +4897,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -4924,8 +4924,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Burial Pit",
-          "Description": "",
+          "Nickname": "坑葬墓室",
+          "Description": "古代. 遺跡.",
           "GMNotes": "{\n  \"id\": \"04065\",\n  \"type\": \"Location\",\n  \"traits\": \"Ancient. Ruins.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"victory\": 1,\n    \"icons\": \"Triangle\",\n    \"connections\": \"Star|Diamond|Tilde\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -4959,8 +4959,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2357": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777497046/3003A76996378249E6AAA4A60D85AE7EE59C1B8B/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/38efjhouqboag5fnrz92s/f971788195564e98a759a30ee18a4b71.jpg?rlkey=n0gjzi7zzduu463ozldabjb4h&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,

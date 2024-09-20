@@ -155,8 +155,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Angry Mob",
-          "Description": "Humanoid. Elite.",
+          "Nickname": "找到哈珀特工",
+          "Description": "",
           "GMNotes": "{\n  \"id\": \"07062a\",\n  \"type\": \"Enemy\",\n  \"class\": \"Neutral\",\n  \"cost\": 4,\n  \"traits\": \"Humanoid. Elite.\",\n  \"willpowerIcons\": 1,\n  \"combatIcons\": 1,\n  \"wildIcons\": 1,\n  \"victory\": 0,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -189,8 +189,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3699": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132668361/FA5D994677EFCA86F66F88600DE43822F8E1D9F8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132668810/B3C31810E9ADA30EAD9F56966F011C00694267D0/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/6232t3vk1nyl2d8vc267p/e44bfab9383d4505aa3407aef5c68689.jpg?rlkey=j99dk53uogvlrymqm7z4289sb&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/kpz0e9yi9f3l9a4svfouc/239b5e212922423c80c5f291dc5df3d1.jpg?rlkey=trk1o8c0eqfwtk3p1te5dtqh1&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -275,8 +275,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "The Little Bookshop",
-      "Description": "Innsmouth.",
+      "Nickname": "小利透書店",
+      "Description": "印斯茅斯.",
       "GMNotes": "{\n  \"id\": \"07069\",\n  \"type\": \"Location\",\n  \"traits\": \"Innsmouth.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Apostrophe\",\n    \"connections\": \"Diamond|Star|Tilde|Plus\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Apostrophe\",\n    \"connections\": \"Diamond|Star|Tilde|Plus\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -310,8 +310,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "3699": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132668361/FA5D994677EFCA86F66F88600DE43822F8E1D9F8/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132668810/B3C31810E9ADA30EAD9F56966F011C00694267D0/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/6232t3vk1nyl2d8vc267p/e44bfab9383d4505aa3407aef5c68689.jpg?rlkey=j99dk53uogvlrymqm7z4289sb&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/kpz0e9yi9f3l9a4svfouc/239b5e212922423c80c5f291dc5df3d1.jpg?rlkey=trk1o8c0eqfwtk3p1te5dtqh1&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -337,8 +337,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Gilman House",
-      "Description": "Innsmouth.",
+      "Nickname": "吉爾曼旅社",
+      "Description": "印斯茅斯.",
       "GMNotes": "{\n  \"id\": \"07064\",\n  \"type\": \"Location\",\n  \"traits\": \"Innsmouth.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Diamond\",\n    \"connections\": \"Triangle|Apostrophe|Star|Tilde|Tee\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Diamond\",\n    \"connections\": \"Triangle|Apostrophe|Star|Tilde|Tee\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -372,8 +372,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "3699": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132668361/FA5D994677EFCA86F66F88600DE43822F8E1D9F8/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132668810/B3C31810E9ADA30EAD9F56966F011C00694267D0/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/6232t3vk1nyl2d8vc267p/e44bfab9383d4505aa3407aef5c68689.jpg?rlkey=j99dk53uogvlrymqm7z4289sb&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/kpz0e9yi9f3l9a4svfouc/239b5e212922423c80c5f291dc5df3d1.jpg?rlkey=trk1o8c0eqfwtk3p1te5dtqh1&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -399,8 +399,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.1
       },
-      "Nickname": "Mysterious Photo",
-      "Description": "All I Have Left of Him",
+      "Nickname": "神秘相片",
+      "Description": "道具.",
       "GMNotes": "{\n  \"id\": \"90045a\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"traits\": \"Item.\",\n  \"cycle\": \"Standalone\"\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -434,8 +434,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "5359": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1849293764610856838/D7BEC8CBBE4F692DC2033065B210E0C1B0869BB1/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1849293764610857202/7BDF70F6A11E1F9779ED6AB2BBD6C8C33A930CDE/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/pan1whez4iqxft8ytv1e6/e0ed9f2ce26643a493f5b2ac977f74f6.jpg?rlkey=1jteayi3bno8bv29f3l33dhh0&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/hcx4acr5k5a35nvtb6el5/aa18305609054b129a08e2968b8cb509.jpg?rlkey=c9qg89ucgrvpafn00s3ta6gd9&dl=0",
           "NumWidth": 3,
           "NumHeight": 3,
           "BackIsHidden": true,
@@ -495,8 +495,8 @@
       ],
       "CustomDeck": {
         "5358": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1849293764610856838/D7BEC8CBBE4F692DC2033065B210E0C1B0869BB1/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1849293764610857202/7BDF70F6A11E1F9779ED6AB2BBD6C8C33A930CDE/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/pan1whez4iqxft8ytv1e6/e0ed9f2ce26643a493f5b2ac977f74f6.jpg?rlkey=1jteayi3bno8bv29f3l33dhh0&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/hcx4acr5k5a35nvtb6el5/aa18305609054b129a08e2968b8cb509.jpg?rlkey=c9qg89ucgrvpafn00s3ta6gd9&dl=0",
           "NumWidth": 3,
           "NumHeight": 3,
           "BackIsHidden": true,
@@ -522,8 +522,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.1
           },
-          "Nickname": "Trail Goes Cold",
-          "Description": "Agenda 2",
+          "Nickname": "線索渺茫",
+          "Description": "",
           "GMNotes": "{\n  \"id\": \"90043\",\n  \"type\": \"Agenda\",\n  \"class\": \"Mythos\",\n  \"doomThreshold\": 9,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -556,8 +556,8 @@
           "SidewaysCard": true,
           "CustomDeck": {
             "5358": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1849293764610856838/D7BEC8CBBE4F692DC2033065B210E0C1B0869BB1/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1849293764610857202/7BDF70F6A11E1F9779ED6AB2BBD6C8C33A930CDE/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/pan1whez4iqxft8ytv1e6/e0ed9f2ce26643a493f5b2ac977f74f6.jpg?rlkey=1jteayi3bno8bv29f3l33dhh0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/hcx4acr5k5a35nvtb6el5/aa18305609054b129a08e2968b8cb509.jpg?rlkey=c9qg89ucgrvpafn00s3ta6gd9&dl=0",
               "NumWidth": 3,
               "NumHeight": 3,
               "BackIsHidden": true,
@@ -583,8 +583,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.1
           },
-          "Nickname": "The New Girl",
-          "Description": "Agenda 1",
+          "Nickname": "新來的女孩",
+          "Description": "",
           "GMNotes": "{\n  \"id\": \"90042\",\n  \"type\": \"Agenda\",\n  \"class\": \"Mythos\",\n  \"doomThreshold\": 3,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -617,8 +617,8 @@
           "SidewaysCard": true,
           "CustomDeck": {
             "5358": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1849293764610856838/D7BEC8CBBE4F692DC2033065B210E0C1B0869BB1/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1849293764610857202/7BDF70F6A11E1F9779ED6AB2BBD6C8C33A930CDE/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/pan1whez4iqxft8ytv1e6/e0ed9f2ce26643a493f5b2ac977f74f6.jpg?rlkey=1jteayi3bno8bv29f3l33dhh0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/hcx4acr5k5a35nvtb6el5/aa18305609054b129a08e2968b8cb509.jpg?rlkey=c9qg89ucgrvpafn00s3ta6gd9&dl=0",
               "NumWidth": 3,
               "NumHeight": 3,
               "BackIsHidden": true,
@@ -703,8 +703,8 @@
       ],
       "CustomDeck": {
         "2317": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -712,8 +712,8 @@
           "Type": 0
         },
         "3695": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -739,8 +739,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Obscuring Fog",
-          "Description": "Hazard.",
+          "Nickname": "朦朧之霧",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"01168\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -773,8 +773,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -800,8 +800,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Obscuring Fog",
-          "Description": "Hazard.",
+          "Nickname": "朦朧之霧",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"01168\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -834,8 +834,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -861,8 +861,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Crypt Chill",
-          "Description": "Hazard.",
+          "Nickname": "地窖寒風",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"01167\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -895,8 +895,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -922,8 +922,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Crypt Chill",
-          "Description": "Hazard.",
+          "Nickname": "地窖寒風",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"01167\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -956,8 +956,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -983,8 +983,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Furtive Locals",
-          "Description": "Terror.",
+          "Nickname": "鬼祟的當地人",
+          "Description": "恐怖.",
           "GMNotes": "{\n  \"id\": \"07107\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Terror.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1017,8 +1017,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1044,8 +1044,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Furtive Locals",
-          "Description": "Terror.",
+          "Nickname": "鬼祟的當地人",
+          "Description": "恐怖.",
           "GMNotes": "{\n  \"id\": \"07107\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Terror.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1078,8 +1078,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1105,8 +1105,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Innsmouth Look",
-          "Description": "Curse. Terror.",
+          "Nickname": "印斯茅斯面容",
+          "Description": "詛咒. 恐怖.",
           "GMNotes": "{\n  \"id\": \"07106\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse. Terror.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1139,8 +1139,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1166,8 +1166,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Innsmouth Look",
-          "Description": "Curse. Terror.",
+          "Nickname": "印斯茅斯面容",
+          "Description": "詛咒. 恐怖.",
           "GMNotes": "{\n  \"id\": \"07106\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse. Terror.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1200,8 +1200,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1227,8 +1227,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Innsmouth Troublemaker",
-          "Description": "Humanoid. Hybrid. Criminal.",
+          "Nickname": "印斯茅斯鬧事者",
+          "Description": "類人. 混血. 罪犯.",
           "GMNotes": "{\n  \"id\": \"07105\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Hybrid. Criminal.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1261,8 +1261,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1288,8 +1288,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Innsmouth Troublemaker",
-          "Description": "Humanoid. Hybrid. Criminal.",
+          "Nickname": "印斯茅斯鬧事者",
+          "Description": "類人. 混血. 罪犯.",
           "GMNotes": "{\n  \"id\": \"07105\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Hybrid. Criminal.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1322,8 +1322,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1349,8 +1349,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Initiate of Dagon",
-          "Description": "Humanoid. Hybrid. Cultist.",
+          "Nickname": "達貢新信徒",
+          "Description": "類人. 混血. 異教徒.",
           "GMNotes": "{\n  \"id\": \"07085\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Hybrid. Cultist.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1383,8 +1383,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1410,8 +1410,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Initiate of Dagon",
-          "Description": "Humanoid. Hybrid. Cultist.",
+          "Nickname": "達貢新信徒",
+          "Description": "類人. 混血. 異教徒.",
           "GMNotes": "{\n  \"id\": \"07085\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Hybrid. Cultist.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1444,8 +1444,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1471,8 +1471,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Initiate of Dagon",
-          "Description": "Humanoid. Hybrid. Cultist.",
+          "Nickname": "達貢新信徒",
+          "Description": "類人. 混血. 異教徒.",
           "GMNotes": "{\n  \"id\": \"07085\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Hybrid. Cultist.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1505,8 +1505,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1532,8 +1532,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Priest of Dagon",
-          "Description": "Humanoid. Cultist.",
+          "Nickname": "達貢祭司",
+          "Description": "類人. 異教徒.",
           "GMNotes": "{\n  \"id\": \"07084\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Cultist.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1566,8 +1566,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1593,7 +1593,7 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "False Lead",
+          "Nickname": "錯誤指示",
           "Description": "",
           "GMNotes": "{\n  \"id\": \"01136\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
@@ -1627,8 +1627,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1654,7 +1654,7 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "False Lead",
+          "Nickname": "錯誤指示",
           "Description": "",
           "GMNotes": "{\n  \"id\": \"01136\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
@@ -1688,8 +1688,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1715,8 +1715,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Hunting Shadow",
-          "Description": "Curse.",
+          "Nickname": "追獵鬼影",
+          "Description": "詛咒.",
           "GMNotes": "{\n  \"id\": \"01135\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1749,8 +1749,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1776,8 +1776,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Hunting Shadow",
-          "Description": "Curse.",
+          "Nickname": "追獵鬼影",
+          "Description": "詛咒.",
           "GMNotes": "{\n  \"id\": \"01135\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1810,8 +1810,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1837,8 +1837,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Hunting Shadow",
-          "Description": "Curse.",
+          "Nickname": "追獵鬼影",
+          "Description": "詛咒.",
           "GMNotes": "{\n  \"id\": \"01135\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1871,8 +1871,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1898,8 +1898,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Fog over Innsmouth",
-          "Description": "Hazard.",
+          "Nickname": "印斯茅斯之霧",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"07095\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1932,8 +1932,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1959,8 +1959,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Fog over Innsmouth",
-          "Description": "Hazard.",
+          "Nickname": "印斯茅斯之霧",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"07095\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1993,8 +1993,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2020,7 +2020,7 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "On Wings of Darkness",
+          "Nickname": "乘着黑暗之翼",
           "Description": "",
           "GMNotes": "{\n  \"id\": \"01173\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
@@ -2054,8 +2054,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2081,7 +2081,7 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "On Wings of Darkness",
+          "Nickname": "乘着黑暗之翼",
           "Description": "",
           "GMNotes": "{\n  \"id\": \"01173\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
@@ -2115,8 +2115,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2142,8 +2142,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Locked Door",
-          "Description": "Obstacle.",
+          "Nickname": "上鎖的門",
+          "Description": "障礙.",
           "GMNotes": "{\n  \"id\": \"01174\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Obstacle.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2176,8 +2176,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2203,8 +2203,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Locked Door",
-          "Description": "Obstacle.",
+          "Nickname": "上鎖的門",
+          "Description": "障礙.",
           "GMNotes": "{\n  \"id\": \"01174\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Obstacle.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2237,8 +2237,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2317,8 +2317,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Marsh Refinery",
-      "Description": "Innsmouth.",
+      "Nickname": "馬什精煉廠",
+      "Description": "印斯茅斯.",
       "GMNotes": "{\n  \"id\": \"07063\",\n  \"type\": \"Location\",\n  \"traits\": \"Innsmouth.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Circle\",\n    \"connections\": \"Triangle|Hourglass|Crescent|Square|Heart\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Circle\",\n    \"connections\": \"Triangle|Hourglass|Crescent|Square|Heart\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -2352,8 +2352,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "3699": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132668361/FA5D994677EFCA86F66F88600DE43822F8E1D9F8/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132668810/B3C31810E9ADA30EAD9F56966F011C00694267D0/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/6232t3vk1nyl2d8vc267p/e44bfab9383d4505aa3407aef5c68689.jpg?rlkey=j99dk53uogvlrymqm7z4289sb&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/kpz0e9yi9f3l9a4svfouc/239b5e212922423c80c5f291dc5df3d1.jpg?rlkey=trk1o8c0eqfwtk3p1te5dtqh1&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -2414,8 +2414,8 @@
       ],
       "CustomDeck": {
         "2317": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -2423,8 +2423,8 @@
           "Type": 0
         },
         "3695": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -2450,8 +2450,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Hunting Nightgaunt",
-          "Description": "Monster. Nightgaunt.",
+          "Nickname": "狩獵中的夜魘",
+          "Description": "怪物. 夜魘.",
           "GMNotes": "{\n  \"id\": \"01172\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Nightgaunt.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2484,8 +2484,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2511,8 +2511,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Hunting Nightgaunt",
-          "Description": "Monster. Nightgaunt.",
+          "Nickname": "狩獵中的夜魘",
+          "Description": "怪物. 夜魘.",
           "GMNotes": "{\n  \"id\": \"01172\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Nightgaunt.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2545,8 +2545,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2572,8 +2572,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Winged One",
-          "Description": "Creature. Monster.",
+          "Nickname": "長翼者",
+          "Description": "生物. 怪物.",
           "GMNotes": "{\n  \"id\": \"07094\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature. Monster.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2606,8 +2606,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2635,8 +2635,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.1
       },
-      "Nickname": "Searching for Dad",
-      "Description": "Act 1",
+      "Nickname": "尋找爸爸",
+      "Description": "",
       "GMNotes": "{\n  \"id\": \"90044\",\n  \"type\": \"Act\",\n  \"class\": \"Mythos\",\n  \"cycle\": \"Standalone\"\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -2669,8 +2669,8 @@
       "SidewaysCard": true,
       "CustomDeck": {
         "5358": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1849293764610856838/D7BEC8CBBE4F692DC2033065B210E0C1B0869BB1/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1849293764610857202/7BDF70F6A11E1F9779ED6AB2BBD6C8C33A930CDE/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/pan1whez4iqxft8ytv1e6/e0ed9f2ce26643a493f5b2ac977f74f6.jpg?rlkey=1jteayi3bno8bv29f3l33dhh0&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/hcx4acr5k5a35nvtb6el5/aa18305609054b129a08e2968b8cb509.jpg?rlkey=c9qg89ucgrvpafn00s3ta6gd9&dl=0",
           "NumWidth": 3,
           "NumHeight": 3,
           "BackIsHidden": true,
@@ -2696,8 +2696,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Fish Street Bridge",
-      "Description": "Innsmouth.",
+      "Nickname": "魚街舊橋",
+      "Description": "印斯茅斯.",
       "GMNotes": "{\n  \"id\": \"07068\",\n  \"type\": \"Location\",\n  \"traits\": \"Innsmouth.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Hourglass\",\n    \"connections\": \"Triangle|Circle|Crescent|SlantedEquals|Tee\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Hourglass\",\n    \"connections\": \"Triangle|Circle|Crescent|SlantedEquals|Tee\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -2731,8 +2731,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "3699": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132668361/FA5D994677EFCA86F66F88600DE43822F8E1D9F8/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132668810/B3C31810E9ADA30EAD9F56966F011C00694267D0/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/6232t3vk1nyl2d8vc267p/e44bfab9383d4505aa3407aef5c68689.jpg?rlkey=j99dk53uogvlrymqm7z4289sb&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/kpz0e9yi9f3l9a4svfouc/239b5e212922423c80c5f291dc5df3d1.jpg?rlkey=trk1o8c0eqfwtk3p1te5dtqh1&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -2758,8 +2758,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "First National Grocery",
-      "Description": "Innsmouth.",
+      "Nickname": "國立第一雜貨舖",
+      "Description": "印斯茅斯.",
       "GMNotes": "{\n  \"id\": \"07067\",\n  \"type\": \"Location\",\n  \"traits\": \"Innsmouth.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Star\",\n    \"connections\": \"Triangle|Diamond|Apostrophe|Square|Plus\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Star\",\n    \"connections\": \"Triangle|Diamond|Apostrophe|Square|Plus\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -2793,8 +2793,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "3699": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132668361/FA5D994677EFCA86F66F88600DE43822F8E1D9F8/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132668810/B3C31810E9ADA30EAD9F56966F011C00694267D0/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/6232t3vk1nyl2d8vc267p/e44bfab9383d4505aa3407aef5c68689.jpg?rlkey=j99dk53uogvlrymqm7z4289sb&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/kpz0e9yi9f3l9a4svfouc/239b5e212922423c80c5f291dc5df3d1.jpg?rlkey=trk1o8c0eqfwtk3p1te5dtqh1&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -2864,8 +2864,8 @@
       ],
       "CustomDeck": {
         "3695": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -2891,8 +2891,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Robert Friendly",
-          "Description": "Disgruntled Dockworker",
+          "Nickname": "羅伯特·弗蘭得禮",
+          "Description": "類人. 嫌犯. 精英.",
           "GMNotes": "{\n  \"id\": \"07076\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Suspect. Elite.\",\n  \"victory\": 0,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2925,8 +2925,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2952,8 +2952,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Esoteric Order of Dagon",
-          "Description": "Innsmouth. Hideout.",
+          "Nickname": "達貢密教",
+          "Description": "印斯茅斯. 窩點.",
           "GMNotes": "{\n  \"id\": \"07070\",\n  \"type\": \"Location\",\n  \"traits\": \"Innsmouth. Hideout.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"victory\": 1,\n    \"icons\": \"Plus\",\n    \"connections\": \"Apostrophe|Star\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2987,8 +2987,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3014,8 +3014,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Shoreward Slums",
-          "Description": "Innsmouth. Hideout.",
+          "Nickname": "朝岸貧民窟",
+          "Description": "印斯茅斯. 窩點.",
           "GMNotes": "{\n  \"id\": \"07072\",\n  \"type\": \"Location\",\n  \"traits\": \"Innsmouth. Hideout.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"victory\": 1,\n    \"icons\": \"SlantedEquals\",\n    \"connections\": \"Hourglass|Crescent\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3049,8 +3049,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3076,8 +3076,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Zadok Allen",
-          "Description": "Drunk and Disorderly",
+          "Nickname": "扎多克·艾倫",
+          "Description": "類人. 嫌犯. 精英.",
           "GMNotes": "{\n  \"id\": \"07077\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Suspect. Elite.\",\n  \"victory\": 0,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3110,8 +3110,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3137,8 +3137,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Innsmouth Jail",
-          "Description": "Innsmouth. Hideout.",
+          "Nickname": "印斯茅斯監獄",
+          "Description": "印斯茅斯. 窩點.",
           "GMNotes": "{\n  \"id\": \"07074\",\n  \"type\": \"Location\",\n  \"traits\": \"Innsmouth. Hideout.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"victory\": 1,\n    \"icons\": \"Tee\",\n    \"connections\": \"Diamond|Triangle|Hourglass\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3172,8 +3172,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3199,8 +3199,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Brian Burnham",
-          "Description": "Wants Out",
+          "Nickname": "布里安·伯納姆",
+          "Description": "類人. 嫌犯. 精英.",
           "GMNotes": "{\n  \"id\": \"07078\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Suspect. Elite.\",\n  \"victory\": 0,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3233,8 +3233,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3260,8 +3260,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Sawbone Alley",
-          "Description": "Innsmouth. Hideout.",
+          "Nickname": "鋸骨巷",
+          "Description": "印斯茅斯. 窩點.",
           "GMNotes": "{\n  \"id\": \"07071\",\n  \"type\": \"Location\",\n  \"traits\": \"Innsmouth. Hideout.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"victory\": 1,\n    \"icons\": \"Tilde\",\n    \"connections\": \"Apostrophe|Diamond\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3295,8 +3295,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3322,8 +3322,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Joyce Little",
-          "Description": "Bookshop Owner",
+          "Nickname": "喬伊斯·小利透",
+          "Description": "類人. 嫌犯. 精英.",
           "GMNotes": "{\n  \"id\": \"07080\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Suspect. Elite.\",\n  \"victory\": 0,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3356,8 +3356,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3383,8 +3383,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Othera Gilman",
-          "Description": "Proprietress of the Hotel",
+          "Nickname": "歐斯拉·吉爾曼",
+          "Description": "類人. 嫌犯. 精英.",
           "GMNotes": "{\n  \"id\": \"07081\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Suspect. Elite.\",\n  \"victory\": 0,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3417,8 +3417,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3444,8 +3444,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "New Church Green",
-          "Description": "Innsmouth. Hideout.",
+          "Nickname": "新格林教堂",
+          "Description": "印斯茅斯. 窩點.",
           "GMNotes": "{\n  \"id\": \"07075\",\n  \"type\": \"Location\",\n  \"traits\": \"Innsmouth. Hideout.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"victory\": 1,\n    \"icons\": \"Square\",\n    \"connections\": \"Circle|Triangle|Star\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3479,8 +3479,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3506,8 +3506,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "The House on Water Street",
-          "Description": "Innsmouth. Hideout.",
+          "Nickname": "水街老屋",
+          "Description": "印斯茅斯. 窩點.",
           "GMNotes": "{\n  \"id\": \"07073\",\n  \"type\": \"Location\",\n  \"traits\": \"Innsmouth. Hideout.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"victory\": 1,\n    \"icons\": \"Heart\",\n    \"connections\": \"Circle|Crescent\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3541,8 +3541,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3568,8 +3568,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Barnabas Marsh",
-          "Description": "The Change Is upon Him",
+          "Nickname": "巴納巴斯·馬什",
+          "Description": "類人. 嫌犯. 精英.",
           "GMNotes": "{\n  \"id\": \"07079\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Suspect. Elite.\",\n  \"victory\": 0,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3602,8 +3602,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3695": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132663476/95B0BD966B579DEE644A25703730C8729B16AAF8/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/w7uux1o6819dlxhkjp3e4/3821fa48b66843159c2cf81ec6d5d2ab.jpg?rlkey=wzkffzlo4dyz20f5d0frra18v&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3631,8 +3631,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Innsmouth Square",
-      "Description": "Innsmouth. Central.",
+      "Nickname": "印斯茅斯廣場",
+      "Description": "印斯茅斯. 中心.",
       "GMNotes": "{\n  \"id\": \"07065\",\n  \"type\": \"Location\",\n  \"traits\": \"Innsmouth. Central.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Triangle\",\n    \"connections\": \"Circle|Diamond|Star|Hourglass|Square|Tee\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Triangle\",\n    \"connections\": \"Circle|Diamond|Star|Hourglass|Square|Tee\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -3666,8 +3666,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "3699": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132668361/FA5D994677EFCA86F66F88600DE43822F8E1D9F8/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132668810/B3C31810E9ADA30EAD9F56966F011C00694267D0/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/6232t3vk1nyl2d8vc267p/e44bfab9383d4505aa3407aef5c68689.jpg?rlkey=j99dk53uogvlrymqm7z4289sb&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/kpz0e9yi9f3l9a4svfouc/239b5e212922423c80c5f291dc5df3d1.jpg?rlkey=trk1o8c0eqfwtk3p1te5dtqh1&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -3694,7 +3694,7 @@
         "scaleZ": 1.1
       },
       "Nickname": "Scenario",
-      "Description": "Red Tide Rising",
+      "Description": "赤潮升湧",
       "GMNotes": "{\"type\": \"ScenarioReference\", \"class\": \"Mythos\", \"tokens\": {\"back\": {\"Cultist\": {\"description\": \"-3 (-5 instead if you are parleying with a Suspect enemy or investigating a Hideout location).\", \"modifier\": -3}, \"Elder Thing\": {\"description\": \"-2. If you fail, shuffle the top card of the encounter deck into the Leads deck.\", \"modifier\": -2}, \"Skull\": {\"description\": \"-X. X is the number of Suspect and Hideout cards in the victory display.\", \"modifier\": -999}, \"Tablet\": {\"description\": \"-4. If you suceed, look at the top card of the Leads deck. You may choose to shuffle the Leads deck.\", \"modifier\": -4}}, \"front\": {\"Cultist\": {\"description\": \"-2 (-4 instead if you are parleying with a Suspect enemy or investigating a Hideout location).\", \"modifier\": -2}, \"Elder Thing\": {\"description\": \"-1. If you fail, shuffle the top card of the encounter deck into the Leads deck.\", \"modifier\": -1}, \"Skull\": {\"description\": \"-X. X is half the number of Suspect and Hideout cards in the victory display.\", \"modifier\": -999}, \"Tablet\": {\"description\": \"-3. If you suceed, look at the top card of the Leads deck. You may choose to shuffle the Leads deck.\", \"modifier\": -3}}}, \"id\": \"90041\"}",
       "AltLookAngle": {
         "x": 0.0,
@@ -3724,8 +3724,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "5359": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1849293764610856838/D7BEC8CBBE4F692DC2033065B210E0C1B0869BB1/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1849293764610857202/7BDF70F6A11E1F9779ED6AB2BBD6C8C33A930CDE/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/pan1whez4iqxft8ytv1e6/e0ed9f2ce26643a493f5b2ac977f74f6.jpg?rlkey=1jteayi3bno8bv29f3l33dhh0&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/hcx4acr5k5a35nvtb6el5/aa18305609054b129a08e2968b8cb509.jpg?rlkey=c9qg89ucgrvpafn00s3ta6gd9&dl=0",
           "NumWidth": 3,
           "NumHeight": 3,
           "BackIsHidden": true,
@@ -3751,8 +3751,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Innsmouth Harbour",
-      "Description": "Innsmouth.",
+      "Nickname": "印斯茅斯港口",
+      "Description": "印斯茅斯.",
       "GMNotes": "{\n  \"id\": \"07066\",\n  \"type\": \"Location\",\n  \"traits\": \"Innsmouth.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Crescent\",\n    \"connections\": \"Circle|Hourglass|SlantedEquals|Heart\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Crescent\",\n    \"connections\": \"Circle|Hourglass|SlantedEquals|Heart\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -3786,8 +3786,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "3699": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132668361/FA5D994677EFCA86F66F88600DE43822F8E1D9F8/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1626320664132668810/B3C31810E9ADA30EAD9F56966F011C00694267D0/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/6232t3vk1nyl2d8vc267p/e44bfab9383d4505aa3407aef5c68689.jpg?rlkey=j99dk53uogvlrymqm7z4289sb&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/kpz0e9yi9f3l9a4svfouc/239b5e212922423c80c5f291dc5df3d1.jpg?rlkey=trk1o8c0eqfwtk3p1te5dtqh1&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,

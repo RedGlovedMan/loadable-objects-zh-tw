@@ -189,8 +189,8 @@
           ],
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -216,8 +216,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Oozewraith",
-              "Description": "Monster. Ooze. Manifold.",
+              "Nickname": "軟泥幽靈",
+              "Description": "怪物. 軟泥. 複體.",
               "GMNotes": "{\n  \"id\": \"85042\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Ooze. Manifold.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -250,8 +250,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2337": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -277,8 +277,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Oozewraith",
-              "Description": "Monster. Ooze. Manifold.",
+              "Nickname": "軟泥幽靈",
+              "Description": "怪物. 軟泥. 複體.",
               "GMNotes": "{\n  \"id\": \"85042\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Ooze. Manifold.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -311,8 +311,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2337": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -340,8 +340,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Cubic Ooze",
-          "Description": "Monster. Ooze. Manifold.",
+          "Nickname": "方體軟泥",
+          "Description": "怪物. 軟泥. 複體.",
           "GMNotes": "{\n  \"id\": \"85041\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Ooze. Manifold.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -374,8 +374,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -401,8 +401,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Grasping Ooze",
-          "Description": "Monster. Ooze. Manifold.",
+          "Nickname": "緊噬軟泥",
+          "Description": "怪物. 軟泥. 複體.",
           "GMNotes": "{\n  \"id\": \"85040\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Ooze. Manifold.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -435,8 +435,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -462,8 +462,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Vulnerable Heart",
-          "Description": "Monster. Ooze. Elite.",
+          "Nickname": "脆弱心臟",
+          "Description": "怪物. 軟泥. 精英.",
           "GMNotes": "{\n  \"id\": \"85043\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Ooze. Elite.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -496,8 +496,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -558,8 +558,8 @@
           ],
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -585,8 +585,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Mi-Go Drone",
-              "Description": "Monster. Mi-Go.",
+              "Nickname": "米戈工兵",
+              "Description": "怪物. 米戈.",
               "GMNotes": "{\n  \"id\": \"85033\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Mi-Go.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -619,8 +619,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2337": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -646,8 +646,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Mi-Go Drone",
-              "Description": "Monster. Mi-Go.",
+              "Nickname": "米戈工兵",
+              "Description": "怪物. 米戈.",
               "GMNotes": "{\n  \"id\": \"85033\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Mi-Go.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -680,8 +680,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2337": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -707,8 +707,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Mi-Go Drone",
-              "Description": "Monster. Mi-Go.",
+              "Nickname": "米戈工兵",
+              "Description": "怪物. 米戈.",
               "GMNotes": "{\n  \"id\": \"85033\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Mi-Go.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -741,8 +741,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2337": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -853,8 +853,8 @@
               ],
               "CustomDeck": {
                 "2337": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -862,8 +862,8 @@
                   "Type": 0
                 },
                 "2336": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -871,8 +871,8 @@
                   "Type": 0
                 },
                 "2353": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -898,8 +898,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Universal Solvent",
-                  "Description": "",
+                  "Nickname": "萬用溶劑",
+                  "Description": "道具. 科學.",
                   "GMNotes": "{\n  \"id\": \"85029\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"cost\": 2,\n  \"traits\": \"Item. Science.\",\n  \"intellectIcons\": 1,\n  \"wildIcons\": 1,\n  \"uses\": [\n    {\n      \"count\": 4,\n      \"type\": \"Supply\",\n      \"token\": \"resource\"\n    }\n  ],\n  \"cycle\": \"Standalone\"\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -933,8 +933,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2336": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -960,8 +960,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "University Chemist",
-                  "Description": "Bystander. Miskatonic.",
+                  "Nickname": "大學化學家",
+                  "Description": "旁人. 米斯卡塔尼克.",
                   "GMNotes": "{\n  \"id\": \"85025\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"traits\": \"Bystander. Miskatonic.\",\n  \"cycle\": \"Standalone\"\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -995,8 +995,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2337": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -1022,8 +1022,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Mi-Go Abductor",
-                  "Description": "Monster. Mi-Go. Elite.",
+                  "Nickname": "米戈誘拐者",
+                  "Description": "怪物. 米戈. 精英.",
                   "GMNotes": "{\n  \"id\": \"85036\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Mi-Go. Elite.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -1056,8 +1056,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2337": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -1083,8 +1083,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Rescue the Chemist",
-                  "Description": "",
+                  "Nickname": "營救化學家",
+                  "Description": "第一章.",
                   "GMNotes": "{\n  \"id\": \"85021\",\n  \"type\": \"Story\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Part 1.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -1117,8 +1117,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2353": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -1182,8 +1182,8 @@
               ],
               "CustomDeck": {
                 "2337": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -1191,8 +1191,8 @@
                   "Type": 0
                 },
                 "2336": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -1200,8 +1200,8 @@
                   "Type": 0
                 },
                 "2352": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -1227,8 +1227,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Pet Oozeling",
-                  "Description": "",
+                  "Nickname": "軟泥寵物",
+                  "Description": "盟友. 怪物. 軟泥.",
                   "GMNotes": "{\n  \"id\": \"85030\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"cost\": 2,\n  \"traits\": \"Ally. Monster. Ooze.\",\n  \"agilityIcons\": 1,\n  \"wildIcons\": 1,\n  \"cycle\": \"Standalone\"\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -1262,8 +1262,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2336": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -1289,8 +1289,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Meteorite Sample",
-                  "Description": "Item.",
+                  "Nickname": "隕石樣本",
+                  "Description": "道具.",
                   "GMNotes": "{\n  \"id\": \"85026\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"traits\": \"Item.\",\n  \"cycle\": \"Standalone\"\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -1324,8 +1324,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2337": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -1351,8 +1351,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Mi-Go Harvester",
-                  "Description": "Monster. Mi-Go. Elite.",
+                  "Nickname": "米戈收割者",
+                  "Description": "怪物. 米戈. 精英.",
                   "GMNotes": "{\n  \"id\": \"85034\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Mi-Go. Elite.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -1385,8 +1385,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2337": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -1412,8 +1412,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Recover the Sample",
-                  "Description": "",
+                  "Nickname": "取回樣本",
+                  "Description": "第一章.",
                   "GMNotes": "{\n  \"id\": \"85022\",\n  \"type\": \"Story\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Part 1.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -1446,8 +1446,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2352": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -1510,8 +1510,8 @@
               ],
               "CustomDeck": {
                 "2337": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -1519,8 +1519,8 @@
                   "Type": 0
                 },
                 "2336": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -1528,8 +1528,8 @@
                   "Type": 0
                 },
                 "5396": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -1555,8 +1555,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Mi-Go Weapon",
-                  "Description": "",
+                  "Nickname": "米戈武器",
+                  "Description": "武器. 科學.",
                   "GMNotes": "{\n  \"id\": \"85031\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"cost\": 2,\n  \"traits\": \"Weapon. Science.\",\n  \"combatIcons\": 1,\n  \"wildIcons\": 1,\n  \"uses\": [\n    {\n      \"count\": 3,\n      \"type\": \"Ammo\",\n      \"token\": \"resource\"\n    }\n  ],\n  \"cycle\": \"Standalone\"\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -1590,8 +1590,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2336": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -1617,8 +1617,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Mi-Go General",
-                  "Description": "Monster. Servitor. Mi-Go. Elite.",
+                  "Nickname": "米戈統領",
+                  "Description": "怪物. 僕從. 米戈. 精英.",
                   "GMNotes": "{\n  \"id\": \"85027\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Servitor. Mi-Go. Elite.\",\n  \"cycle\": \"Standalone\"\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -1651,8 +1651,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2337": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -1678,8 +1678,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Drive Off the Mi-Go",
-                  "Description": "",
+                  "Nickname": "擊退米戈",
+                  "Description": "第一章.",
                   "GMNotes": "{\n  \"id\": \"85023\",\n  \"type\": \"Story\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Part 1.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -1712,8 +1712,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2351": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -1777,8 +1777,8 @@
               ],
               "CustomDeck": {
                 "2337": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -1786,8 +1786,8 @@
                   "Type": 0
                 },
                 "2336": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -1795,8 +1795,8 @@
                   "Type": 0
                 },
                 "2354": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -1822,8 +1822,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Lt. Wilson Stewart",
-                  "Description": "Logistical Genius",
+                  "Nickname": "威爾遜·斯圖爾特中尉",
+                  "Description": "盟友. 特工. 老兵.",
                   "GMNotes": "{\n  \"id\": \"85032\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"cost\": 2,\n  \"traits\": \"Ally. Agency. Veteran.\",\n  \"willpowerIcons\": 1,\n  \"wildIcons\": 1,\n  \"cycle\": \"Standalone\"\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -1857,8 +1857,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2336": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -1884,7 +1884,7 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "The Military's Plan",
+                  "Nickname": "軍隊計畫",
                   "Description": "",
                   "GMNotes": "{\n  \"id\": \"85028\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"cycle\": \"Standalone\"\n}",
                   "AltLookAngle": {
@@ -1919,8 +1919,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2337": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -1946,8 +1946,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Mi-Go Meddler",
-                  "Description": "Monster. Mi-Go. Elite.",
+                  "Nickname": "米戈干預者",
+                  "Description": "怪物. 米戈. 精英.",
                   "GMNotes": "{\n  \"id\": \"85035\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Mi-Go. Elite.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -1980,8 +1980,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2337": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -2007,8 +2007,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Defuse the Explosives",
-                  "Description": "",
+                  "Nickname": "清除炸彈",
+                  "Description": "第一章.",
                   "GMNotes": "{\n  \"id\": \"85024\",\n  \"type\": \"Story\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Part 1.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -2041,8 +2041,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2354": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 7,
                       "BackIsHidden": true,
@@ -2169,7 +2169,7 @@
           "CustomDeck": {
             "2665": {
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2042998544436447819/3A16E726DE674FE6EFDB2D813A6243A12689A554/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 5,
               "NumHeight": 2,
               "BackIsHidden": true,
@@ -3103,7 +3103,7 @@
           "CustomDeck": {
             "5397": {
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2042998544436518970/D560D9BD1C8F9D13305E35142CD73C4086122A0F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
               "NumWidth": 5,
               "NumHeight": 2,
               "BackIsHidden": true,
@@ -3112,7 +3112,7 @@
             },
             "2668": {
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2042998544436518970/D560D9BD1C8F9D13305E35142CD73C4086122A0F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 5,
               "NumHeight": 2,
               "BackIsHidden": true,
@@ -3434,7 +3434,7 @@
           "CustomDeck": {
             "5397": {
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2042998544436518970/D560D9BD1C8F9D13305E35142CD73C4086122A0F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
               "NumWidth": 5,
               "NumHeight": 2,
               "BackIsHidden": true,
@@ -3443,7 +3443,7 @@
             },
             "2668": {
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2042998544436518970/D560D9BD1C8F9D13305E35142CD73C4086122A0F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 5,
               "NumHeight": 2,
               "BackIsHidden": true,
@@ -3765,7 +3765,7 @@
           "CustomDeck": {
             "5397": {
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2042998544436518970/D560D9BD1C8F9D13305E35142CD73C4086122A0F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
               "NumWidth": 5,
               "NumHeight": 2,
               "BackIsHidden": true,
@@ -3774,7 +3774,7 @@
             },
             "2668": {
               "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2042998544436518970/D560D9BD1C8F9D13305E35142CD73C4086122A0F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 5,
               "NumHeight": 2,
               "BackIsHidden": true,
@@ -4159,8 +4159,8 @@
             "scaleY": 1.0,
             "scaleZ": 2.23922753
           },
-          "Nickname": "Subject 8L-08",
-          "Description": "Extraspacial Anomaly",
+          "Nickname": "個體代號8L-08",
+          "Description": "怪物. 軟泥. 精英.",
           "GMNotes": "{\n  \"id\": \"85037\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Monster. Ooze. Elite.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -4193,8 +4193,8 @@
           "SidewaysCard": true,
           "CustomDeck": {
             "2663": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708172453327/C073D3D7DCADD0F41E927C3102A2BDFE60B8496A/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/timovond51xcqtt3l8fm8/2659d421def146f4a7ace16b6e9f962e.jpg?rlkey=9blo7k2fmm21kczm00d5jtzc2&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 1,
               "NumHeight": 1,
               "BackIsHidden": true,
@@ -4255,8 +4255,8 @@
           ],
           "CustomDeck": {
             "2348": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -4264,8 +4264,8 @@
               "Type": 0
             },
             "2347": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -4273,8 +4273,8 @@
               "Type": 0
             },
             "2345": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -4300,8 +4300,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Blackwater's Bane",
-              "Description": "Act 3",
+              "Nickname": "黑水之禍",
+              "Description": "",
               "GMNotes": "{\n  \"id\": \"85008\",\n  \"type\": \"Act\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -4334,8 +4334,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2348": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -4361,8 +4361,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Extraterrestrial Physiology",
-              "Description": "Act 2",
+              "Nickname": "外星生理",
+              "Description": "",
               "GMNotes": "{\n  \"id\": \"85007\",\n  \"type\": \"Act\",\n  \"class\": \"Mythos\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -4395,8 +4395,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2347": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -4422,8 +4422,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Expose the Anomaly",
-              "Description": "Act 1",
+              "Nickname": "暴露弱點",
+              "Description": "",
               "GMNotes": "{\n  \"id\": \"85005\",\n  \"type\": \"Act\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -4456,8 +4456,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2345": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -4572,8 +4572,8 @@
           ],
           "CustomDeck": {
             "2349": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -4581,8 +4581,8 @@
               "Type": 0
             },
             "2347": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -4590,8 +4590,8 @@
               "Type": 0
             },
             "2346": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -4617,8 +4617,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Blackwater's Bane",
-              "Description": "Act 3",
+              "Nickname": "黑水之禍",
+              "Description": "",
               "GMNotes": "{\n  \"id\": \"85009\",\n  \"type\": \"Act\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -4651,8 +4651,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2349": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -4678,8 +4678,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Extraterrestrial Physiology",
-              "Description": "Act 2",
+              "Nickname": "外星生理",
+              "Description": "",
               "GMNotes": "{\n  \"id\": \"85007\",\n  \"type\": \"Act\",\n  \"class\": \"Mythos\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -4712,8 +4712,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2347": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -4739,8 +4739,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Expose the Anomaly",
-              "Description": "Act 1",
+              "Nickname": "暴露弱點",
+              "Description": "",
               "GMNotes": "{\n  \"id\": \"85006\",\n  \"type\": \"Act\",\n  \"clueThresholdPerInvestigator\": 2,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -4773,8 +4773,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2346": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -4802,8 +4802,8 @@
             "scaleY": 1.0,
             "scaleZ": 2.23922753
           },
-          "Nickname": "Subject 8L-08",
-          "Description": "Extraspacial Anomaly",
+          "Nickname": "個體代號8L-08",
+          "Description": "怪物. 軟泥. 精英.",
           "GMNotes": "{\n  \"id\": \"85038\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Monster. Ooze. Elite.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -4836,8 +4836,8 @@
           "SidewaysCard": true,
           "CustomDeck": {
             "2663": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708172472361/0375AB1D7E63664897E53B7AE89CDD1D4D1CB8C5/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/q48h84ksbs5stb8c3l1sr/6698241632734b33a9dbddb1014c20c0.jpg?rlkey=9aauh9ielmdf60d9b58hxjhtd&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 1,
               "NumHeight": 1,
               "BackIsHidden": true,
@@ -4900,8 +4900,8 @@
       ],
       "CustomDeck": {
         "2344": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -4909,8 +4909,8 @@
           "Type": 0
         },
         "2343": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -4918,8 +4918,8 @@
           "Type": 0
         },
         "2342": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -4945,8 +4945,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "The Anomaly Consumes",
-          "Description": "Agenda 3",
+          "Nickname": "怪物脹大",
+          "Description": "",
           "GMNotes": "{\n  \"id\": \"85004\",\n  \"type\": \"Agenda\",\n  \"class\": \"Mythos\",\n  \"doomThreshold\": 8,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -4979,8 +4979,8 @@
           "SidewaysCard": true,
           "CustomDeck": {
             "2344": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -5006,8 +5006,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "The Anomaly Swells",
-          "Description": "Agenda 2",
+          "Nickname": "怪物蔓延",
+          "Description": "",
           "GMNotes": "{\n  \"id\": \"85003\",\n  \"type\": \"Agenda\",\n  \"class\": \"Mythos\",\n  \"doomThreshold\": 6,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -5040,8 +5040,8 @@
           "SidewaysCard": true,
           "CustomDeck": {
             "2343": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -5067,8 +5067,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "The Anomaly Spreads",
-          "Description": "Agenda 1",
+          "Nickname": "怪物擴張",
+          "Description": "",
           "GMNotes": "{\n  \"id\": \"85002\",\n  \"type\": \"Agenda\",\n  \"class\": \"Mythos\",\n  \"doomThreshold\": 6,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -5101,8 +5101,8 @@
           "SidewaysCard": true,
           "CustomDeck": {
             "2342": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -5192,8 +5192,8 @@
       ],
       "CustomDeck": {
         "2337": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -5219,8 +5219,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "\"It's got me!\"",
-          "Description": "Hazard.",
+          "Nickname": "\"我中招了！\"",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"85052\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -5253,8 +5253,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -5280,8 +5280,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Alien Food Chain",
-          "Description": "Ooze. Power.",
+          "Nickname": "外星食物鏈",
+          "Description": "軟泥. 力量.",
           "GMNotes": "{\n  \"id\": \"85053\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Ooze. Power.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -5314,8 +5314,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -5341,8 +5341,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Devouring Ooze",
-          "Description": "Attack.",
+          "Nickname": "吞噬軟泥",
+          "Description": "攻擊.",
           "GMNotes": "{\n  \"id\": \"85045\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Attack.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -5375,8 +5375,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -5402,8 +5402,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Reality Acid",
-          "Description": "Power.",
+          "Nickname": "現實溶蝕",
+          "Description": "力量.",
           "GMNotes": "{\n  \"id\": \"85044\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -5436,8 +5436,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -5463,8 +5463,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Reality Acid",
-          "Description": "Power.",
+          "Nickname": "現實溶蝕",
+          "Description": "力量.",
           "GMNotes": "{\n  \"id\": \"85044\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -5497,8 +5497,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -5524,8 +5524,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Wave of Ooze",
-          "Description": "Attack.",
+          "Nickname": "軟泥波濤",
+          "Description": "攻擊.",
           "GMNotes": "{\n  \"id\": \"85048\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Attack.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -5558,8 +5558,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -5585,8 +5585,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Replication",
-          "Description": "Power.",
+          "Nickname": "複製分身",
+          "Description": "力量.",
           "GMNotes": "{\n  \"id\": \"85051\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -5619,8 +5619,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -5646,8 +5646,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Grasping Ooze",
-          "Description": "Monster. Ooze. Manifold.",
+          "Nickname": "緊噬軟泥",
+          "Description": "怪物. 軟泥. 複體.",
           "GMNotes": "{\n  \"id\": \"85040\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Ooze. Manifold.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -5680,8 +5680,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -5707,8 +5707,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Alien Food Chain",
-          "Description": "Ooze. Power.",
+          "Nickname": "外星食物鏈",
+          "Description": "軟泥. 力量.",
           "GMNotes": "{\n  \"id\": \"85053\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Ooze. Power.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -5741,8 +5741,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -5768,8 +5768,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Oozeling",
-          "Description": "Monster. Ooze. Manifold.",
+          "Nickname": "小軟泥",
+          "Description": "怪物. 軟泥. 複體.",
           "GMNotes": "{\n  \"id\": \"85039\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Ooze. Manifold.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -5802,8 +5802,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -5829,8 +5829,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Sticky Feet",
-          "Description": "Ooze. Obstacle.",
+          "Nickname": "寸步難行",
+          "Description": "軟泥. 障礙.",
           "GMNotes": "{\n  \"id\": \"85050\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Ooze. Obstacle.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -5863,8 +5863,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -5890,8 +5890,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Corrosive Slime",
-          "Description": "Attack.",
+          "Nickname": "腐蝕黏液",
+          "Description": "攻擊.",
           "GMNotes": "{\n  \"id\": \"85046\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Attack.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -5924,8 +5924,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -5951,8 +5951,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Wave of Ooze",
-          "Description": "Attack.",
+          "Nickname": "軟泥波濤",
+          "Description": "攻擊.",
           "GMNotes": "{\n  \"id\": \"85048\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Attack.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -5985,8 +5985,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -6012,8 +6012,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Caustic Dissemination",
-          "Description": "Ooze. Hazard.",
+          "Nickname": "酸蝕擴散",
+          "Description": "軟泥. 危險.",
           "GMNotes": "{\n  \"id\": \"85049\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Ooze. Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -6046,8 +6046,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -6073,8 +6073,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Reality Acid",
-          "Description": "Power.",
+          "Nickname": "現實溶蝕",
+          "Description": "力量.",
           "GMNotes": "{\n  \"id\": \"85044\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -6107,8 +6107,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -6134,8 +6134,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Reality Acid",
-          "Description": "Power.",
+          "Nickname": "現實溶蝕",
+          "Description": "力量.",
           "GMNotes": "{\n  \"id\": \"85044\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -6168,8 +6168,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -6195,8 +6195,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "\"It's got me!\"",
-          "Description": "Hazard.",
+          "Nickname": "\"我中招了！\"",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"85052\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -6229,8 +6229,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -6256,8 +6256,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Devouring Ooze",
-          "Description": "Attack.",
+          "Nickname": "吞噬軟泥",
+          "Description": "攻擊.",
           "GMNotes": "{\n  \"id\": \"85045\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Attack.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -6290,8 +6290,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -6317,8 +6317,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Consuming Maw",
-          "Description": "Attack.",
+          "Nickname": "吞食巨口",
+          "Description": "攻擊.",
           "GMNotes": "{\n  \"id\": \"85047\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Attack.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -6351,8 +6351,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -6378,8 +6378,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Cubic Ooze",
-          "Description": "Monster. Ooze. Manifold.",
+          "Nickname": "方體軟泥",
+          "Description": "怪物. 軟泥. 複體.",
           "GMNotes": "{\n  \"id\": \"85041\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Ooze. Manifold.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -6412,8 +6412,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -6439,8 +6439,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Wave of Ooze",
-          "Description": "Attack.",
+          "Nickname": "軟泥波濤",
+          "Description": "攻擊.",
           "GMNotes": "{\n  \"id\": \"85048\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Attack.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -6473,8 +6473,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -6500,8 +6500,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Corrosive Slime",
-          "Description": "Attack.",
+          "Nickname": "腐蝕黏液",
+          "Description": "攻擊.",
           "GMNotes": "{\n  \"id\": \"85046\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Attack.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -6534,8 +6534,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -6561,8 +6561,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Consuming Maw",
-          "Description": "Attack.",
+          "Nickname": "吞食巨口",
+          "Description": "攻擊.",
           "GMNotes": "{\n  \"id\": \"85047\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Attack.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -6595,8 +6595,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -6622,8 +6622,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Oozeling",
-          "Description": "Monster. Ooze. Manifold.",
+          "Nickname": "小軟泥",
+          "Description": "怪物. 軟泥. 複體.",
           "GMNotes": "{\n  \"id\": \"85039\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Ooze. Manifold.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -6656,8 +6656,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -6683,8 +6683,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Consuming Maw",
-          "Description": "Attack.",
+          "Nickname": "吞食巨口",
+          "Description": "攻擊.",
           "GMNotes": "{\n  \"id\": \"85047\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Attack.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -6717,8 +6717,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -6744,8 +6744,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Sticky Feet",
-          "Description": "Ooze. Obstacle.",
+          "Nickname": "寸步難行",
+          "Description": "軟泥. 障礙.",
           "GMNotes": "{\n  \"id\": \"85050\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Ooze. Obstacle.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -6778,8 +6778,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -6805,8 +6805,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Oozeling",
-          "Description": "Monster. Ooze. Manifold.",
+          "Nickname": "小軟泥",
+          "Description": "怪物. 軟泥. 複體.",
           "GMNotes": "{\n  \"id\": \"85039\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Ooze. Manifold.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -6839,8 +6839,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -6866,8 +6866,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Oozeling",
-          "Description": "Monster. Ooze. Manifold.",
+          "Nickname": "小軟泥",
+          "Description": "怪物. 軟泥. 複體.",
           "GMNotes": "{\n  \"id\": \"85039\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Ooze. Manifold.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -6900,8 +6900,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -6927,8 +6927,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Caustic Dissemination",
-          "Description": "Ooze. Hazard.",
+          "Nickname": "酸蝕擴散",
+          "Description": "軟泥. 危險.",
           "GMNotes": "{\n  \"id\": \"85049\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Ooze. Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -6961,8 +6961,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -6988,8 +6988,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Replication",
-          "Description": "Power.",
+          "Nickname": "複製分身",
+          "Description": "力量.",
           "GMNotes": "{\n  \"id\": \"85051\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -7022,8 +7022,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2337": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171655462/0B7EFEEA9A53B93350FEC7F68F39A20D1D6580A9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/0t6um5x0o3hzbnixvko4z/f7d7729475b94bf2ae798adb871a6662.jpg?rlkey=vvjlhkgox25awkncl8y09s8d0&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -7051,7 +7051,7 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Fungus Mound",
+      "Nickname": "真菌墳林",
       "Description": "",
       "GMNotes": "{\n  \"id\": \"85013\",\n  \"type\": \"Location\",\n  \"cycle\": \"Standalone\"\n}",
       "AltLookAngle": {
@@ -7086,8 +7086,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2341": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -7147,8 +7147,8 @@
       ],
       "CustomDeck": {
         "2341": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -7174,7 +7174,7 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Research Site",
+          "Nickname": "研究營地",
           "Description": "",
           "GMNotes": "{\n  \"id\": \"85011\",\n  \"type\": \"Location\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
@@ -7209,8 +7209,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2341": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -7236,7 +7236,7 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Temporary HQ",
+          "Nickname": "臨時指揮部",
           "Description": "",
           "GMNotes": "{\n  \"id\": \"85012\",\n  \"type\": \"Location\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
@@ -7271,8 +7271,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2341": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -7342,8 +7342,8 @@
       ],
       "CustomDeck": {
         "2355": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -7369,8 +7369,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Quarantine Zone",
-          "Description": "Oozified.",
+          "Nickname": "乾枯農地",
+          "Description": "軟泥汙染.",
           "GMNotes": "{\n  \"id\": \"85020\",\n  \"type\": \"Location\",\n  \"traits\": \"Oozified.\",\n  \"cycle\": \"Standalone\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -7404,8 +7404,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2355": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -7431,8 +7431,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Quarantine Zone",
-          "Description": "Oozified.",
+          "Nickname": "陰溝",
+          "Description": "軟泥汙染.",
           "GMNotes": "{\n  \"id\": \"85014\",\n  \"type\": \"Location\",\n  \"traits\": \"Oozified.\",\n  \"cycle\": \"Standalone\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -7466,8 +7466,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2355": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -7493,8 +7493,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Quarantine Zone",
-          "Description": "Oozified.",
+          "Nickname": "乾枯農地",
+          "Description": "軟泥汙染.",
           "GMNotes": "{\n  \"id\": \"85020\",\n  \"type\": \"Location\",\n  \"traits\": \"Oozified.\",\n  \"cycle\": \"Standalone\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -7528,8 +7528,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2355": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -7555,8 +7555,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Quarantine Zone",
-          "Description": "Oozified.",
+          "Nickname": "黏滑街道",
+          "Description": "軟泥汙染.",
           "GMNotes": "{\n  \"id\": \"85019\",\n  \"type\": \"Location\",\n  \"traits\": \"Oozified.\",\n  \"cycle\": \"Standalone\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -7590,8 +7590,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2355": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -7617,8 +7617,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Quarantine Zone",
-          "Description": "Oozified.",
+          "Nickname": "淤泥河床",
+          "Description": "軟泥汙染.",
           "GMNotes": "{\n  \"id\": \"85018\",\n  \"type\": \"Location\",\n  \"traits\": \"Oozified.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -7652,8 +7652,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2355": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -7679,8 +7679,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Quarantine Zone",
-          "Description": "Oozified.",
+          "Nickname": "黏滑街道",
+          "Description": "軟泥汙染.",
           "GMNotes": "{\n  \"id\": \"85019\",\n  \"type\": \"Location\",\n  \"traits\": \"Oozified.\",\n  \"cycle\": \"Standalone\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -7714,8 +7714,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2355": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -7741,8 +7741,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Quarantine Zone",
-          "Description": "Oozified.",
+          "Nickname": "教堂",
+          "Description": "軟泥汙染.",
           "GMNotes": "{\n  \"id\": \"85017\",\n  \"type\": \"Location\",\n  \"traits\": \"Oozified.\",\n  \"cycle\": \"Standalone\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -7776,8 +7776,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2355": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -7803,8 +7803,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Quarantine Zone",
-          "Description": "Oozified.",
+          "Nickname": "廊橋",
+          "Description": "軟泥汙染.",
           "GMNotes": "{\n  \"id\": \"85015\",\n  \"type\": \"Location\",\n  \"traits\": \"Oozified.\",\n  \"cycle\": \"Standalone\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -7838,8 +7838,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2355": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -7865,8 +7865,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Quarantine Zone",
-          "Description": "Oozified.",
+          "Nickname": "淤泥河床",
+          "Description": "軟泥汙染.",
           "GMNotes": "{\n  \"id\": \"85018\",\n  \"type\": \"Location\",\n  \"traits\": \"Oozified.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -7900,8 +7900,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2355": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -7927,8 +7927,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Quarantine Zone",
-          "Description": "Oozified.",
+          "Nickname": "水塔",
+          "Description": "軟泥汙染.",
           "GMNotes": "{\n  \"id\": \"85016\",\n  \"type\": \"Location\",\n  \"traits\": \"Oozified.\",\n  \"cycle\": \"Standalone\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -7962,8 +7962,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2355": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -8036,8 +8036,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "The Crater",
-      "Description": "Oozified.",
+      "Nickname": "隕石坑",
+      "Description": "軟泥汙染.",
       "GMNotes": "{\n  \"id\": \"85010\",\n  \"type\": \"Location\",\n  \"traits\": \"Oozified.\",\n  \"cycle\": \"Standalone\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -8071,8 +8071,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2341": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -8150,7 +8150,7 @@
         "scaleZ": 1.0
       },
       "Nickname": "Scenario",
-      "Description": "The Blob That Ate Everything",
+      "Description": "吞噬萬物",
       "GMNotes": "{\"type\": \"ScenarioReference\", \"class\": \"Mythos\", \"tokens\": {\"back\": {\"Cultist\": {\"description\": \"-3. If this token is revealed during an attack against an enemy, it gains retaliate for this attack.\", \"modifier\": -3}, \"Elder Thing\": {\"description\": \"-7. Choose up to 7 cards from your hand. Subject 8L-08 devours each of those cards. You get +1 skill value fo this test for each card devoured this way.\", \"modifier\": -7}, \"Skull\": {\"description\": \"-1 for every 3 cards Subject 8L-08 has devoured.\", \"modifier\": -1}, \"Tablet\": {\"description\": \"-4. After this skill test ends, Subject 8L-08 devours each card that was committed to the test.\", \"modifier\": -4}}, \"front\": {\"Cultist\": {\"description\": \"-2. If this token is revealed during an attack against an enemy, that enemy gains retaliate for this attack.\", \"modifier\": -2}, \"Elder Thing\": {\"description\": \"-5. Choose up to 5 cards from your hand. Subject 8L-08 devours each of those cards. You get +1 skill value fo this test for each card devoured this way.\", \"modifier\": -5}, \"Skull\": {\"description\": \"-1 for every 5 cards Subject 8L-08 has devoured.\", \"modifier\": -1}, \"Tablet\": {\"description\": \"-3. After this skill test ends, Subject 8L-08 devours each card that was committed to the test.\", \"modifier\": -3}}}, \"id\": \"85001\"}",
       "AltLookAngle": {
         "x": 0.0,
@@ -8180,8 +8180,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2350": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171809776/A9CE1BED9C22D932C83AA7D75891C8DFEC887A78/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784129708171677489/8C336FEC8DF768DFAF70C8F8212BF5F60E7CC9EA/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2plipsl2a5ygvwwvg01df/10e34d3a2b8b4cb6b5afa4f44d4a8dcb.jpg?rlkey=l98fjxanua5szll3c9we833b7&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tzh53xn6dy99jfgdrc0gv/f07c8635576441a4987a9e79bf85148b.jpg?rlkey=3j9f4i93ptqgtei05t76i7bd7&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,

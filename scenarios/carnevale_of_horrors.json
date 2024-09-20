@@ -72,8 +72,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "San Marco Basilica",
-      "Description": "Venice.",
+      "Nickname": "聖馬可大教堂",
+      "Description": "威尼斯.",
       "GMNotes": "{\n  \"id\": \"82008\",\n  \"type\": \"Location\",\n  \"traits\": \"Venice.\",\n  \"cycle\": \"Standalone\"\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -107,8 +107,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2345": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -134,8 +134,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Abbess Allegria Di Biase",
-      "Description": "Ally. Believer.",
+      "Nickname": "修道院長阿萊格·迪·拜絲",
+      "Description": "盟友. 信徒.",
       "GMNotes": "{\n  \"id\": \"82022\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"cost\": 4,\n  \"traits\": \"Ally. Believer.\",\n  \"willpowerIcons\": 1,\n  \"intellectIcons\": 1,\n  \"wildIcons\": 1,\n  \"cycle\": \"Standalone\"\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -169,8 +169,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "40": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642329861/9768E9FE9C71E74721340D0D81607F534E54A3DE/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/bkp8868h28dgrn0zx22qc/9fad2b739c994de7877eb004a046e247.jpg?rlkey=xgkcwqfezazmxh5o5wj3r4vti&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -235,8 +235,8 @@
       ],
       "CustomDeck": {
         "2345": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -262,8 +262,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Streets of Venice",
-          "Description": "Venice.",
+          "Nickname": "威尼斯街道",
+          "Description": "威尼斯.",
           "GMNotes": "{\n  \"id\": \"82010\",\n  \"type\": \"Location\",\n  \"traits\": \"Venice.\",\n  \"cycle\": \"Standalone\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"count\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -297,8 +297,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2345": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -324,8 +324,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Flooded Square",
-          "Description": "Venice.",
+          "Nickname": "水漫廣場",
+          "Description": "威尼斯.",
           "GMNotes": "{\n  \"id\": \"82014\",\n  \"type\": \"Location\",\n  \"traits\": \"Venice.\",\n  \"cycle\": \"Standalone\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -359,8 +359,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2345": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -386,8 +386,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Rialto Bridge",
-          "Description": "Venice. Bridge.",
+          "Nickname": "里亞爾托橋",
+          "Description": "威尼斯. 橋樑.",
           "GMNotes": "{\n  \"id\": \"82011\",\n  \"type\": \"Location\",\n  \"traits\": \"Venice. Bridge.\",\n  \"cycle\": \"Standalone\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"count\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -421,8 +421,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2345": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -448,8 +448,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "The Guardian",
-          "Description": "Venice.",
+          "Nickname": "守衛石獅",
+          "Description": "威尼斯.",
           "GMNotes": "{\n  \"id\": \"82016\",\n  \"type\": \"Location\",\n  \"traits\": \"Venice.\",\n  \"cycle\": \"Standalone\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -483,8 +483,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2345": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -510,8 +510,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Accademia Bridge",
-          "Description": "Venice. Bridge.",
+          "Nickname": "學院橋",
+          "Description": "威尼斯. 橋樑.",
           "GMNotes": "{\n  \"id\": \"82015\",\n  \"type\": \"Location\",\n  \"traits\": \"Venice. Bridge.\",\n  \"cycle\": \"Standalone\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -545,8 +545,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2345": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -572,8 +572,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Bridge of Sighs",
-          "Description": "Venice. Bridge.",
+          "Nickname": "嘆息橋",
+          "Description": "威尼斯. 橋樑.",
           "GMNotes": "{\n  \"id\": \"82013\",\n  \"type\": \"Location\",\n  \"traits\": \"Venice. Bridge.\",\n  \"cycle\": \"Standalone\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"count\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -607,8 +607,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2345": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -634,8 +634,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Venetian Garden",
-          "Description": "Venice.",
+          "Nickname": "威尼斯花園",
+          "Description": "威尼斯.",
           "GMNotes": "{\n  \"id\": \"82012\",\n  \"type\": \"Location\",\n  \"traits\": \"Venice.\",\n  \"cycle\": \"Standalone\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -669,8 +669,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2345": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -756,8 +756,8 @@
       ],
       "CustomDeck": {
         "37": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -783,8 +783,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Lost in Venice",
-          "Description": "Blunder.",
+          "Nickname": "迷失威尼斯",
+          "Description": "疏忽.",
           "GMNotes": "{\n  \"id\": \"82032\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Blunder.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -815,8 +815,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -842,8 +842,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Lost in Venice",
-          "Description": "Blunder.",
+          "Nickname": "迷失威尼斯",
+          "Description": "疏忽.",
           "GMNotes": "{\n  \"id\": \"82032\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Blunder.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -874,8 +874,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -901,8 +901,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Lost in Venice",
-          "Description": "Blunder.",
+          "Nickname": "迷失威尼斯",
+          "Description": "疏忽.",
           "GMNotes": "{\n  \"id\": \"82032\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Blunder.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -933,8 +933,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -960,8 +960,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Watchers' Gaze",
-          "Description": "Terror.",
+          "Nickname": "監視者的注視",
+          "Description": "恐怖.",
           "GMNotes": "{\n  \"id\": \"82033\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Terror.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -992,8 +992,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1019,8 +1019,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Watchers' Gaze",
-          "Description": "Terror.",
+          "Nickname": "監視者的注視",
+          "Description": "恐怖.",
           "GMNotes": "{\n  \"id\": \"82033\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Terror.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1051,8 +1051,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1078,8 +1078,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Watchers' Gaze",
-          "Description": "Terror.",
+          "Nickname": "監視者的注視",
+          "Description": "恐怖.",
           "GMNotes": "{\n  \"id\": \"82033\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Terror.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1110,8 +1110,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1137,8 +1137,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Mesmerize",
-          "Description": "Hex.",
+          "Nickname": "催眠幻術",
+          "Description": "巫術.",
           "GMNotes": "{\n  \"id\": \"82035\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hex.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1169,8 +1169,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1196,8 +1196,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Mesmerize",
-          "Description": "Hex.",
+          "Nickname": "催眠幻術",
+          "Description": "巫術.",
           "GMNotes": "{\n  \"id\": \"82035\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hex.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1228,8 +1228,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1255,8 +1255,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Carnevale Sentinel",
-          "Description": "Humanoid. Cultist.",
+          "Nickname": "狂歡節哨兵",
+          "Description": "類人. 異教徒.",
           "GMNotes": "{\n  \"id\": \"82029\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Cultist.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1287,8 +1287,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1314,8 +1314,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Carnevale Sentinel",
-          "Description": "Humanoid. Cultist.",
+          "Nickname": "狂歡節哨兵",
+          "Description": "類人. 異教徒.",
           "GMNotes": "{\n  \"id\": \"82029\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Cultist.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1346,8 +1346,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1373,8 +1373,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Carnevale Sentinel",
-          "Description": "Humanoid. Cultist.",
+          "Nickname": "狂歡節哨兵",
+          "Description": "類人. 異教徒.",
           "GMNotes": "{\n  \"id\": \"82029\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Cultist.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1405,8 +1405,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1432,8 +1432,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Writhing Appendage",
-          "Description": "Monster. Tentacle.",
+          "Nickname": "盤繞附肢",
+          "Description": "怪物. 觸手.",
           "GMNotes": "{\n  \"id\": \"82030\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Tentacle.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1464,8 +1464,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1491,8 +1491,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Writhing Appendage",
-          "Description": "Monster. Tentacle.",
+          "Nickname": "盤繞附肢",
+          "Description": "怪物. 觸手.",
           "GMNotes": "{\n  \"id\": \"82030\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Tentacle.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1523,8 +1523,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1550,8 +1550,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Writhing Appendage",
-          "Description": "Monster. Tentacle.",
+          "Nickname": "盤繞附肢",
+          "Description": "怪物. 觸手.",
           "GMNotes": "{\n  \"id\": \"82030\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Tentacle.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1582,8 +1582,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1609,8 +1609,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Mass Hysteria",
-          "Description": "Hazard.",
+          "Nickname": "集體癲狂",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"82031\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1641,8 +1641,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1668,8 +1668,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Mass Hysteria",
-          "Description": "Hazard.",
+          "Nickname": "集體癲狂",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"82031\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1700,8 +1700,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1727,8 +1727,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Mass Hysteria",
-          "Description": "Hazard.",
+          "Nickname": "集體癲狂",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"82031\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1759,8 +1759,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1786,8 +1786,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Chaos in the Water",
-          "Description": "Hazard.",
+          "Nickname": "水中災禍",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"82034\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1818,8 +1818,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1845,8 +1845,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Chaos in the Water",
-          "Description": "Hazard.",
+          "Nickname": "水中災禍",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"82034\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1877,8 +1877,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1904,8 +1904,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Chaos in the Water",
-          "Description": "Hazard.",
+          "Nickname": "水中災禍",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"82034\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1936,8 +1936,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1963,8 +1963,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Abduction",
-          "Description": "Scheme.",
+          "Nickname": "誘拐",
+          "Description": "陰謀.",
           "GMNotes": "{\n  \"id\": \"82036\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Scheme.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1995,8 +1995,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2022,8 +2022,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Abduction",
-          "Description": "Scheme.",
+          "Nickname": "誘拐",
+          "Description": "陰謀.",
           "GMNotes": "{\n  \"id\": \"82036\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Scheme.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2054,8 +2054,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2081,8 +2081,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Acrid Miasma",
-          "Description": "Hazard.",
+          "Nickname": "刺鼻毒氣",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"82037\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2113,8 +2113,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2140,8 +2140,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Acrid Miasma",
-          "Description": "Hazard.",
+          "Nickname": "刺鼻毒氣",
+          "Description": "危險.",
           "GMNotes": "{\n  \"id\": \"82037\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2172,8 +2172,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2199,8 +2199,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Poleman",
-          "Description": "Monster. Deep One.",
+          "Nickname": "搖槳人",
+          "Description": "怪物. 深潛者.",
           "GMNotes": "{\n  \"id\": \"82028\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Deep One.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2231,8 +2231,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2258,8 +2258,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Poleman",
-          "Description": "Monster. Deep One.",
+          "Nickname": "搖槳人",
+          "Description": "怪物. 深潛者.",
           "GMNotes": "{\n  \"id\": \"82028\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Deep One.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2290,8 +2290,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2354,8 +2354,8 @@
       ],
       "CustomDeck": {
         "2699": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -2363,8 +2363,8 @@
           "Type": 0
         },
         "3804": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -2390,8 +2390,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Row!",
-          "Description": "Act 3",
+          "Nickname": "快划船！",
+          "Description": "",
           "GMNotes": "{\n  \"id\": \"82007\",\n  \"type\": \"Act\",\n  \"class\": \"Mythos\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2424,8 +2424,8 @@
           "SidewaysCard": true,
           "CustomDeck": {
             "2651": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2451,8 +2451,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Get to the Boats!",
-          "Description": "Act 2",
+          "Nickname": "趕快上船！",
+          "Description": "",
           "GMNotes": "{\n  \"id\": \"82006\",\n  \"type\": \"Act\",\n  \"class\": \"Mythos\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2485,8 +2485,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3804": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2512,8 +2512,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "The Carnevale Conspiracy",
-          "Description": "Act 1",
+          "Nickname": "狂歡節陰謀",
+          "Description": "",
           "GMNotes": "{\n  \"id\": \"82005\",\n  \"type\": \"Act\",\n  \"class\": \"Mythos\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2546,8 +2546,8 @@
           "SidewaysCard": true,
           "CustomDeck": {
             "2699": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2684,8 +2684,8 @@
           ],
           "CustomDeck": {
             "2956": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642329861/9768E9FE9C71E74721340D0D81607F534E54A3DE/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/bkp8868h28dgrn0zx22qc/9fad2b739c994de7877eb004a046e247.jpg?rlkey=xgkcwqfezazmxh5o5wj3r4vti&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2711,8 +2711,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Gilded Volto",
-              "Description": "",
+              "Nickname": "華飾幽靈面具",
+              "Description": "道具. 面具.",
               "GMNotes": "{\n  \"id\": \"82026\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"cost\": 1,\n  \"traits\": \"Item. Mask.\",\n  \"agilityIcons\": 1,\n  \"wildIcons\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -2746,8 +2746,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2956": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642329861/9768E9FE9C71E74721340D0D81607F534E54A3DE/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/bkp8868h28dgrn0zx22qc/9fad2b739c994de7877eb004a046e247.jpg?rlkey=xgkcwqfezazmxh5o5wj3r4vti&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -2773,8 +2773,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Pantalone",
-              "Description": "",
+              "Nickname": "潘塔洛內",
+              "Description": "道具. 面具.",
               "GMNotes": "{\n  \"id\": \"82025\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"cost\": 1,\n  \"traits\": \"Item. Mask.\",\n  \"intellectIcons\": 1,\n  \"wildIcons\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -2808,8 +2808,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2956": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642329861/9768E9FE9C71E74721340D0D81607F534E54A3DE/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/bkp8868h28dgrn0zx22qc/9fad2b739c994de7877eb004a046e247.jpg?rlkey=xgkcwqfezazmxh5o5wj3r4vti&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -2835,8 +2835,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Medico Della Peste",
-              "Description": "",
+              "Nickname": "瘟疫醫生",
+              "Description": "道具. 面具.",
               "GMNotes": "{\n  \"id\": \"82024\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"cost\": 1,\n  \"traits\": \"Item. Mask.\",\n  \"willpowerIcons\": 1,\n  \"wildIcons\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -2870,8 +2870,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2956": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642329861/9768E9FE9C71E74721340D0D81607F534E54A3DE/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/bkp8868h28dgrn0zx22qc/9fad2b739c994de7877eb004a046e247.jpg?rlkey=xgkcwqfezazmxh5o5wj3r4vti&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -2897,8 +2897,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Bauta",
-              "Description": "",
+              "Nickname": "包塔面具",
+              "Description": "道具. 面具.",
               "GMNotes": "{\n  \"id\": \"82023\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"cost\": 1,\n  \"traits\": \"Item. Mask.\",\n  \"combatIcons\": 1,\n  \"wildIcons\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -2932,8 +2932,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2956": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642329861/9768E9FE9C71E74721340D0D81607F534E54A3DE/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/bkp8868h28dgrn0zx22qc/9fad2b739c994de7877eb004a046e247.jpg?rlkey=xgkcwqfezazmxh5o5wj3r4vti&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 7,
                   "BackIsHidden": true,
@@ -2961,8 +2961,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Cnidathqua",
-          "Description": "Monster. Ancient One. Elite.",
+          "Nickname": "奈達斯奎",
+          "Description": "怪物. 古神. 精英.",
           "GMNotes": "{\n  \"id\": \"82027\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Ancient One. Elite.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2995,8 +2995,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "37": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642320624/6D56E471941AB4D0DEEDAA5DE4780DFDF303016C/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2yp534vruvsixq1k7v3lc/5ec108045b4a45bbaf0fa7d0e7f83b84.jpg?rlkey=4m8kxux8ufv3saiqq1rw4jvyf&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3059,8 +3059,8 @@
       ],
       "CustomDeck": {
         "2698": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -3068,8 +3068,8 @@
           "Type": 0
         },
         "3803": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -3095,8 +3095,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Chaos in the Carnevale",
-          "Description": "Agenda 3",
+          "Nickname": "詛咒蔓延",
+          "Description": "",
           "GMNotes": "{\n  \"id\": \"82004\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 3,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3129,8 +3129,8 @@
           "SidewaysCard": true,
           "CustomDeck": {
             "2651": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3156,8 +3156,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "The Shadow of the Eclipse",
-          "Description": "Agenda 2",
+          "Nickname": "日食陰影",
+          "Description": "",
           "GMNotes": "{\n  \"id\": \"82003\",\n  \"type\": \"Agenda\",\n  \"class\": \"Mythos\",\n  \"doomThreshold\": 3,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3190,8 +3190,8 @@
           "SidewaysCard": true,
           "CustomDeck": {
             "2651": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3217,8 +3217,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "The Festivities Begin",
-          "Description": "Agenda 1",
+          "Nickname": "盛典開始",
+          "Description": "",
           "GMNotes": "{\n  \"id\": \"82002\",\n  \"type\": \"Agenda\",\n  \"class\": \"Mythos\",\n  \"doomThreshold\": 8,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3251,8 +3251,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "3803": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3338,7 +3338,7 @@
         "scaleZ": 1.0
       },
       "Nickname": "Scenario",
-      "Description": "Carnevale of Horrors",
+      "Description": "恐怖狂歡節",
       "GMNotes": "{\"type\": \"ScenarioReference\", \"class\": \"Mythos\", \"tokens\": {\"back\": {\"Cultist\": {\"description\": \"Reveal another token. If you fail this test, draw the top card of the encounter deck.\", \"modifier\": 0}, \"Elder Thing\": {\"description\": \"-6. If you fail and Cnidathqua is in play, it attacks you.\", \"modifier\": -6}, \"Skull\": {\"description\": \"-2. Additional -1 for each Innocent Reveler underneath the act or agenda decks.\", \"modifier\": -2}, \"Tablet\": {\"description\": \"-4. Deal 1 damage or 1 horror to the nearest Innocent Reveler in play.\", \"modifier\": -4}}, \"front\": {\"Cultist\": {\"description\": \"Reveal another token. If you fail this test, draw the top card of the encounter deck.\", \"modifier\": 0}, \"Elder Thing\": {\"description\": \"-4. If you fail and Cnidathqua is in play, it attacks you.\", \"modifier\": -4}, \"Skull\": {\"description\": \"-2. Additional -1 for each Innocent Reveler underneath the agenda deck.\", \"modifier\": -2}, \"Tablet\": {\"description\": \"-3. If you fail, deal 1 damage or 1 horror to the nearest Innocent Reveler in play.\", \"modifier\": -3}}}, \"id\": \"82001\"}",
       "AltLookAngle": {
         "x": 0.0,
@@ -3368,8 +3368,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2342": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -3434,8 +3434,8 @@
       ],
       "CustomDeck": {
         "2346": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -3461,8 +3461,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Masked Carnevale-Goer",
-          "Description": "Carnevale.",
+          "Nickname": "唐·拉格瑞奧",
+          "Description": "類人. 僕從. 精英.",
           "GMNotes": "{\n  \"id\": \"82017\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Humanoid. Servitor. Elite.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3495,8 +3495,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2346": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3522,8 +3522,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Masked Carnevale-Goer",
-          "Description": "Carnevale.",
+          "Nickname": "無辜的狂歡者",
+          "Description": "盟友. 旁人. 狂歡節.",
           "GMNotes": "{\n  \"id\": \"82021\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"traits\": \"Ally. Bystander. Carnevale.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3557,8 +3557,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2346": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3584,8 +3584,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Masked Carnevale-Goer",
-          "Description": "Carnevale.",
+          "Nickname": "無辜的狂歡者",
+          "Description": "盟友. 旁人. 狂歡節.",
           "GMNotes": "{\n  \"id\": \"82021\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"traits\": \"Ally. Bystander. Carnevale.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3619,8 +3619,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2346": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3646,8 +3646,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Masked Carnevale-Goer",
-          "Description": "Carnevale.",
+          "Nickname": "無辜的狂歡者",
+          "Description": "盟友. 旁人. 狂歡節.",
           "GMNotes": "{\n  \"id\": \"82021\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"traits\": \"Ally. Bystander. Carnevale.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3681,8 +3681,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2346": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3708,8 +3708,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Masked Carnevale-Goer",
-          "Description": "Carnevale.",
+          "Nickname": "賽爾瓦托·內里",
+          "Description": "類人. 法師. 精英.",
           "GMNotes": "{\n  \"id\": \"82019\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Humanoid. Sorcerer. Elite.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3742,8 +3742,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2346": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3769,8 +3769,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Masked Carnevale-Goer",
-          "Description": "Carnevale.",
+          "Nickname": "薩維奧·科爾維",
+          "Description": "類人. 異教徒. 精英.",
           "GMNotes": "{\n  \"id\": \"82020\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Humanoid. Cultist. Elite.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3803,8 +3803,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2346": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3830,8 +3830,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Masked Carnevale-Goer",
-          "Description": "Carnevale.",
+          "Nickname": "艾麗莎貝塔·瑪格維",
+          "Description": "類人. 秘社. 精英.",
           "GMNotes": "{\n  \"id\": \"82018\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Humanoid. Lodge. Elite.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3864,8 +3864,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2346": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -3944,8 +3944,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Canal-side",
-      "Description": "Venice.",
+      "Nickname": "運河畔",
+      "Description": "威尼斯.",
       "GMNotes": "{\n  \"id\": \"82009\",\n  \"type\": \"Location\",\n  \"traits\": \"Venice.\",\n  \"cycle\": \"Standalone\",\n  \"locationBack\": {\n    \"icons\": \"\",\n    \"connections\": \"\",\n    \"uses\": [\n      {\n        \"count\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -3979,8 +3979,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2345": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642364764/EBA4638B8847E97B3C153A928955F0A536677F8F/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/87094793642370806/651C0A7485AEBE7DF8F893A54A506AFA1165FC3B/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o66sf1c4giil7c68e8tc7/1d852ae36dd24e22982417f387644cc3.jpg?rlkey=c7n8gipev6zytqe9d6j75lp54&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6cp57vslvrsh9xtlfm7p8/493cf8d114964ca4bce15b2beda6f9eb.jpg?rlkey=cw3t6h1hrq3doqhrn2ea5uzka&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,

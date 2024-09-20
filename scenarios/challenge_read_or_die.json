@@ -82,8 +82,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Administration Building",
-      "Description": "Miskatonic.",
+      "Nickname": "管理大樓",
+      "Description": "米斯卡塔尼克.",
       "GMNotes": "{\n  \"id\": \"02053\",\n  \"type\": \"Location\",\n  \"traits\": \"Miskatonic.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Circle\",\n    \"connections\": \"Plus|Tee\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Circle\",\n    \"connections\": \"Plus|Tee\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -117,8 +117,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2335": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999385819523376/198434B0178F76107193CB52D7FC70E5265E526E/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/782999385819522537/207CCD9C85ECB70A339C09170ABB42E139924AA0/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/nampyodv598hhlhyuq94o/8ee34fa7700a4c849f2b27e48562845a.jpg?rlkey=qdgb2rh3ifzg6x6ghqqbsvud2&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/1m0tmaycphy2xocty8ue4/d6c3220000be4ff6abc778e077f76235.jpg?rlkey=1tjqtc6sv0537pv5b21639djl&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -144,8 +144,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Orne Library",
-      "Description": "Miskatonic.",
+      "Nickname": "奧恩圖書館",
+      "Description": "米斯卡塔尼克.",
       "GMNotes": "{\n  \"id\": \"02050\",\n  \"type\": \"Location\",\n  \"traits\": \"Miskatonic.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Triangle\",\n    \"connections\": \"Plus|Square\"\n  },\n  \"locationBack\": {\n    \"victory\": 1,\n    \"icons\": \"Triangle\",\n    \"connections\": \"Plus|Square\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -179,8 +179,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2335": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999385819523376/198434B0178F76107193CB52D7FC70E5265E526E/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/782999385819522537/207CCD9C85ECB70A339C09170ABB42E139924AA0/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/nampyodv598hhlhyuq94o/8ee34fa7700a4c849f2b27e48562845a.jpg?rlkey=qdgb2rh3ifzg6x6ghqqbsvud2&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/1m0tmaycphy2xocty8ue4/d6c3220000be4ff6abc778e077f76235.jpg?rlkey=1tjqtc6sv0537pv5b21639djl&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -206,8 +206,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Miskatonic Quad",
-      "Description": "Miskatonic.",
+      "Nickname": "大學廣場",
+      "Description": "米斯卡塔尼克.",
       "GMNotes": "{\n  \"id\": \"02048\",\n  \"type\": \"Location\",\n  \"traits\": \"Miskatonic.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Plus\",\n    \"connections\": \"Triangle|Hourglass|Square|Diamond|Circle\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Plus\",\n    \"connections\": \"Triangle|Hourglass|Square|Diamond|Circle\"\n  }\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -241,8 +241,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2335": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999385819523376/198434B0178F76107193CB52D7FC70E5265E526E/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/782999385819522537/207CCD9C85ECB70A339C09170ABB42E139924AA0/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/nampyodv598hhlhyuq94o/8ee34fa7700a4c849f2b27e48562845a.jpg?rlkey=qdgb2rh3ifzg6x6ghqqbsvud2&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/1m0tmaycphy2xocty8ue4/d6c3220000be4ff6abc778e077f76235.jpg?rlkey=1tjqtc6sv0537pv5b21639djl&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -268,8 +268,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Faculty Offices",
-      "Description": "The Night is Still Young",
+      "Nickname": "教師辦公室",
+      "Description": "米斯卡塔尼克.",
       "GMNotes": "{\n  \"id\": \"02054\",\n  \"type\": \"Location\",\n  \"traits\": \"Miskatonic.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Tee\",\n    \"connections\": \"Circle\"\n  },\n  \"locationBack\": {\n    \"victory\": 1,\n    \"icons\": \"Tee\",\n    \"connections\": \"Circle\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -303,8 +303,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2335": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999385819523376/198434B0178F76107193CB52D7FC70E5265E526E/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/782999385819522537/207CCD9C85ECB70A339C09170ABB42E139924AA0/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/nampyodv598hhlhyuq94o/8ee34fa7700a4c849f2b27e48562845a.jpg?rlkey=qdgb2rh3ifzg6x6ghqqbsvud2&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/1m0tmaycphy2xocty8ue4/d6c3220000be4ff6abc778e077f76235.jpg?rlkey=1tjqtc6sv0537pv5b21639djl&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -330,8 +330,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Dormitories",
-      "Description": "Miskatonic.",
+      "Nickname": "宿舍",
+      "Description": "米斯卡塔尼克.",
       "GMNotes": "{\n  \"id\": \"02052\",\n  \"type\": \"Location\",\n  \"traits\": \"Miskatonic.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"SlantedEquals\",\n    \"connections\": \"Diamond\"\n  },\n  \"locationBack\": {\n    \"victory\": 1,\n    \"icons\": \"SlantedEquals\",\n    \"connections\": \"Diamond\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 3,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -365,8 +365,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2335": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999385819523376/198434B0178F76107193CB52D7FC70E5265E526E/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/782999385819522537/207CCD9C85ECB70A339C09170ABB42E139924AA0/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/nampyodv598hhlhyuq94o/8ee34fa7700a4c849f2b27e48562845a.jpg?rlkey=qdgb2rh3ifzg6x6ghqqbsvud2&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/1m0tmaycphy2xocty8ue4/d6c3220000be4ff6abc778e077f76235.jpg?rlkey=1tjqtc6sv0537pv5b21639djl&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -392,8 +392,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "\"Jazz\" Mulligan",
-      "Description": "The Head Janitor",
+      "Nickname": "\"爵士\"馬利根",
+      "Description": "盟友. 米斯卡塔尼克.",
       "GMNotes": "{\n  \"id\": \"02060\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"cost\": 0,\n  \"traits\": \"Ally. Miskatonic.\",\n  \"cycle\": \"Standalone\"\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -427,8 +427,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2341": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -518,8 +518,8 @@
       ],
       "CustomDeck": {
         "2328": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -527,8 +527,8 @@
           "Type": 0
         },
         "2702": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -536,8 +536,8 @@
           "Type": 0
         },
         "2703": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -545,8 +545,8 @@
           "Type": 0
         },
         "2704": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -572,8 +572,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Light of Aforgomon",
-          "Description": "\tPact. Power.",
+          "Nickname": "亞弗戈蒙之光",
+          "Description": "契約. 力量.",
           "GMNotes": "{\n  \"id\": \"02085\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Pact. Power.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -606,8 +606,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -633,8 +633,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Ancient Evils",
-          "Description": "Omen.",
+          "Nickname": "遠古惡魔",
+          "Description": "徵兆.",
           "GMNotes": "{\n  \"id\": \"01166\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Omen.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -667,8 +667,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -694,8 +694,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Thrall",
-          "Description": "Humanoid. Monster. Abomination.",
+          "Nickname": "奴僕",
+          "Description": "類人. 怪物. 異形.",
           "GMNotes": "{\n  \"id\": \"02086\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Monster. Abomination.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -728,8 +728,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -755,8 +755,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Eager for Death",
-          "Description": "Omen.",
+          "Nickname": "渴望死亡",
+          "Description": "徵兆.",
           "GMNotes": "{\n  \"id\": \"02091\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Omen.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -789,8 +789,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -816,8 +816,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Whippoorwill",
-          "Description": "Creature.",
+          "Nickname": "夜鷹",
+          "Description": "生物.",
           "GMNotes": "{\n  \"id\": \"02090\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -850,8 +850,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -877,8 +877,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Arcane Barrier",
-          "Description": "\tHex. Obstacle.",
+          "Nickname": "奧術屏障",
+          "Description": "巫術. 障礙.",
           "GMNotes": "{\n  \"id\": \"02102\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hex. Obstacle.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -911,8 +911,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -938,8 +938,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Locked Door",
-          "Description": "Obstacle.",
+          "Nickname": "上鎖的門",
+          "Description": "障礙.",
           "GMNotes": "{\n  \"id\": \"01174\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Obstacle.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -972,8 +972,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -999,8 +999,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Wizard of Yog-Sothoth",
-          "Description": "Humanoid. Sorcerer.",
+          "Nickname": "猶格·索托斯的法師",
+          "Description": "類人. 法師.",
           "GMNotes": "{\n  \"id\": \"02087\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Sorcerer.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1033,8 +1033,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1060,8 +1060,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Arcane Barrier",
-          "Description": "\tHex. Obstacle.",
+          "Nickname": "奧術屏障",
+          "Description": "巫術. 障礙.",
           "GMNotes": "{\n  \"id\": \"02102\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hex. Obstacle.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1094,8 +1094,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1121,8 +1121,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Whippoorwill",
-          "Description": "Creature.",
+          "Nickname": "夜鷹",
+          "Description": "生物.",
           "GMNotes": "{\n  \"id\": \"02090\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1155,8 +1155,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1182,8 +1182,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Eager for Death",
-          "Description": "Omen.",
+          "Nickname": "渴望死亡",
+          "Description": "徵兆.",
           "GMNotes": "{\n  \"id\": \"02091\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Omen.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1216,8 +1216,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1243,8 +1243,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Visions of Futures Past",
-          "Description": "Hex.",
+          "Nickname": "穿越時間的幻覺",
+          "Description": "巫術.",
           "GMNotes": "{\n  \"id\": \"02083\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hex.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1277,8 +1277,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1304,8 +1304,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Yithian Observer",
-          "Description": "Monster. Yithian.",
+          "Nickname": "伊斯觀測者",
+          "Description": "怪物. 伊斯.",
           "GMNotes": "{\n  \"id\": \"01177\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Yithian.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1338,8 +1338,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1365,8 +1365,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Beyond the Veil",
-          "Description": "Hex.",
+          "Nickname": "轉生幻象",
+          "Description": "巫術.",
           "GMNotes": "{\n  \"id\": \"02084\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hex.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1399,8 +1399,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1426,8 +1426,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Visions of Futures Past",
-          "Description": "Hex.",
+          "Nickname": "穿越時間的幻覺",
+          "Description": "巫術.",
           "GMNotes": "{\n  \"id\": \"02083\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hex.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1460,8 +1460,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1487,8 +1487,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Offer of Power",
-          "Description": "Pact.",
+          "Nickname": "提供力量",
+          "Description": "契約.",
           "GMNotes": "{\n  \"id\": \"01178\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Pact.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1521,8 +1521,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1548,8 +1548,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Offer of Power",
-          "Description": "Pact.",
+          "Nickname": "提供力量",
+          "Description": "契約.",
           "GMNotes": "{\n  \"id\": \"01178\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Pact.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1582,8 +1582,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1609,8 +1609,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Ancient Evils",
-          "Description": "Omen.",
+          "Nickname": "遠古惡魔",
+          "Description": "徵兆.",
           "GMNotes": "{\n  \"id\": \"01166\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Omen.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1643,8 +1643,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1670,8 +1670,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Terror from Beyond",
-          "Description": "\tHex. Terror.",
+          "Nickname": "世外詭影",
+          "Description": "巫術. 恐怖.",
           "GMNotes": "{\n  \"id\": \"02101\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hex. Terror.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1704,8 +1704,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1731,8 +1731,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Terror from Beyond",
-          "Description": "\tHex. Terror.",
+          "Nickname": "世外詭影",
+          "Description": "巫術. 恐怖.",
           "GMNotes": "{\n  \"id\": \"02101\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hex. Terror.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1765,8 +1765,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1792,8 +1792,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Thrall",
-          "Description": "Humanoid. Monster. Abomination.",
+          "Nickname": "奴僕",
+          "Description": "類人. 怪物. 異形.",
           "GMNotes": "{\n  \"id\": \"02086\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Monster. Abomination.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1826,8 +1826,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1853,8 +1853,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Locked Door",
-          "Description": "Obstacle.",
+          "Nickname": "上鎖的門",
+          "Description": "障礙.",
           "GMNotes": "{\n  \"id\": \"01174\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Obstacle.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1887,8 +1887,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1914,8 +1914,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Visions of Futures Past",
-          "Description": "Hex.",
+          "Nickname": "穿越時間的幻覺",
+          "Description": "巫術.",
           "GMNotes": "{\n  \"id\": \"02083\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hex.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1948,8 +1948,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -1975,8 +1975,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Thrall",
-          "Description": "Humanoid. Monster. Abomination.",
+          "Nickname": "奴僕",
+          "Description": "類人. 怪物. 異形.",
           "GMNotes": "{\n  \"id\": \"02086\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Monster. Abomination.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2009,8 +2009,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2036,8 +2036,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Yithian Observer",
-          "Description": "Monster. Yithian.",
+          "Nickname": "伊斯觀測者",
+          "Description": "怪物. 伊斯.",
           "GMNotes": "{\n  \"id\": \"01177\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Yithian.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2070,8 +2070,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2097,8 +2097,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Light of Aforgomon",
-          "Description": "\tPact. Power.",
+          "Nickname": "亞弗戈蒙之光",
+          "Description": "契約. 力量.",
           "GMNotes": "{\n  \"id\": \"02085\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Pact. Power.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2131,8 +2131,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2158,8 +2158,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Beyond the Veil",
-          "Description": "Hex.",
+          "Nickname": "轉生幻象",
+          "Description": "巫術.",
           "GMNotes": "{\n  \"id\": \"02084\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hex.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2192,8 +2192,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2219,8 +2219,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Ancient Evils",
-          "Description": "Omen.",
+          "Nickname": "遠古惡魔",
+          "Description": "徵兆.",
           "GMNotes": "{\n  \"id\": \"01166\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Omen.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2253,8 +2253,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2317": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377430057/E4E5A51434CEF23EF5D04A104F352520304AA550/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mzx9qcutldwc6zabjiqfp/9ad0fc302c99499ca921eac20b49a399.jpg?rlkey=rzoyhrawk5h1c1hkm96065opw&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2280,8 +2280,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Whippoorwill",
-          "Description": "Creature.",
+          "Nickname": "夜鷹",
+          "Description": "生物.",
           "GMNotes": "{\n  \"id\": \"02090\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Creature.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2314,8 +2314,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2341,8 +2341,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Pushed into the Beyond",
-          "Description": "Hex.",
+          "Nickname": "異界放逐",
+          "Description": "巫術.",
           "GMNotes": "{\n  \"id\": \"02100\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hex.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2375,8 +2375,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2402,8 +2402,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Beyond the Veil",
-          "Description": "Hex.",
+          "Nickname": "轉生幻象",
+          "Description": "巫術.",
           "GMNotes": "{\n  \"id\": \"02084\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hex.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2436,8 +2436,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2463,8 +2463,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Pushed into the Beyond",
-          "Description": "Hex.",
+          "Nickname": "異界放逐",
+          "Description": "巫術.",
           "GMNotes": "{\n  \"id\": \"02100\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hex.\",\n  \"cycle\": \"Standalone\"\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -2497,8 +2497,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2328": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8d5nseponzu7ttjepbmav/f61caba89da94d6db0388f076db8cc10.jpg?rlkey=inj8haiacud64r1gi3bz3p21t&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
               "NumWidth": 10,
               "NumHeight": 7,
               "BackIsHidden": true,
@@ -2526,8 +2526,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Science Building",
-      "Description": "Miskatonic.",
+      "Nickname": "科學大樓",
+      "Description": "米斯卡塔尼克.",
       "GMNotes": "{\n  \"id\": \"02056\",\n  \"type\": \"Location\",\n  \"traits\": \"Miskatonic.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Hourglass\",\n    \"connections\": \"Plus|Tilde\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Hourglass\",\n    \"connections\": \"Plus|Tilde\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -2561,8 +2561,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2335": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999385819523376/198434B0178F76107193CB52D7FC70E5265E526E/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/782999385819522537/207CCD9C85ECB70A339C09170ABB42E139924AA0/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/nampyodv598hhlhyuq94o/8ee34fa7700a4c849f2b27e48562845a.jpg?rlkey=qdgb2rh3ifzg6x6ghqqbsvud2&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/1m0tmaycphy2xocty8ue4/d6c3220000be4ff6abc778e077f76235.jpg?rlkey=1tjqtc6sv0537pv5b21639djl&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -2588,8 +2588,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Humanities Building",
-      "Description": "Miskatonic.",
+      "Nickname": "人文學大樓",
+      "Description": "米斯卡塔尼克.",
       "GMNotes": "{\n  \"id\": \"02049\",\n  \"type\": \"Location\",\n  \"traits\": \"Miskatonic.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Square\",\n    \"connections\": \"Plus|Triangle\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Square\",\n    \"connections\": \"Plus|Triangle\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -2623,8 +2623,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2335": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999385819523376/198434B0178F76107193CB52D7FC70E5265E526E/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/782999385819522537/207CCD9C85ECB70A339C09170ABB42E139924AA0/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/nampyodv598hhlhyuq94o/8ee34fa7700a4c849f2b27e48562845a.jpg?rlkey=qdgb2rh3ifzg6x6ghqqbsvud2&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/1m0tmaycphy2xocty8ue4/d6c3220000be4ff6abc778e077f76235.jpg?rlkey=1tjqtc6sv0537pv5b21639djl&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -2650,8 +2650,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Namer of the Dead",
-      "Description": "Presence Within the Grimoire",
+      "Nickname": "亡人呼名者",
+      "Description": "怪物. 靈怪. 精英.",
       "GMNotes": "{\n  \"id\": \"90007\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Geist. Elite.\",\n  \"cycle\": \"Standalone\"\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -2684,8 +2684,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2318": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1017195287736532717/8A5447C52CCA46977B87E3363E5FC47839C11727/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/cckjzhdc47tmycdfp7wmt/b66b94e3c8094389bcae47c170c312be.jpg?rlkey=lahksm8vgyo599pg6p6ehwmlc&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/w59po0do575xzch15x2y1/6ddbcfca831442c4a4a1b2c4ec8867b7.jpg?rlkey=ss2xx0w1atohls30ej7fm5c98&dl=0",
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
@@ -2762,8 +2762,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Dr. Henry Armitage",
-      "Description": "The Head Librarian",
+      "Nickname": "亨利·阿米蒂奇博士",
+      "Description": "盟友. 米斯卡塔尼克.",
       "GMNotes": "{\n  \"id\": \"02040\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"cost\": 2,\n  \"traits\": \"Ally. Miskatonic.\",\n  \"wildIcons\": 2,\n  \"cycle\": \"Standalone\"\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -2797,8 +2797,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2705": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1697276627309509299/3B0E32939EB4599CCE3596975637C90FE4EE1DD6/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/86aypcm960v9d020xjgkn/9709399cd9fc403a960932d62a76f3fc.jpg?rlkey=z6gxvkvlx5rebuwyg3mzvos0u&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9px0phtr9a2nkadbh1jcf/af63a00af14a499db9b78c49bc58144e.jpg?rlkey=oj7xx8ti26ykcyyojtx87vlax&dl=0",
           "NumWidth": 6,
           "NumHeight": 5,
           "BackIsHidden": true,
@@ -2825,7 +2825,7 @@
         "scaleZ": 1.0
       },
       "Nickname": "Scenario",
-      "Description": "Read or Die",
+      "Description": "死亡閱讀",
       "GMNotes": "{\"type\":\"ScenarioReference\",\"class\":\"Mythos\",\"tokens\":{\"back\":{\"Cultist\":{\"description\":\"Reveal another token. If you fail, discard the top 3 cards of your deck.\",\"modifier\":0},\"Elder Thing\":{\"description\":\"-5. If you fail, Daisy Walker takes 1 horror.\",\"modifier\":-5},\"Skull\":{\"description\":\"-X. X is 1 more than the number of Tome assets Daisy Walker controls.\",\"modifier\":-999},\"Tablet\":{\"description\":\"-3. If this is an attack or evansion attempt against Namer of the Dead and you do not succeed by at least 3, it attacks you.\",\"modifier\":-3}},\"front\":{\"Cultist\":{\"description\":\"Reveal another token. If you fail, discard the top 2 cards of your deck.\",\"modifier\":0},\"Elder Thing\":{\"description\":\"-3. If you fail, Daisy Walker takes 1 horror.\",\"modifier\":-3},\"Skull\":{\"description\":\"-X. X is the number of Tome assets Daisy Walker controls.\",\"modifier\":-999},\"Tablet\":{\"description\":\"-2. If this is an attack or evansion attempt against Namer of the Dead and you do not succeed by at least 2, it attacks you.\",\"modifier\":-2}}},\"id\":\"90004\"}",
       "AltLookAngle": {
         "x": 0.0,
@@ -2855,8 +2855,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2321": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1017195287736551619/926F857CA442C9CAFDE6392C4FB1FC1AB1DFD040/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1017195287736551840/6C8534FFFAC128BBD6CD9F370B95E10A8E58B168/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/gylfdmvpadnisdwbcwgre/50242bd72ae9411480d1244e0fcc697a.jpg?rlkey=o6wwpgvtq0dyxc0scrpwjh20i&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/8ebb4gezd36gtchdkzc3n/8080a3090e8641bebfdd4d51735c0813.jpg?rlkey=vcwfwn620py49chnf2yplrwa0&dl=0",
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
@@ -2882,8 +2882,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Student Union",
-      "Description": "Miskatonic.",
+      "Nickname": "學生會",
+      "Description": "米斯卡塔尼克.",
       "GMNotes": "{\n  \"id\": \"02051\",\n  \"type\": \"Location\",\n  \"traits\": \"Miskatonic.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Diamond\",\n    \"connections\": \"Plus|SlantedEquals\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Diamond\",\n    \"connections\": \"Plus|SlantedEquals\",\n    \"uses\": [\n      {\n        \"count\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -2917,8 +2917,8 @@
       "SidewaysCard": false,
       "CustomDeck": {
         "2335": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999385819523376/198434B0178F76107193CB52D7FC70E5265E526E/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/782999385819522537/207CCD9C85ECB70A339C09170ABB42E139924AA0/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/nampyodv598hhlhyuq94o/8ee34fa7700a4c849f2b27e48562845a.jpg?rlkey=qdgb2rh3ifzg6x6ghqqbsvud2&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/1m0tmaycphy2xocty8ue4/d6c3220000be4ff6abc778e077f76235.jpg?rlkey=1tjqtc6sv0537pv5b21639djl&dl=0",
           "NumWidth": 10,
           "NumHeight": 7,
           "BackIsHidden": true,
@@ -2944,8 +2944,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Mortal Inquiry",
-      "Description": "Agenda 1",
+      "Nickname": "致命調查",
+      "Description": "",
       "GMNotes": "{\n  \"id\": \"90005\",\n  \"type\": \"Agenda\",\n  \"class\": \"Mythos\",\n  \"doomThreshold\": 12,\n  \"cycle\": \"Standalone\"\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -2978,8 +2978,8 @@
       "SidewaysCard": true,
       "CustomDeck": {
         "2323": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1017195287736557920/CA08909CA827A9E0F8779E89B38318358A81D421/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1017195287736554645/CFB1E2B66071026F84FF4F93FEB4B7A228ACD7F0/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/deovz32dnt2dzwy40lzk7/bcf1f15bf209469f95b4e3660e7ecc3d.jpg?rlkey=f26f8zknik1m5e24a4icptjvh&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/q1gbip00k0xjvatepfz3e/f93ceacec86c4c018d5e9a8dd7a79c4a.jpg?rlkey=1ufdnir6le2wfu1v9d1ptdwx2&dl=0",
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,
@@ -3062,8 +3062,8 @@
         "scaleY": 1.0,
         "scaleZ": 1.0
       },
-      "Nickname": "Speed Reading",
-      "Description": "Act 1",
+      "Nickname": "速讀",
+      "Description": "",
       "GMNotes": "{\n  \"id\": \"90006\",\n  \"type\": \"Act\",\n  \"class\": \"Mythos\",\n  \"cycle\": \"Standalone\"\n}",
       "AltLookAngle": {
         "x": 0.0,
@@ -3096,8 +3096,8 @@
       "SidewaysCard": true,
       "CustomDeck": {
         "2324": {
-          "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1017195287736560700/8FC34EE0BB5F409D6FE2D1B0C8376BDBB76E52AF/",
-          "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1017195287736560872/9F8CC6A9AC2CAFA75FF0C2F8A6D3E1E9384CFF21/",
+          "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/rt2am3c8ygnmrgezy569j/57a769b7890b413d886ed3618929ea61.jpg?rlkey=5cyq3s6ztspw3yy3ttpd4fiti&dl=0",
+          "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6zmd35xvinmbcp2ljahh0/1e6571f7649e4ac79561caacbf278756.jpg?rlkey=5f0h2ro14p5b3ftbkh2hba3xa&dl=0",
           "NumWidth": 1,
           "NumHeight": 1,
           "BackIsHidden": true,

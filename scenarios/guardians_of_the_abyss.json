@@ -346,8 +346,8 @@
           ],
           "CustomDeck": {
             "2710": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -355,8 +355,8 @@
               "Type": 0
             },
             "2662": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218960581/4546AD2542BDA831A52F111505063691712EE74F/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218961222/32A8F41F3FDA4387C71BA2668B2645E36EDAE74D/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d7mtch0taayoohzybx83u/e5fc055bceda40e392ec57f9d423b980.jpg?rlkey=nl0o7mhvbnga2qqnsch7hxm0y&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/aa5e01p6oplxj68lru6u2/c86954329da4484480d776c81cdfdaac.jpg?rlkey=d2ba3waodot92u5m1tx8ueedg&dl=0",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -382,8 +382,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Dark Sacrifice",
-              "Description": "Curse. Abyss.",
+              "Nickname": "黑暗祭牲",
+              "Description": "詛咒. 深淵.",
               "GMNotes": "{\n  \"id\": \"83052\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse. Abyss.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -416,8 +416,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -443,8 +443,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Dark Sacrifice",
-              "Description": "Curse. Abyss.",
+              "Nickname": "黑暗祭牲",
+              "Description": "詛咒. 深淵.",
               "GMNotes": "{\n  \"id\": \"83052\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse. Abyss.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -477,8 +477,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -504,8 +504,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Abyssal Reach",
-              "Description": "Curse. Abyss.",
+              "Nickname": "深淵領域",
+              "Description": "詛咒. 深淵.",
               "GMNotes": "{\n  \"id\": \"83054\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse. Abyss.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -538,8 +538,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -565,8 +565,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Abyssal Reach",
-              "Description": "Curse. Abyss.",
+              "Nickname": "深淵領域",
+              "Description": "詛咒. 深淵.",
               "GMNotes": "{\n  \"id\": \"83054\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse. Abyss.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -599,8 +599,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -626,8 +626,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Eclipse",
-              "Description": "Power.",
+              "Nickname": "日蝕",
+              "Description": "力量.",
               "GMNotes": "{\n  \"id\": \"83047\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -660,8 +660,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -687,8 +687,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Eclipse",
-              "Description": "Power.",
+              "Nickname": "日蝕",
+              "Description": "力量.",
               "GMNotes": "{\n  \"id\": \"83047\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -721,8 +721,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -748,8 +748,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Eclipse",
-              "Description": "Power.",
+              "Nickname": "日蝕",
+              "Description": "力量.",
               "GMNotes": "{\n  \"id\": \"83047\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -782,8 +782,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -809,8 +809,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Slumber",
-              "Description": "Curse. Abyss.",
+              "Nickname": "沉睡",
+              "Description": "詛咒. 深淵.",
               "GMNotes": "{\n  \"id\": \"83051\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse. Abyss.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -843,8 +843,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -870,8 +870,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Slumber",
-              "Description": "Curse. Abyss.",
+              "Nickname": "沉睡",
+              "Description": "詛咒. 深淵.",
               "GMNotes": "{\n  \"id\": \"83051\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse. Abyss.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -904,8 +904,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -931,8 +931,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Swarm of Locusts",
-              "Description": "Power.",
+              "Nickname": "蝗蟲成群",
+              "Description": "力量.",
               "GMNotes": "{\n  \"id\": \"83050\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -965,8 +965,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -992,8 +992,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Swarm of Locusts",
-              "Description": "Power.",
+              "Nickname": "蝗蟲成群",
+              "Description": "力量.",
               "GMNotes": "{\n  \"id\": \"83050\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -1026,8 +1026,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -1053,8 +1053,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "The Black Wind",
-              "Description": "Power.",
+              "Nickname": "黑風",
+              "Description": "力量.",
               "GMNotes": "{\n  \"id\": \"83053\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -1087,8 +1087,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -1114,8 +1114,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Abyssal Revenant",
-              "Description": "Monster. Dreamlands.",
+              "Nickname": "深淵亡魂",
+              "Description": "怪物. 幻夢境.",
               "GMNotes": "{\n  \"id\": \"83045\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Dreamlands.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -1148,8 +1148,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -1175,8 +1175,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Terror Under the Pyramids",
-              "Description": "Scheme.",
+              "Nickname": "金字塔下的恐怖",
+              "Description": "陰謀.",
               "GMNotes": "{\n  \"id\": \"83049\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Scheme.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -1209,8 +1209,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -1236,8 +1236,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Terror Under the Pyramids",
-              "Description": "Scheme.",
+              "Nickname": "金字塔下的恐怖",
+              "Description": "陰謀.",
               "GMNotes": "{\n  \"id\": \"83049\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Scheme.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -1270,8 +1270,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -1297,8 +1297,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Sandstorm",
-              "Description": "Hazard.",
+              "Nickname": "沙塵暴",
+              "Description": "危險.",
               "GMNotes": "{\n  \"id\": \"83048\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -1331,8 +1331,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -1358,8 +1358,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Sandstorm",
-              "Description": "Hazard.",
+              "Nickname": "沙塵暴",
+              "Description": "危險.",
               "GMNotes": "{\n  \"id\": \"83048\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -1392,8 +1392,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -1419,8 +1419,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Sandstorm",
-              "Description": "Hazard.",
+              "Nickname": "沙塵暴",
+              "Description": "危險.",
               "GMNotes": "{\n  \"id\": \"83048\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -1453,8 +1453,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -1480,8 +1480,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Thing in the Sarcophagus",
-              "Description": "Monster.",
+              "Nickname": "棺中之物",
+              "Description": "怪物.",
               "GMNotes": "{\n  \"id\": \"83046\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -1514,8 +1514,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -1541,8 +1541,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Thing in the Sarcophagus",
-              "Description": "Monster.",
+              "Nickname": "棺中之物",
+              "Description": "怪物.",
               "GMNotes": "{\n  \"id\": \"83046\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -1575,8 +1575,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -1602,8 +1602,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Speaker for the Dark Pharaoh",
-              "Description": "Humanoid. Cultist.",
+              "Nickname": "黑法老的信使",
+              "Description": "類人. 異教徒.",
               "GMNotes": "{\n  \"id\": \"83030\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Cultist.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -1636,8 +1636,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2662": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218960581/4546AD2542BDA831A52F111505063691712EE74F/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218961222/32A8F41F3FDA4387C71BA2668B2645E36EDAE74D/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d7mtch0taayoohzybx83u/e5fc055bceda40e392ec57f9d423b980.jpg?rlkey=nl0o7mhvbnga2qqnsch7hxm0y&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/aa5e01p6oplxj68lru6u2/c86954329da4484480d776c81cdfdaac.jpg?rlkey=d2ba3waodot92u5m1tx8ueedg&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -1663,8 +1663,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Speaker for the Dark Pharaoh",
-              "Description": "Humanoid. Cultist.",
+              "Nickname": "黑法老的信使",
+              "Description": "類人. 異教徒.",
               "GMNotes": "{\n  \"id\": \"83030\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Cultist.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -1697,8 +1697,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2662": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218960581/4546AD2542BDA831A52F111505063691712EE74F/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218961222/32A8F41F3FDA4387C71BA2668B2645E36EDAE74D/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d7mtch0taayoohzybx83u/e5fc055bceda40e392ec57f9d423b980.jpg?rlkey=nl0o7mhvbnga2qqnsch7hxm0y&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/aa5e01p6oplxj68lru6u2/c86954329da4484480d776c81cdfdaac.jpg?rlkey=d2ba3waodot92u5m1tx8ueedg&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -1724,8 +1724,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Abyssal Revenant",
-              "Description": "Monster. Dreamlands.",
+              "Nickname": "深淵亡魂",
+              "Description": "怪物. 幻夢境.",
               "GMNotes": "{\n  \"id\": \"83045\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Dreamlands.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -1758,8 +1758,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -1787,8 +1787,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Expedition Camp",
-          "Description": "Expedition. Cairo. Desert.",
+          "Nickname": "探險營地",
+          "Description": "探險. 開羅. 沙漠.",
           "GMNotes": "{\n  \"id\": \"83037\",\n  \"type\": \"Location\",\n  \"traits\": \"Expedition. Cairo. Desert.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Circle\",\n    \"connections\": \"Diamond|Hourglass|Crescent|Plus\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Circle\",\n    \"connections\": \"Diamond|Hourglass|Crescent|Plus\"\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -1822,8 +1822,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2711": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -1883,8 +1883,8 @@
           ],
           "CustomDeck": {
             "4483": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1723164938912426502/5256CD7EBB3950C9ACEA29AEEDC2C962E033BE47/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1723164938912426673/269D77168965F22EE72041C9C027AA5C269BF851/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/pmj6so3aasiicrt2eox8z/323852b70874483aacbe57171ba97701.jpg?rlkey=2svmxk06k8hvybolg05u3vbt1&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/vjv16y28ujx82akm3bk3k/c888d99c80ee47f69480574c94607468.jpg?rlkey=njg72txcm5xm1fskbei7krh1u&dl=0",
               "NumWidth": 3,
               "NumHeight": 2,
               "BackIsHidden": true,
@@ -1910,8 +1910,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Schemes in the Dark Brotherhood",
-              "Description": "Agenda 2",
+              "Nickname": "黑暗彼端的陰謀",
+              "Description": "",
               "GMNotes": "{\n  \"id\": \"83018\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 12,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -1944,8 +1944,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "4483": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1723164938912426502/5256CD7EBB3950C9ACEA29AEEDC2C962E033BE47/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1723164938912426673/269D77168965F22EE72041C9C027AA5C269BF851/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/pmj6so3aasiicrt2eox8z/323852b70874483aacbe57171ba97701.jpg?rlkey=2svmxk06k8hvybolg05u3vbt1&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/vjv16y28ujx82akm3bk3k/c888d99c80ee47f69480574c94607468.jpg?rlkey=njg72txcm5xm1fskbei7krh1u&dl=0",
                   "NumWidth": 3,
                   "NumHeight": 2,
                   "BackIsHidden": true,
@@ -1971,8 +1971,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "The Brotherhood Bides Their Time",
-              "Description": "Agenda 1",
+              "Nickname": "兄弟會等候時機",
+              "Description": "",
               "GMNotes": "{\n  \"id\": \"83017\",\n  \"type\": \"Agenda\",\n  \"class\": \"Mythos\",\n  \"doomThreshold\": 6,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -2005,8 +2005,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "4483": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1723164938912426502/5256CD7EBB3950C9ACEA29AEEDC2C962E033BE47/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1723164938912426673/269D77168965F22EE72041C9C027AA5C269BF851/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/pmj6so3aasiicrt2eox8z/323852b70874483aacbe57171ba97701.jpg?rlkey=2svmxk06k8hvybolg05u3vbt1&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/vjv16y28ujx82akm3bk3k/c888d99c80ee47f69480574c94607468.jpg?rlkey=njg72txcm5xm1fskbei7krh1u&dl=0",
                   "NumWidth": 3,
                   "NumHeight": 2,
                   "BackIsHidden": true,
@@ -2168,8 +2168,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Summoned Nightgaunt",
-              "Description": "Gift from Nodens",
+              "Nickname": "召來的夜魘",
+              "Description": "怪物. 夜魘. 力量.",
               "GMNotes": "{\n  \"id\": \"83058\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"cost\": 4,\n  \"traits\": \"Monster. Nightgaunt. Power.\",\n  \"intellectIcons\": 1,\n  \"agilityIcons\": 1,\n  \"wildIcons\": 1,\n  \"uses\": [\n    {\n      \"count\": 3,\n      \"type\": \"\",\n      \"token\": \"resource\"\n    }\n  ],\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -2203,8 +2203,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2662": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218960581/4546AD2542BDA831A52F111505063691712EE74F/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218961222/32A8F41F3FDA4387C71BA2668B2645E36EDAE74D/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d7mtch0taayoohzybx83u/e5fc055bceda40e392ec57f9d423b980.jpg?rlkey=nl0o7mhvbnga2qqnsch7hxm0y&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/aa5e01p6oplxj68lru6u2/c86954329da4484480d776c81cdfdaac.jpg?rlkey=d2ba3waodot92u5m1tx8ueedg&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -2230,8 +2230,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Khopesh of the Abyss",
-              "Description": "Manifested Malice",
+              "Nickname": "深淵鐮形劍",
+              "Description": "道具. 武器. 遺物. 近戰.",
               "GMNotes": "{\n  \"id\": \"83057\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"cost\": 4,\n  \"traits\": \"Item. Weapon. Relic. Melee.\",\n  \"willpowerIcons\": 1,\n  \"combatIcons\": 1,\n  \"wildIcons\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -2265,8 +2265,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2662": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218960581/4546AD2542BDA831A52F111505063691712EE74F/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218961222/32A8F41F3FDA4387C71BA2668B2645E36EDAE74D/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d7mtch0taayoohzybx83u/e5fc055bceda40e392ec57f9d423b980.jpg?rlkey=nl0o7mhvbnga2qqnsch7hxm0y&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/aa5e01p6oplxj68lru6u2/c86954329da4484480d776c81cdfdaac.jpg?rlkey=d2ba3waodot92u5m1tx8ueedg&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -2329,8 +2329,8 @@
               ],
               "CustomDeck": {
                 "2662": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218960581/4546AD2542BDA831A52F111505063691712EE74F/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218961222/32A8F41F3FDA4387C71BA2668B2645E36EDAE74D/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d7mtch0taayoohzybx83u/e5fc055bceda40e392ec57f9d423b980.jpg?rlkey=nl0o7mhvbnga2qqnsch7hxm0y&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/aa5e01p6oplxj68lru6u2/c86954329da4484480d776c81cdfdaac.jpg?rlkey=d2ba3waodot92u5m1tx8ueedg&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -2356,8 +2356,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Mist-Filled Caverns",
-                  "Description": "Otherworld. Dreamlands.",
+                  "Nickname": "諾登斯的雕像",
+                  "Description": "",
                   "GMNotes": "{\n  \"id\": \"83026b\",\n  \"type\": \"Location\",\n  \"traits\": \"Otherworld. Dreamlands.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Circle\",\n    \"connections\": \"Square\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -2391,8 +2391,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2662": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218960581/4546AD2542BDA831A52F111505063691712EE74F/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218961222/32A8F41F3FDA4387C71BA2668B2645E36EDAE74D/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d7mtch0taayoohzybx83u/e5fc055bceda40e392ec57f9d423b980.jpg?rlkey=nl0o7mhvbnga2qqnsch7hxm0y&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/aa5e01p6oplxj68lru6u2/c86954329da4484480d776c81cdfdaac.jpg?rlkey=d2ba3waodot92u5m1tx8ueedg&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -2418,8 +2418,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Stairway to Sarkomand",
-                  "Description": "Otherworld. Dreamlands.",
+                  "Nickname": "薩爾科曼德的廢墟",
+                  "Description": "",
                   "GMNotes": "{\n  \"id\": \"83025b\",\n  \"type\": \"Location\",\n  \"traits\": \"Otherworld. Dreamlands.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Diamond\",\n    \"connections\": \"Square\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -2453,8 +2453,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2662": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218960581/4546AD2542BDA831A52F111505063691712EE74F/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218961222/32A8F41F3FDA4387C71BA2668B2645E36EDAE74D/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d7mtch0taayoohzybx83u/e5fc055bceda40e392ec57f9d423b980.jpg?rlkey=nl0o7mhvbnga2qqnsch7hxm0y&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/aa5e01p6oplxj68lru6u2/c86954329da4484480d776c81cdfdaac.jpg?rlkey=d2ba3waodot92u5m1tx8ueedg&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -2480,8 +2480,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Tunnels under Ngranek",
-                  "Description": "Otherworld. Dreamlands.",
+                  "Nickname": "征服者的囚徒",
+                  "Description": "",
                   "GMNotes": "{\n  \"id\": \"83024b\",\n  \"type\": \"Location\",\n  \"traits\": \"Otherworld. Dreamlands.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Triangle\",\n    \"connections\": \"Square\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -2515,8 +2515,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2662": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218960581/4546AD2542BDA831A52F111505063691712EE74F/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218961222/32A8F41F3FDA4387C71BA2668B2645E36EDAE74D/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d7mtch0taayoohzybx83u/e5fc055bceda40e392ec57f9d423b980.jpg?rlkey=nl0o7mhvbnga2qqnsch7hxm0y&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/aa5e01p6oplxj68lru6u2/c86954329da4484480d776c81cdfdaac.jpg?rlkey=d2ba3waodot92u5m1tx8ueedg&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -2542,8 +2542,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "The Great Abyss",
-                  "Description": "Otherworld. Dreamlands.",
+                  "Nickname": "沉夢者的命運",
+                  "Description": "",
                   "GMNotes": "{\n  \"id\": \"83023b\",\n  \"type\": \"Location\",\n  \"traits\": \"Otherworld. Dreamlands.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"victory\": 1,\n    \"icons\": \"Square\",\n    \"connections\": \"SlantedEquals|Triangle|Diamond|Circle\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -2577,8 +2577,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2662": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218960581/4546AD2542BDA831A52F111505063691712EE74F/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218961222/32A8F41F3FDA4387C71BA2668B2645E36EDAE74D/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d7mtch0taayoohzybx83u/e5fc055bceda40e392ec57f9d423b980.jpg?rlkey=nl0o7mhvbnga2qqnsch7hxm0y&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/aa5e01p6oplxj68lru6u2/c86954329da4484480d776c81cdfdaac.jpg?rlkey=d2ba3waodot92u5m1tx8ueedg&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -2604,8 +2604,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "A Dream Betwixt",
-                  "Description": "Otherworld. Extradimensional.",
+                  "Nickname": "前往幻夢境",
+                  "Description": "",
                   "GMNotes": "{\n  \"id\": \"83022b\",\n  \"type\": \"Location\",\n  \"traits\": \"Otherworld. Extradimensional.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"SlantedEquals\",\n    \"connections\": \"Square\"\n  }\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -2639,8 +2639,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2662": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218960581/4546AD2542BDA831A52F111505063691712EE74F/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218961222/32A8F41F3FDA4387C71BA2668B2645E36EDAE74D/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d7mtch0taayoohzybx83u/e5fc055bceda40e392ec57f9d423b980.jpg?rlkey=nl0o7mhvbnga2qqnsch7hxm0y&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/aa5e01p6oplxj68lru6u2/c86954329da4484480d776c81cdfdaac.jpg?rlkey=d2ba3waodot92u5m1tx8ueedg&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -2668,8 +2668,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Eldritch Gate",
-              "Description": "Expedition. Desert. Ruins.",
+              "Nickname": "驚悚入口",
+              "Description": "探險. 沙漠. 遺跡.",
               "GMNotes": "{\n  \"id\": \"83028\",\n  \"type\": \"Location\",\n  \"traits\": \"Expedition. Desert. Ruins\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Apostrophe\",\n    \"connections\": \"Hourglass|Tee|Heart\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -2703,8 +2703,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2662": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218960581/4546AD2542BDA831A52F111505063691712EE74F/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218961222/32A8F41F3FDA4387C71BA2668B2645E36EDAE74D/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d7mtch0taayoohzybx83u/e5fc055bceda40e392ec57f9d423b980.jpg?rlkey=nl0o7mhvbnga2qqnsch7hxm0y&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/aa5e01p6oplxj68lru6u2/c86954329da4484480d776c81cdfdaac.jpg?rlkey=d2ba3waodot92u5m1tx8ueedg&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -2764,8 +2764,8 @@
               ],
               "CustomDeck": {
                 "2662": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218960581/4546AD2542BDA831A52F111505063691712EE74F/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218961222/32A8F41F3FDA4387C71BA2668B2645E36EDAE74D/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d7mtch0taayoohzybx83u/e5fc055bceda40e392ec57f9d423b980.jpg?rlkey=nl0o7mhvbnga2qqnsch7hxm0y&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/aa5e01p6oplxj68lru6u2/c86954329da4484480d776c81cdfdaac.jpg?rlkey=d2ba3waodot92u5m1tx8ueedg&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -2791,8 +2791,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Dreaded Shantak",
-                  "Description": "Monster. Dreamlands. Shantak.",
+                  "Nickname": "駭人的夏塔克鳥",
+                  "Description": "怪物. 幻夢境. 夏塔克鳥.",
                   "GMNotes": "{\n  \"id\": \"83029\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Dreamlands. Shantak.\",\n  \"cycle\": \"Standalone\"\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -2825,8 +2825,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2662": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218960581/4546AD2542BDA831A52F111505063691712EE74F/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218961222/32A8F41F3FDA4387C71BA2668B2645E36EDAE74D/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d7mtch0taayoohzybx83u/e5fc055bceda40e392ec57f9d423b980.jpg?rlkey=nl0o7mhvbnga2qqnsch7hxm0y&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/aa5e01p6oplxj68lru6u2/c86954329da4484480d776c81cdfdaac.jpg?rlkey=d2ba3waodot92u5m1tx8ueedg&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -2852,8 +2852,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Dreaded Shantak",
-                  "Description": "Monster. Dreamlands. Shantak.",
+                  "Nickname": "駭人的夏塔克鳥",
+                  "Description": "怪物. 幻夢境. 夏塔克鳥.",
                   "GMNotes": "{\n  \"id\": \"83029\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Dreamlands. Shantak.\",\n  \"cycle\": \"Standalone\"\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -2886,8 +2886,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2662": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218960581/4546AD2542BDA831A52F111505063691712EE74F/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218961222/32A8F41F3FDA4387C71BA2668B2645E36EDAE74D/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d7mtch0taayoohzybx83u/e5fc055bceda40e392ec57f9d423b980.jpg?rlkey=nl0o7mhvbnga2qqnsch7hxm0y&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/aa5e01p6oplxj68lru6u2/c86954329da4484480d776c81cdfdaac.jpg?rlkey=d2ba3waodot92u5m1tx8ueedg&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -2915,8 +2915,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Xzharah",
-              "Description": "Chosen of the Beast",
+              "Nickname": "伊札法拉",
+              "Description": "僕從. 幻夢境. 同謀. 精英.",
               "GMNotes": "{\n  \"id\": \"83027a\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Servitor. Dreamlands. Conspirator. Elite.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -2949,8 +2949,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2662": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218960581/4546AD2542BDA831A52F111505063691712EE74F/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218961222/32A8F41F3FDA4387C71BA2668B2645E36EDAE74D/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d7mtch0taayoohzybx83u/e5fc055bceda40e392ec57f9d423b980.jpg?rlkey=nl0o7mhvbnga2qqnsch7hxm0y&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/aa5e01p6oplxj68lru6u2/c86954329da4484480d776c81cdfdaac.jpg?rlkey=d2ba3waodot92u5m1tx8ueedg&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -3016,8 +3016,8 @@
           ],
           "CustomDeck": {
             "2713": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -3043,8 +3043,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Nadia Nimr ",
-              "Description": "Humanoid. Cultist.  Brotherhood.",
+              "Nickname": "納迪婭·尼姆爾",
+              "Description": "類人. 異教徒. 兄弟會.",
               "GMNotes": "{\n  \"id\": \"83033a\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Humanoid. Cultist. Brotherhood.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -3077,8 +3077,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -3104,8 +3104,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Dr. Layla El Masri",
-              "Description": "Humanoid. Cultist. \nBrotherhood. ",
+              "Nickname": "萊拉·艾爾·馬斯瑞博士",
+              "Description": "類人. 異教徒. 兄弟會.",
               "GMNotes": "{\n  \"id\": \"83031a\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Cultist. Brotherhood.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -3138,8 +3138,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -3165,8 +3165,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Professor Nathaniel Taylor",
-              "Description": "Humanoid. Cultist. \nBrotherhood. ",
+              "Nickname": "納撒尼爾·泰勒教授",
+              "Description": "類人. 異教徒. 兄弟會.",
               "GMNotes": "{\n  \"id\": \"83036a\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Cultist. Brotherhood.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -3199,8 +3199,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -3226,8 +3226,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Farid",
-              "Description": "Humanoid. Cultist. \nBrotherhood. ",
+              "Nickname": "法利得",
+              "Description": "類人. 異教徒. 兄弟會.",
               "GMNotes": "{\n  \"id\": \"83034a\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Cultist. Brotherhood.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -3260,8 +3260,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -3287,8 +3287,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Nassor",
-              "Description": "Humanoid. Cultist. \nBrotherhood. ",
+              "Nickname": "納賽爾",
+              "Description": "類人. 異教徒. 兄弟會.",
               "GMNotes": "{\n  \"id\": \"83035a\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Cultist. Brotherhood.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -3321,8 +3321,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -3348,8 +3348,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Dr. Wentworth Moore",
-              "Description": "Humanoid. Cultist. \nBrotherhood. ",
+              "Nickname": "溫特沃斯·摩爾博士",
+              "Description": "類人. 異教徒. 兄弟會.",
               "GMNotes": "{\n  \"id\": \"83032a\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Cultist. Brotherhood.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -3382,8 +3382,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -3412,7 +3412,7 @@
             "scaleZ": 0.7
           },
           "Nickname": "Scenario",
-          "Description": "The Night's Usurper - Hard/Expert",
+          "Description": "夜之亂臣",
           "GMNotes": "{\"type\":\"ScenarioReference\",\"class\":\"Mythos\",\"tokens\":{\"front\":{\"Cultist\":{\"description\":\"Reveal another token. If you fail and the strength of the abyss is 5 or lower, add 1 strength to the abyss.\",\"modifier\":0},\"Elder Thing\":{\"description\":\"-5. If you succeed and the strength of the abyss is 4 or more, remove 1 strength from the abyss.\",\"modifier\":-5},\"Skull\":{\"description\":\"-X. X is one more than the strength of the abyss.\",\"modifier\":-999},\"Tablet\":{\"description\":\"-3. For this skill test, ignore all bonuses to your skill value.\",\"modifier\":-3}}},\"id\":\"83016\"}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3439,7 +3439,7 @@
           "HideWhenFaceDown": false,
           "Hands": false,
           "CustomImage": {
-            "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218888891/831A733D2F232184F0DB6134F069EE2F98175485/",
+            "ImageURL": "https://dl.dropboxusercontent.com/scl/fi/4sj0kt1q5imo57d3omtou/6604f6641ea342868a2707f3f554b49e.jpg?rlkey=008viiws8dl9zg7d658zkhfpp&dl=0",
             "ImageSecondaryURL": "",
             "ImageScalar": 1.0,
             "WidthScale": 0.0,
@@ -3469,7 +3469,7 @@
             "scaleZ": 0.7
           },
           "Nickname": "Scenario",
-          "Description": "The Night's Usurper - Easy/Standard",
+          "Description": "夜之亂臣",
           "GMNotes": "{\"type\":\"ScenarioReference\",\"class\":\"Mythos\",\"tokens\":{\"front\":{\"Cultist\":{\"description\":\"Reveal another token. If you fail and the strength of the abyss is 3 or lower, add 1 strength to the abyss.\",\"modifier\":0},\"Elder Thing\":{\"description\":\"-4. If you succeed and the strength of the abyss is 4 or more, remove 1 strength from the abyss.\",\"modifier\":-4},\"Skull\":{\"description\":\"-X. X is the strength of the abyss.\",\"modifier\":-999},\"Tablet\":{\"description\":\"-1. For this skill test, ignore all bonuses to your skill value.\",\"modifier\":-1}}},\"id\":\"83016\"}",
           "AltLookAngle": {
             "x": 0.0,
@@ -3496,7 +3496,7 @@
           "HideWhenFaceDown": false,
           "Hands": false,
           "CustomImage": {
-            "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218885601/6B37D2009EF59DD62A0AA08D2CE8A46E14DD4FEE/",
+            "ImageURL": "https://dl.dropboxusercontent.com/scl/fi/qkfyqbcygmifr3gvnlq8o/dd14334f02e04c44a5ac30c6697f7011.jpg?rlkey=u4e19okoelpyiqvsqb8hrmgtv&dl=0",
             "ImageSecondaryURL": "",
             "ImageScalar": 1.0,
             "WidthScale": 0.0,
@@ -3560,8 +3560,8 @@
           ],
           "CustomDeck": {
             "4483": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1723164938912426502/5256CD7EBB3950C9ACEA29AEEDC2C962E033BE47/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1723164938912426673/269D77168965F22EE72041C9C027AA5C269BF851/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/pmj6so3aasiicrt2eox8z/323852b70874483aacbe57171ba97701.jpg?rlkey=2svmxk06k8hvybolg05u3vbt1&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/vjv16y28ujx82akm3bk3k/c888d99c80ee47f69480574c94607468.jpg?rlkey=njg72txcm5xm1fskbei7krh1u&dl=0",
               "NumWidth": 3,
               "NumHeight": 2,
               "BackIsHidden": true,
@@ -3587,8 +3587,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "The Night's Usurper",
-              "Description": "Act 3",
+              "Nickname": "夜之亂臣",
+              "Description": "",
               "GMNotes": "{\n  \"id\": \"83021\",\n  \"type\": \"Act\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -3621,8 +3621,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "4483": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1723164938912426502/5256CD7EBB3950C9ACEA29AEEDC2C962E033BE47/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1723164938912426673/269D77168965F22EE72041C9C027AA5C269BF851/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/pmj6so3aasiicrt2eox8z/323852b70874483aacbe57171ba97701.jpg?rlkey=2svmxk06k8hvybolg05u3vbt1&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/vjv16y28ujx82akm3bk3k/c888d99c80ee47f69480574c94607468.jpg?rlkey=njg72txcm5xm1fskbei7krh1u&dl=0",
                   "NumWidth": 3,
                   "NumHeight": 2,
                   "BackIsHidden": true,
@@ -3648,8 +3648,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Into the Gate",
-              "Description": "Act 2",
+              "Nickname": "踏進入口",
+              "Description": "",
               "GMNotes": "{\n  \"id\": \"83020\",\n  \"type\": \"Act\",\n  \"class\": \"Mythos\",\n  \"clueThresholdPerInvestigator\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -3682,8 +3682,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "4483": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1723164938912426502/5256CD7EBB3950C9ACEA29AEEDC2C962E033BE47/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1723164938912426673/269D77168965F22EE72041C9C027AA5C269BF851/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/pmj6so3aasiicrt2eox8z/323852b70874483aacbe57171ba97701.jpg?rlkey=2svmxk06k8hvybolg05u3vbt1&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/vjv16y28ujx82akm3bk3k/c888d99c80ee47f69480574c94607468.jpg?rlkey=njg72txcm5xm1fskbei7krh1u&dl=0",
                   "NumWidth": 3,
                   "NumHeight": 2,
                   "BackIsHidden": true,
@@ -3709,8 +3709,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Search for the Gate",
-              "Description": "Act 1",
+              "Nickname": "搜尋入口",
+              "Description": "",
               "GMNotes": "{\n  \"id\": \"83019\",\n  \"type\": \"Act\",\n  \"class\": \"Mythos\",\n  \"clueThresholdPerInvestigator\": 2,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -3743,8 +3743,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "4483": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1723164938912426502/5256CD7EBB3950C9ACEA29AEEDC2C962E033BE47/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1723164938912426673/269D77168965F22EE72041C9C027AA5C269BF851/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/pmj6so3aasiicrt2eox8z/323852b70874483aacbe57171ba97701.jpg?rlkey=2svmxk06k8hvybolg05u3vbt1&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/vjv16y28ujx82akm3bk3k/c888d99c80ee47f69480574c94607468.jpg?rlkey=njg72txcm5xm1fskbei7krh1u&dl=0",
                   "NumWidth": 3,
                   "NumHeight": 2,
                   "BackIsHidden": true,
@@ -3815,8 +3815,8 @@
           ],
           "CustomDeck": {
             "2712": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -3842,8 +3842,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Nile River",
-              "Description": "Expedition. Desert.",
+              "Nickname": "尼羅河",
+              "Description": "探險. 沙漠.",
               "GMNotes": "{\n  \"id\": \"83038\",\n  \"type\": \"Location\",\n  \"traits\": \"Expedition. Desert.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Crescent\",\n    \"connections\": \"Circle|Star|Heart|Hourglass\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -3877,8 +3877,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -3904,8 +3904,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Swarm of Locusts",
-              "Description": "Power.",
+              "Nickname": "蝗蟲成群",
+              "Description": "力量.",
               "GMNotes": "{\n  \"id\": \"83050\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -3938,8 +3938,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -3965,8 +3965,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Sandswept Ruins",
-              "Description": "Expedition. Desert. Ruins.",
+              "Nickname": "沙塵遺跡",
+              "Description": "探險. 沙漠. 遺跡.",
               "GMNotes": "{\n  \"id\": \"83044\",\n  \"type\": \"Location\",\n  \"traits\": \"Expedition. Desert. Ruins.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Tee\",\n    \"connections\": \"Tilde|Plus|Hourglass|Apostrophe\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -4000,8 +4000,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -4027,8 +4027,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Terror Under the Pyramids",
-              "Description": "Scheme.",
+              "Nickname": "金字塔下的恐怖",
+              "Description": "陰謀.",
               "GMNotes": "{\n  \"id\": \"83049\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Scheme.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -4061,8 +4061,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -4088,8 +4088,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Desert Oasis",
-              "Description": "Expedition. Desert.",
+              "Nickname": "沙漠綠洲",
+              "Description": "探險. 沙漠.",
               "GMNotes": "{\n  \"id\": \"83043\",\n  \"type\": \"Location\",\n  \"traits\": \"Expedition. Desert.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Heart\",\n    \"connections\": \"Star|Crescent|Hourglass|Apostrophe\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -4123,8 +4123,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -4150,8 +4150,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "The Black Wind",
-              "Description": "Power.",
+              "Nickname": "黑風",
+              "Description": "力量.",
               "GMNotes": "{\n  \"id\": \"83053\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -4184,8 +4184,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -4211,8 +4211,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Faceless Sphinx",
-              "Description": "Expedition. Desert. Ruins.",
+              "Nickname": "獅身無面像",
+              "Description": "探險. 沙漠. 遺跡.",
               "GMNotes": "{\n  \"id\": \"83042\",\n  \"type\": \"Location\",\n  \"traits\": \"Expedition. Desert. Ruins.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Star\",\n    \"connections\": \"Crescent|Heart\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -4246,8 +4246,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -4273,8 +4273,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Sands of Dashur",
-              "Description": "Expedition. Desert.",
+              "Nickname": "代赫舒爾沙漠",
+              "Description": "探險. 沙漠.",
               "GMNotes": "{\n  \"id\": \"83039\",\n  \"type\": \"Location\",\n  \"traits\": \"Expedition. Desert.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Hourglass\",\n    \"connections\": \"Circle|Plus|Tee|Apostrophe|Heart|Crescent\"\n  }\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -4308,8 +4308,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -4335,8 +4335,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Untouched Vault",
-              "Description": "Expedition. Ruins.",
+              "Nickname": "避世墓穴",
+              "Description": "探險. 遺跡.",
               "GMNotes": "{\n  \"id\": \"83041\",\n  \"type\": \"Location\",\n  \"traits\": \"Expedition. Ruins.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Tilde\",\n    \"connections\": \"Plus|Tee\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -4370,8 +4370,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -4397,8 +4397,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Dunes of the Sahara",
-              "Description": "Expedition. Desert.",
+              "Nickname": "撒哈拉沙丘",
+              "Description": "探險. 沙漠.",
               "GMNotes": "{\n  \"id\": \"83040\",\n  \"type\": \"Location\",\n  \"traits\": \"Expedition. Desert.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Plus\",\n    \"connections\": \"Circle|Hourglass|Tee|Tilde\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -4432,8 +4432,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -4459,8 +4459,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Abyssal Reach",
-              "Description": "Curse. Abyss.",
+              "Nickname": "深淵領域",
+              "Description": "詛咒. 深淵.",
               "GMNotes": "{\n  \"id\": \"83054\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse. Abyss.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -4493,8 +4493,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -4699,8 +4699,8 @@
           ],
           "CustomDeck": {
             "2699": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -4726,8 +4726,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Farid",
-              "Description": "Humanoid. Cultist. \nBrotherhood. ",
+              "Nickname": "法利得",
+              "Description": "類人. 異教徒. 兄弟會.",
               "GMNotes": "{\n  \"id\": \"83034a\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Cultist. Brotherhood.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -4760,8 +4760,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -4787,8 +4787,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Dr. Wentworth Moore",
-              "Description": "Humanoid. Cultist. \nBrotherhood. ",
+              "Nickname": "溫特沃斯·摩爾博士",
+              "Description": "類人. 異教徒. 兄弟會.",
               "GMNotes": "{\n  \"id\": \"83032a\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Cultist. Brotherhood.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -4821,8 +4821,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -4848,8 +4848,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Nassor",
-              "Description": "Humanoid. Cultist. \nBrotherhood. ",
+              "Nickname": "納賽爾",
+              "Description": "類人. 異教徒. 兄弟會.",
               "GMNotes": "{\n  \"id\": \"83035a\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Cultist. Brotherhood.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -4882,8 +4882,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -4909,8 +4909,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Dr. Layla El Masri",
-              "Description": "Humanoid. Cultist. \nBrotherhood. ",
+              "Nickname": "萊拉·艾爾·馬斯瑞博士",
+              "Description": "類人. 異教徒. 兄弟會.",
               "GMNotes": "{\n  \"id\": \"83031a\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Cultist. Brotherhood.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -4943,8 +4943,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -4970,8 +4970,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Professor Nathaniel Taylor",
-              "Description": "Humanoid. Cultist. \nBrotherhood. ",
+              "Nickname": "納撒尼爾·泰勒教授",
+              "Description": "類人. 異教徒. 兄弟會.",
               "GMNotes": "{\n  \"id\": \"83036a\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Cultist. Brotherhood.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -5004,8 +5004,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -5031,8 +5031,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Nadia Nimr ",
-              "Description": "Humanoid. Cultist.  Brotherhood.",
+              "Nickname": "納迪婭·尼姆爾",
+              "Description": "類人. 異教徒. 兄弟會.",
               "GMNotes": "{\n  \"id\": \"83033a\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Humanoid. Cultist. Brotherhood.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -5065,8 +5065,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -5129,8 +5129,8 @@
           ],
           "CustomDeck": {
             "2716": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -5156,8 +5156,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Garden of Shadows",
-              "Description": "Agenda 3",
+              "Nickname": "影之園",
+              "Description": "",
               "GMNotes": "{\n  \"id\": \"83004\",\n  \"type\": \"Agenda\",\n  \"class\": \"Mythos\",\n  \"doomThreshold\": 5,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -5190,8 +5190,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2662": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -5217,8 +5217,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Curse of the Abyss",
-              "Description": "Agenda 2",
+              "Nickname": "深淵的詛咒",
+              "Description": "",
               "GMNotes": "{\n  \"id\": \"83003\",\n  \"type\": \"Agenda\",\n  \"class\": \"Mythos\",\n  \"doomThreshold\": 6,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -5251,8 +5251,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2662": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -5278,8 +5278,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Jessie's Request",
-              "Description": "Agenda 1",
+              "Nickname": "傑西的請求",
+              "Description": "",
               "GMNotes": "{\n  \"id\": \"83002\",\n  \"type\": \"Agenda\",\n  \"class\": \"Mythos\",\n  \"doomThreshold\": 7,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -5312,8 +5312,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2662": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -5341,8 +5341,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Expedition Camp",
-          "Description": "Expedition. Cairo. Desert.",
+          "Nickname": "探險營地",
+          "Description": "探險. 開羅. 沙漠.",
           "GMNotes": "{\n  \"id\": \"83037\",\n  \"type\": \"Location\",\n  \"traits\": \"Expedition. Cairo. Desert.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Circle\",\n    \"connections\": \"Diamond|Hourglass|Crescent|Plus\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Circle\",\n    \"connections\": \"Diamond|Hourglass|Crescent|Plus\"\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -5376,8 +5376,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2701": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -5463,8 +5463,8 @@
           ],
           "CustomDeck": {
             "2702": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -5490,8 +5490,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Creature from the Abyss",
-              "Description": "Monster. Dreamlands.",
+              "Nickname": "深淵造物",
+              "Description": "怪物. 幻夢境.",
               "GMNotes": "{\n  \"id\": \"83015\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Dreamlands.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -5524,8 +5524,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -5551,8 +5551,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Dark Sacrifice",
-              "Description": "Curse. Abyss.",
+              "Nickname": "黑暗祭牲",
+              "Description": "詛咒. 深淵.",
               "GMNotes": "{\n  \"id\": \"83052\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse. Abyss.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -5585,8 +5585,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -5612,8 +5612,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Dark Sacrifice",
-              "Description": "Curse. Abyss.",
+              "Nickname": "黑暗祭牲",
+              "Description": "詛咒. 深淵.",
               "GMNotes": "{\n  \"id\": \"83052\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse. Abyss.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -5646,8 +5646,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -5673,8 +5673,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Abyssal Reach",
-              "Description": "Curse. Abyss.",
+              "Nickname": "深淵領域",
+              "Description": "詛咒. 深淵.",
               "GMNotes": "{\n  \"id\": \"83054\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse. Abyss.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -5707,8 +5707,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -5734,8 +5734,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Abyssal Reach",
-              "Description": "Curse. Abyss.",
+              "Nickname": "深淵領域",
+              "Description": "詛咒. 深淵.",
               "GMNotes": "{\n  \"id\": \"83054\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse. Abyss.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -5768,8 +5768,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -5795,8 +5795,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Abyssal Reach",
-              "Description": "Curse. Abyss.",
+              "Nickname": "深淵領域",
+              "Description": "詛咒. 深淵.",
               "GMNotes": "{\n  \"id\": \"83054\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse. Abyss.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -5829,8 +5829,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -5856,8 +5856,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Eclipse",
-              "Description": "Power.",
+              "Nickname": "日蝕",
+              "Description": "力量.",
               "GMNotes": "{\n  \"id\": \"83047\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -5890,8 +5890,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -5917,8 +5917,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Eclipse",
-              "Description": "Power.",
+              "Nickname": "日蝕",
+              "Description": "力量.",
               "GMNotes": "{\n  \"id\": \"83047\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -5951,8 +5951,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -5978,8 +5978,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Eclipse",
-              "Description": "Power.",
+              "Nickname": "日蝕",
+              "Description": "力量.",
               "GMNotes": "{\n  \"id\": \"83047\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -6012,8 +6012,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -6039,8 +6039,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Slumber",
-              "Description": "Curse. Abyss.",
+              "Nickname": "沉睡",
+              "Description": "詛咒. 深淵.",
               "GMNotes": "{\n  \"id\": \"83051\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse. Abyss.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -6073,8 +6073,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -6100,8 +6100,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Slumber",
-              "Description": "Curse. Abyss.",
+              "Nickname": "沉睡",
+              "Description": "詛咒. 深淵.",
               "GMNotes": "{\n  \"id\": \"83051\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Curse. Abyss.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -6134,8 +6134,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -6161,8 +6161,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Swarm of Locusts",
-              "Description": "Power.",
+              "Nickname": "蝗蟲成群",
+              "Description": "力量.",
               "GMNotes": "{\n  \"id\": \"83050\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -6195,8 +6195,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -6222,8 +6222,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Swarm of Locusts",
-              "Description": "Power.",
+              "Nickname": "蝗蟲成群",
+              "Description": "力量.",
               "GMNotes": "{\n  \"id\": \"83050\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -6256,8 +6256,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -6283,8 +6283,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Swarm of Locusts",
-              "Description": "Power.",
+              "Nickname": "蝗蟲成群",
+              "Description": "力量.",
               "GMNotes": "{\n  \"id\": \"83050\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -6317,8 +6317,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -6344,8 +6344,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "The Black Wind",
-              "Description": "Power.",
+              "Nickname": "黑風",
+              "Description": "力量.",
               "GMNotes": "{\n  \"id\": \"83053\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -6378,8 +6378,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -6405,8 +6405,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "The Black Wind",
-              "Description": "Power.",
+              "Nickname": "黑風",
+              "Description": "力量.",
               "GMNotes": "{\n  \"id\": \"83053\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Power.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -6439,8 +6439,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -6466,8 +6466,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Terror Under the Pyramids",
-              "Description": "Scheme.",
+              "Nickname": "金字塔下的恐怖",
+              "Description": "陰謀.",
               "GMNotes": "{\n  \"id\": \"83049\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Scheme.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -6500,8 +6500,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -6527,8 +6527,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Terror Under the Pyramids",
-              "Description": "Scheme.",
+              "Nickname": "金字塔下的恐怖",
+              "Description": "陰謀.",
               "GMNotes": "{\n  \"id\": \"83049\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Scheme.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -6561,8 +6561,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -6588,8 +6588,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Terror Under the Pyramids",
-              "Description": "Scheme.",
+              "Nickname": "金字塔下的恐怖",
+              "Description": "陰謀.",
               "GMNotes": "{\n  \"id\": \"83049\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Scheme.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -6622,8 +6622,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -6649,8 +6649,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Sandstorm",
-              "Description": "Hazard.",
+              "Nickname": "沙塵暴",
+              "Description": "危險.",
               "GMNotes": "{\n  \"id\": \"83048\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -6683,8 +6683,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -6710,8 +6710,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Sandstorm",
-              "Description": "Hazard.",
+              "Nickname": "沙塵暴",
+              "Description": "危險.",
               "GMNotes": "{\n  \"id\": \"83048\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -6744,8 +6744,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -6771,8 +6771,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Sandstorm",
-              "Description": "Hazard.",
+              "Nickname": "沙塵暴",
+              "Description": "危險.",
               "GMNotes": "{\n  \"id\": \"83048\",\n  \"type\": \"Treachery\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Hazard.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -6805,8 +6805,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -6832,8 +6832,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Thing in the Sarcophagus",
-              "Description": "Monster.",
+              "Nickname": "棺中之物",
+              "Description": "怪物.",
               "GMNotes": "{\n  \"id\": \"83046\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -6866,8 +6866,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -6893,8 +6893,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Thing in the Sarcophagus",
-              "Description": "Monster.",
+              "Nickname": "棺中之物",
+              "Description": "怪物.",
               "GMNotes": "{\n  \"id\": \"83046\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -6927,8 +6927,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -6954,8 +6954,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Humble Supplicant",
-              "Description": "Humanoid. Cultist.",
+              "Nickname": "謙恭教徒",
+              "Description": "類人. 異教徒.",
               "GMNotes": "{\n  \"id\": \"83014\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Cultist.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -6988,8 +6988,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -7015,8 +7015,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Humble Supplicant",
-              "Description": "Humanoid. Cultist.",
+              "Nickname": "謙恭教徒",
+              "Description": "類人. 異教徒.",
               "GMNotes": "{\n  \"id\": \"83014\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Cultist.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -7049,8 +7049,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -7076,8 +7076,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Humble Supplicant",
-              "Description": "Humanoid. Cultist.",
+              "Nickname": "謙恭教徒",
+              "Description": "類人. 異教徒.",
               "GMNotes": "{\n  \"id\": \"83014\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Cultist.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -7110,8 +7110,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -7137,8 +7137,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Creature from the Abyss",
-              "Description": "Monster. Dreamlands.",
+              "Nickname": "深淵造物",
+              "Description": "怪物. 幻夢境.",
               "GMNotes": "{\n  \"id\": \"83015\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Dreamlands.\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -7171,8 +7171,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -7235,8 +7235,8 @@
           ],
           "CustomDeck": {
             "2717": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -7262,8 +7262,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "The Hour of Judgment",
-              "Description": "Act 3",
+              "Nickname": "審判之刻",
+              "Description": "",
               "GMNotes": "{\n  \"id\": \"83007\",\n  \"type\": \"Act\",\n  \"class\": \"Mythos\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -7296,8 +7296,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2662": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -7323,8 +7323,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Secrets in the Sand",
-              "Description": "Act 2",
+              "Nickname": "沙漠中的秘密",
+              "Description": "",
               "GMNotes": "{\n  \"id\": \"83006\",\n  \"type\": \"Act\",\n  \"class\": \"Mythos\",\n  \"clueThresholdPerInvestigator\": 3,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -7357,8 +7357,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2662": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -7384,8 +7384,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Curse of Endless Sleep ",
-              "Description": "Act 1",
+              "Nickname": "長眠詛咒",
+              "Description": "",
               "GMNotes": "{\n  \"id\": \"83005\",\n  \"type\": \"Act\",\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -7418,8 +7418,8 @@
               "SidewaysCard": true,
               "CustomDeck": {
                 "2662": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -7447,8 +7447,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Streets of Cairo",
-          "Description": "Cairo.",
+          "Nickname": "開羅街道",
+          "Description": "開羅.",
           "GMNotes": "{\n  \"id\": \"83008\",\n  \"type\": \"Location\",\n  \"traits\": \"Cairo.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"SlantedEquals\",\n    \"connections\": \"Diamond|Triangle|Square|Clover\"\n  },\n  \"locationBack\": {\n    \"icons\": \"SlantedEquals\",\n    \"connections\": \"Diamond|Triangle|Square|Clover\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 2,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -7482,8 +7482,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2701": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -7643,8 +7643,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Neith",
-              "Description": "Humanoid. Cultist. \nBrotherhood. ",
+              "Nickname": "奈斯",
+              "Description": "類人. 兄弟會. 精英.",
               "GMNotes": "{\n  \"id\": \"83013\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Humanoid. Brotherhood. Elite.\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -7677,8 +7677,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -7704,8 +7704,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "Ancient Ankh",
-              "Description": "Item. Relic.",
+              "Nickname": "古代安可架",
+              "Description": "道具. 遺物.",
               "GMNotes": "{\n  \"id\": \"83056\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"cost\": 3,\n  \"traits\": \"Item. Relic.\",\n  \"willpowerIcons\": 1,\n  \"intellectIcons\": 1,\n  \"wildIcons\": 1,\n  \"uses\": [\n    {\n      \"count\": 4,\n      \"type\": \"Charge\",\n      \"token\": \"resource\"\n    }\n  ],\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -7739,8 +7739,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -7766,8 +7766,8 @@
                 "scaleY": 1.0,
                 "scaleZ": 1.0
               },
-              "Nickname": "John & Jessie Burke",
-              "Description": "Ally. Government.",
+              "Nickname": "約翰＆傑西·伯克",
+              "Description": "盟友. 政府.",
               "GMNotes": "{\n  \"id\": \"83055\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\",\n  \"cost\": 4,\n  \"traits\": \"Ally. Government.\",\n  \"combatIcons\": 1,\n  \"agilityIcons\": 1,\n  \"wildIcons\": 1,\n  \"cycle\": \"Standalone\"\n}",
               "AltLookAngle": {
                 "x": 0.0,
@@ -7801,8 +7801,8 @@
               "SidewaysCard": false,
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -7867,8 +7867,8 @@
               ],
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -7894,8 +7894,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Dunes of the Sahara",
-                  "Description": "Expedition. Desert.",
+                  "Nickname": "撒哈拉沙丘",
+                  "Description": "探險. 沙漠.",
                   "GMNotes": "{\n  \"id\": \"83040\",\n  \"type\": \"Location\",\n  \"traits\": \"Expedition. Desert.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Plus\",\n    \"connections\": \"Circle|Hourglass|Tee|Tilde\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -7929,8 +7929,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2661": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -7956,8 +7956,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Faceless Sphinx",
-                  "Description": "Expedition. Desert. Ruins.",
+                  "Nickname": "獅身無面像",
+                  "Description": "探險. 沙漠. 遺跡.",
                   "GMNotes": "{\n  \"id\": \"83042\",\n  \"type\": \"Location\",\n  \"traits\": \"Expedition. Desert. Ruins.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Star\",\n    \"connections\": \"Crescent|Heart\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -7991,8 +7991,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2661": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -8018,8 +8018,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Nile River",
-                  "Description": "Expedition. Desert.",
+                  "Nickname": "尼羅河",
+                  "Description": "探險. 沙漠.",
                   "GMNotes": "{\n  \"id\": \"83038\",\n  \"type\": \"Location\",\n  \"traits\": \"Expedition. Desert.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Crescent\",\n    \"connections\": \"Circle|Star|Heart|Hourglass\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -8053,8 +8053,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2661": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -8080,8 +8080,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Sandswept Ruins",
-                  "Description": "Expedition. Desert. Ruins.",
+                  "Nickname": "沙塵遺跡",
+                  "Description": "探險. 沙漠. 遺跡.",
                   "GMNotes": "{\n  \"id\": \"83044\",\n  \"type\": \"Location\",\n  \"traits\": \"Expedition. Desert. Ruins.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Tee\",\n    \"connections\": \"Tilde|Plus|Hourglass|Apostrophe\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -8115,8 +8115,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2661": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -8142,8 +8142,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Sands of Dashur",
-                  "Description": "Expedition. Desert.",
+                  "Nickname": "代赫舒爾沙漠",
+                  "Description": "探險. 沙漠.",
                   "GMNotes": "{\n  \"id\": \"83039\",\n  \"type\": \"Location\",\n  \"traits\": \"Expedition. Desert.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Hourglass\",\n    \"connections\": \"Circle|Plus|Tee|Apostrophe|Heart|Crescent\"\n  }\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -8177,8 +8177,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2661": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -8204,8 +8204,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Untouched Vault",
-                  "Description": "Expedition. Ruins.",
+                  "Nickname": "避世墓穴",
+                  "Description": "探險. 遺跡.",
                   "GMNotes": "{\n  \"id\": \"83041\",\n  \"type\": \"Location\",\n  \"traits\": \"Expedition. Ruins.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Tilde\",\n    \"connections\": \"Plus|Tee\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -8239,8 +8239,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2661": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -8266,8 +8266,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Desert Oasis",
-                  "Description": "Expedition. Desert.",
+                  "Nickname": "沙漠綠洲",
+                  "Description": "探險. 沙漠.",
                   "GMNotes": "{\n  \"id\": \"83043\",\n  \"type\": \"Location\",\n  \"traits\": \"Expedition. Desert.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Heart\",\n    \"connections\": \"Star|Crescent|Hourglass|Apostrophe\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -8301,8 +8301,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2661": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -8364,8 +8364,8 @@
               ],
               "CustomDeck": {
                 "2661": {
-                  "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                  "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                  "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                  "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                   "NumWidth": 10,
                   "NumHeight": 5,
                   "BackIsHidden": true,
@@ -8391,8 +8391,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Abyssal Revenant",
-                  "Description": "Monster. Dreamlands.",
+                  "Nickname": "深淵亡魂",
+                  "Description": "怪物. 幻夢境.",
                   "GMNotes": "{\n  \"id\": \"83045\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Dreamlands.\",\n  \"cycle\": \"Standalone\"\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -8425,8 +8425,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2661": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -8452,8 +8452,8 @@
                     "scaleY": 1.0,
                     "scaleZ": 1.0
                   },
-                  "Nickname": "Abyssal Revenant",
-                  "Description": "Monster. Dreamlands.",
+                  "Nickname": "深淵亡魂",
+                  "Description": "怪物. 幻夢境.",
                   "GMNotes": "{\n  \"id\": \"83045\",\n  \"type\": \"Enemy\",\n  \"class\": \"Mythos\",\n  \"traits\": \"Monster. Dreamlands.\",\n  \"cycle\": \"Standalone\"\n}",
                   "AltLookAngle": {
                     "x": 0.0,
@@ -8486,8 +8486,8 @@
                   "SidewaysCard": false,
                   "CustomDeck": {
                     "2661": {
-                      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-                      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+                      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+                      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
                       "NumWidth": 10,
                       "NumHeight": 5,
                       "BackIsHidden": true,
@@ -8517,8 +8517,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Outskirts of Cairo",
-          "Description": "Cairo.",
+          "Nickname": "開羅市郊",
+          "Description": "開羅.",
           "GMNotes": "{\n  \"id\": \"83011\",\n  \"type\": \"Location\",\n  \"traits\": \"Cairo.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Diamond\",\n    \"connections\": \"Circle|Triangle|SlantedEquals|Clover\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Diamond\",\n    \"connections\": \"Circle|Triangle|SlantedEquals|Clover\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -8552,8 +8552,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2701": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -8580,7 +8580,7 @@
             "scaleZ": 0.7
           },
           "Nickname": "Scenario",
-          "Description": "The Eternal Slumber - Hard/Expert",
+          "Description": "永恆沉睡",
           "GMNotes": "{\"type\":\"ScenarioReference\",\"class\":\"Mythos\",\"tokens\":{\"front\":{\"Cultist\":{\"description\":\"Reveal another token. If you fail and the strength of the abyss is 5 or lower, add 1 strength to the abyss.\",\"modifier\":0},\"Elder Thing\":{\"description\":\"-6. You may add 1 strength to the abyss to automatically succeed, instead.\",\"modifier\":-6},\"Skull\":{\"description\":\"-X. X is one more than the strength of the abyss.\",\"modifier\":-999},\"Tablet\":{\"description\":\"-2. For this skill test, ignore all bonuses to your skill value.\",\"modifier\":-2}}},\"id\":\"83001\"}",
           "AltLookAngle": {
             "x": 0.0,
@@ -8607,7 +8607,7 @@
           "HideWhenFaceDown": false,
           "Hands": false,
           "CustomImage": {
-            "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218878318/57281F99E23019EEBCF5702FA015B7EA0B86BE1F/",
+            "ImageURL": "https://dl.dropboxusercontent.com/scl/fi/zijh3g1dfr5u8qi6vrac1/ae08a772893140a09ba0c9f74d994f5a.jpg?rlkey=p5mko1x77edtzzq2owx09wyjc&dl=0",
             "ImageSecondaryURL": "",
             "ImageScalar": 1.0,
             "WidthScale": 0.0,
@@ -8636,8 +8636,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Cairo Bazaar",
-          "Description": "Cairo.",
+          "Nickname": "開羅巴扎",
+          "Description": "開羅.",
           "GMNotes": "{\n  \"id\": \"83009\",\n  \"type\": \"Location\",\n  \"traits\": \"Cairo.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Square\",\n    \"connections\": \"Triangle|SlantedEquals|Clover\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Square\",\n    \"connections\": \"Triangle|SlantedEquals|Clover\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -8671,8 +8671,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2701": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -8699,7 +8699,7 @@
             "scaleZ": 0.7
           },
           "Nickname": "Scenario",
-          "Description": "The Eternal Slumber - Easy/Standard",
+          "Description": "永恆沉睡",
           "GMNotes": "{\"type\":\"ScenarioReference\",\"class\":\"Mythos\",\"tokens\":{\"front\":{\"Cultist\":{\"description\":\"Reveal another token. If you fail and the strength of the abyss is 3 or lower, add 1 strength to the abyss.\",\"modifier\":0},\"Elder Thing\":{\"description\":\"-5. You may add 1 strength to the abyss to automatically succeed, instead.\",\"modifier\":-5},\"Skull\":{\"description\":\"-X. X is the strength of the abyss.\",\"modifier\":-999},\"Tablet\":{\"description\":\"0. For this skill test, ignore all bonuses to your skill value.\",\"modifier\":0}}},\"id\":\"83001\"}",
           "AltLookAngle": {
             "x": 0.0,
@@ -8726,7 +8726,7 @@
           "HideWhenFaceDown": false,
           "Hands": false,
           "CustomImage": {
-            "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218882527/EB8E16A5C1B3FBFA38945C119F7E87A3CAECD3F4/",
+            "ImageURL": "https://dl.dropboxusercontent.com/scl/fi/712fmz12e9dod4pzuyqsx/a94f4091937b452c8c10f34a990d5ff6.jpg?rlkey=cse7ob3qjot5kcxex928hp9ey&dl=0",
             "ImageSecondaryURL": "",
             "ImageScalar": 1.0,
             "WidthScale": 0.0,
@@ -8755,8 +8755,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Temple Courtyard",
-          "Description": "Cairo.",
+          "Nickname": "神廟庭院",
+          "Description": "開羅.",
           "GMNotes": "{\n  \"id\": \"83012\",\n  \"type\": \"Location\",\n  \"traits\": \"Cairo.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Clover\",\n    \"connections\": \"Diamond|SlantedEquals|Square\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Clover\",\n    \"connections\": \"Diamond|SlantedEquals|Square\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -8790,8 +8790,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2701": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
@@ -8817,8 +8817,8 @@
             "scaleY": 1.0,
             "scaleZ": 1.0
           },
-          "Nickname": "Museum of Egyptian Antiquities",
-          "Description": "Cairo.",
+          "Nickname": "埃及博物館",
+          "Description": "開羅.",
           "GMNotes": "{\n  \"id\": \"83010\",\n  \"type\": \"Location\",\n  \"traits\": \"Cairo.\",\n  \"cycle\": \"Standalone\",\n  \"locationFront\": {\n    \"icons\": \"Triangle\",\n    \"connections\": \"Diamond|SlantedEquals|Square\"\n  },\n  \"locationBack\": {\n    \"icons\": \"Triangle\",\n    \"connections\": \"Diamond|SlantedEquals|Square\",\n    \"uses\": [\n      {\n        \"countPerInvestigator\": 1,\n        \"type\": \"Clue\",\n        \"token\": \"clue\"\n      }\n    ]\n  }\n}",
           "AltLookAngle": {
             "x": 0.0,
@@ -8852,8 +8852,8 @@
           "SidewaysCard": false,
           "CustomDeck": {
             "2701": {
-              "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218921670/8EF5B59C1AC4559A3947140F08010D8B014A11E9/",
-              "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191218923075/6DE3A0F2FBB17DAA8374540DBE43CE6BD65EB541/",
+              "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ohl3paic94gc5mc9milup/205a40a703a346f18ba22a46173eced8.jpg?rlkey=nelhtf6q5tihlyu7gleyh94cp&dl=0",
+              "BackURL": "https://dl.dropboxusercontent.com/scl/fi/snyjdwi3dwhlwhm04uzx0/a35c58409c7c46ebaa5efc0daa81b76c.jpg?rlkey=15i99cb1xdtoyuj6qvremxseq&dl=0",
               "NumWidth": 10,
               "NumHeight": 5,
               "BackIsHidden": true,
